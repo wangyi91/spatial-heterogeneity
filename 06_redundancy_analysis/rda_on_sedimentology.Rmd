@@ -1,0 +1,375 @@
+
+RDA using sedimentological data as explanatory variables
+
+```{r, message=FALSE}
+#library(ade4)
+library(vegan) # function rda
+#library(FactoMineR)
+#library(factoextra) # to vis PCA
+library(metabaR)
+library(ggplot2)
+#library(cowplot)
+library(dplyr)
+#library(reshape2)
+#library(stringr) # for string manipulation
+#library(data.table)
+library(fuzzyjoin) # to join by coordinates of sedimentological data using inexact match
+
+#library(RColorBrewer) # to visualise color palette
+#library(dendextend) # to manage clustering dendrogram
+#library(colorspace)# to work with dendextend
+library(ggthemes)
+#library(ggord) # plot ordination plots with ggplot
+
+# source function to plot coordinates of samples
+#source("../00_R-repository/plot_utm_on_map.R")
+
+#import presence/absence data, pcr not aggregated
+dt_clean<-readRDS("../00_R-repository/euk_r2_silva_97_agg")
+```
+
+```{r, message=FALSE}
+dt_clean<-readRDS("../00_R-repository/plants_r2_embl_98_clean")
+```
+
+```{r, message=FALSE}
+dt_clean<-readRDS("../00_R-repository/cyano_r2_silva_97_agg")
+```
+
+```{r, message=FALSE}
+dt_clean<-readRDS("../00_R-repository/cop_r2_EmblSilvaCustom_85_agg")
+```
+
+*optional*
+```{r}
+# exclude benthos
+dt_clean <- subset_metabarlist(dt_clean, "motus", !dt_clean$motus$phylum_name %in% c("Bacillariophyta","Chlorophyta","Cercozoa") & (!dt_clean$motus$kingdom_name=="Fungi" & !is.na(dt_clean$motus$kingdom_name)))
+```
+
+
+
+
+```{r, warning=F}
+# aggregate pcrs by core, output detection probability
+dt_cr <- dt_clean
+dt_cr$pcrs <- left_join(dt_clean$pcrs, dt_clean$samples %>% mutate(sample_id=rownames(.)), by=c("sediment","sample_id"))
+rownames(dt_cr$pcrs) <- rownames(dt_clean$pcrs)
+dt_cr$pcrs$sample_id <- dt_cr$pcrs$sediment; dt_cr$pcrs$sediment <- NULL
+
+# load the new 'samples' table: sediment cores
+cores<- read.table("../03_metabaR/surfsedi_cores.txt", header=T, sep='\t')
+rownames(cores) <- cores$sediment
+dt_cr$samples <- cores
+
+# rate of detection at sites
+dt <- aggregate_pcrs(dt_cr, FUN=FUN_agg_pcrs_prob) #%>%
+  #subset_metabarlist(., "samples",  .$samples$long > 9.2)# & dt$samples$long<9.57) 
+# exclude Rhein inflow samples (outlier) and ueberlingen samples (no sedimentological data)
+```
+
+
+
+```{r}
+# import sedimentological data table
+sedi_dt <- read.table("./surfsedi_sedimentological_data.txt", header=T, sep='\t')
+
+# match sedi data to 'samples' table
+sedi <- difference_left_join(dt$samples, sedi_dt, by=c("UTM.32T.E","UTM.32T.N"),  max_dist = 100, distance_col="dist") %>%
+  mutate(UTM.32T.E=UTM.32T.E.x, UTM.32T.N=UTM.32T.N.x)
+
+rownames(sedi) <- sedi$sediment
+
+# remove non-numeric and useless columns
+sedi[,c("sediment","KERN","VCoarseSand","CoarseSand","GoodnessofFit","Kies",
+        "UTM.32T.N.x","UTM.32T.N.y","UTM.32T.E.x","UTM.32T.E.y","dist")] <- NULL
+```
+
+
+```{r}
+#plot sites
+plot_utm_on_map(sedi %>% mutate(sediment=rownames(.)) %>% select(UTM.32T.E, UTM.32T.N, sediment))
+```
+
+```{r}
+# check PCR samples on PCA, exclude outliers S01-05 because RDA assumes linear association
+pca <- prcomp(dt$reads, scale = F) 
+
+# Plot PCA graph of extract samples (i.e. "individuals")
+a <- fviz_pca_ind(pca,
+             col.ind = as.numeric(dt$pcrs$long),
+             label = "ind",
+             gradient.cols = c("midnightblue","orange"),
+             #gradient.cols = hcl.colors(8,rev=F, "Oslo"), title="",
+             ggtheme=theme_few()) + theme(legend.position = "none"); plot(a)
+
+```
+
+
+
+```{r}
+# pca of sedimento data of all cores
+# prepare a dataset removing all NAs
+
+dd <- sedi %>% filter(!if_any(Mu8.9:TIC, ~is.na(.))) %>% distinct() %>% `rownames<-`(.$site) # remove rows of interest that contain NA
+pca <- prcomp(dd %>% select(Mu8.9:Dol31.0), scale = F) 
+
+
+# Plot PCA graph of extract samples (i.e. "individuals")
+a <- fviz_pca_ind(pca,
+             col.ind = dd$water_depth,
+             label = "ind",
+             #gradient.cols = c("midnightblue","orange"), title="",
+             gradient.cols = hcl.colors(8, rev=F, "Oslo")[2:8], title="",
+             ggtheme=theme_few()) + theme(legend.position = "none"); plot(a)
+
+#alternative: ggord
+```
+
+
+
+
+```{r}
+# check collinearity between variables
+sub <- sedi %>% select(long, lat, water_depth, Sand,Mud,Clay,Mu8.9:Dol31.0,TS,TOC,TN) %>% arrange(long) %>% mutate(id=rownames(.)) #%>% select(-c(   Chl6.2, Qz.Mu26.6, Fsp.Mu27.8))
+
+sub_long <- reshape2::melt(sub, id.vars="id") %>% na.omit() %>% filter(variable %in% c("TS"  )) #"Mu8.9" ,"Chl6.2","Qz20.9", "Fsp.Mu27.8", "Dol31.0"  "Qz.Mu26.6",  "Cc29.5", 
+
+ggplot(sub_long, aes(x=id,y=value,col=variable,group=variable)) + geom_line() + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
+```
+
+Chl6.2, Qz20.9 Qz.Mu26.6 highly correlated
+Mu8.9, Fsp.Mu27.8 highly correlated
+Qz Dol correlated, Cc Qz neg corr, water_d Cc neg corr
+
+
+
+
+
+
+select a transect to plot sedimentological data
+
+```{r, warning=F}
+# selected sites
+ss1 <- c("S01","S02","S03","S04","S06","S07","S09","S11","S12","S14","S16","S19","S21","S22","S24","S25","S27") 
+ss2 <- c("S11","S21","S25")
+
+ss<- ss1#c(ss1,ss2)
+```
+
+
+```{r}
+psite <- sedi %>% filter(site %in% ss) %>% distinct() 
+psite_long <- reshape2::melt(psite, id.vars="site") %>% na.omit() #%>% filter(variable %in% c("Chl6.2","Fsp.Mu27.8","Dol31.0","Cc29.5","Qz.Mu26.6", "TS","TOC","TN"))
+
+plot1 <- psite_long %>% filter(variable %in% c("Chl6.2","Fsp.Mu27.8","Dol31.0","Cc29.5","Qz.Mu26.6")) %>%
+  ggplot(aes(x=factor(site, levels=rev(ss)), y=value, col=variable, 
+                       group=factor(variable, levels = c("Chl6.2","Fsp.Mu27.8","Dol31.0","Cc29.5","Qz.Mu26.6")))) +#"Chl6.2","Qz20.9","Dol31.0","Cc29.5","Qz.Mu26.6", 
+  geom_col(colour="black", size=0.2, width=0.75, aes(fill=variable)) + 
+  xlab("site") + 
+  ylab("count by X-ray diffraction, k/s") + 
+  labs(fill='Minerals') +
+  scale_fill_manual(labels=c("Chlorite", 
+                             "Quartz-muscovite",
+                             "Calcite",
+                             "Feldspar-muscovite",
+                             "Dolomite"), values=rev(c("#90005D","#E5A9B4", "#F8FCE3", "#B5BE7E", "#798233")))+ #hcl.colors(5,"ArmyRose"))) +
+  theme_classic()
+
+
+
+plot2 <- psite_long %>% filter(variable %in% c("TS","TOC","TN")) %>%
+  ggplot(aes(x=factor(site, levels=rev(ss)), y=value, 
+                       col=variable, 
+                       group=factor(variable, levels = c("TS","TN","TOC")))) + 
+  geom_col(colour="black", size=0.2, width=0.75, aes(fill=variable)) + 
+  ylab("%") + 
+  labs(fill='Elements') +
+  scale_fill_manual(labels=c("Total nitrogen", 
+                             "Total organic carbon",
+                             "Total sulphur"), values=rev(hcl.colors(3,"Purple-Blue"))) +
+  theme_classic() +
+  theme(axis.title.x = element_blank(),
+        axis.text.x = element_blank()) +
+  scale_y_reverse() +
+  scale_x_discrete(position="top")
+
+# align the two plots
+cowplot::plot_grid(plot2, plot1, align = "v", ncol = 1, rel_heights = c(0.25, 0.75))
+
+
+# output image
+png('/Users/yiwang/Downloads/sedimentology.png', width = 7.2, height = 4.8, units = 'in', res = 600)
+cowplot::plot_grid(plot2, plot1, align = "v", ncol = 1, rel_heights = c(0.25, 0.75))
+dev.off()
+```
+
+
+```{r}
+# scale numeric variables
+sedi_st <- scale(sedi %>% select(-site), center = T, scale = T) %>% as.data.frame
+```
+
+
+Model 1: long, lat and water depth as explanatory variables.
+```{r}
+mod1 <- rda(dt$reads ~ long + lat + water_depth, sedi_st, na.action=na.exclude)
+RsquareAdj(mod1)$adj.r.squared
+```
+
+
+```{r}
+summary(mod1)
+View(coef(mod1))
+screeplot(mod1)
+
+
+RsquareAdj(mod1)$r.squared
+
+# global test of the RDA plot
+anova.cca(mod1, step=1000)
+
+# test of all canonical axes
+anova.cca(mod1, by="margin", step=10000)
+anova.cca(mod1, by="axis", step=1000)
+```
+
+```{r}
+# plot model1 rda
+par(mai=c(1,2,1,2),cex.lab=0.9, cex.axis=0.9, mgp=c(1.5,0.5,0)) 
+
+plot(mod1,scaling=2, type='n', ylim=c(-9,9))
+
+
+points(mod1, display="sp",col="grey")
+points(mod1, display="sites", col='black', cex=0.8, pch=1, lwd=1.5)
+text(mod1, display="bp", col="darkred", cex=0.9)
+```
+
+
+```{r}
+# save plot to local
+png('/Users/yiwang/Downloads/euk_geograph_rda.png', width = 7.2, height = 4.8, units = 'in', res = 600)
+
+# paste code here:
+par(mai=c(0.5,1,0.5,1)) # c(bottom, left, top, right), gives the margin size
+plot(mod1,scaling=2, type='n', ylim=c(-9,9))
+points(mod1, display="sp",col="grey")
+points(mod1, display="sites", col='black', cex=0.8, pch=1, lwd=1.5)
+text(mod1, display="bp", col="darkred", cex=0.9)
+
+dev.off()
+```
+
+
+
+
+
+
+
+Model 2: controllong for long, lat and water depth, use mineral composition as explanatory variables.
+select models
+```{r}
+# subset dt to remove missing data in sedimentology profile, AND remove Rhein and Ueberlingen Samples
+dt_sub <- dt %>% subset_metabarlist(., "samples", !.$samples$sediment %in% 
+                               c("BS19.26","BS19.27","BS19.28","BS19.30","BS19.45","BS19.46","BS19.55")) %>%
+  subset_metabarlist(., "samples",  .$samples$long > 9.2 & .$samples$long < 9.57)
+
+
+sedi_sub <- sedi %>% 
+  #filter(!rownames(.) %in% c("BS19.26","BS19.27","BS19.28","BS19.30","BS19.45","BS19.46","BS19.55")) %>%
+  filter(long %in% dt_sub$samples$long)
+
+sedi_st_sub <- scale(sedi_sub %>% select(-site), center = T, scale = T) %>% as.data.frame
+  
+```
+
+
+```{r}
+mod20 <- rda(dt_sub$reads ~ 1 + Condition(long+ lat + water_depth), sedi_st_sub %>% 
+              select(long, lat, water_depth, Mu8.9,Qz.Mu26.6, Qz20.9, Dol31.0, Cc29.5, Chl6.2, Fsp.Mu27.8, TOC, TS, C.N.ratio) %>% na.omit(),
+            na.action=na.exclude)
+
+mod22 <- rda(dt_sub$reads ~ TOC + TS + C.N.ratio+Chl6.2+Qz.Mu26.6+Cc29.5+Fsp.Mu27.8+Dol31.0 + Condition(long+ lat + water_depth), sedi_st_sub %>% na.omit, na.action = na.exclude)
+
+vif.cca(mod22) # assess collinearity of variables
+
+ordistep(mod20, scope = formula(mod22), pstep=3000, R2scop=TRUE)
+```
+
+
+
+```{r}
+# model 2 with chosen variables
+mod2 <- rda(dt_sub$reads ~  TS+ Condition(long + lat + water_depth), sedi_st_sub, na.action=na.exclude)
+vif.cca(mod2)
+```
+
+PLANT: Chl6.2 + Condition(long + lat + water_depth) 
+EUK: TS + Condition(long + lat + water_depth) (*+C.N.ratio*+ Chl6.2+ Dol31.0 )
+CYA: Cc29.5 + Fsp.Mu27.8 + Condition(long + lat + water_depth)
+COP: none
+
+```{r}
+anova.cca(mod2, by="margin", step=5000)
+anova.cca(mod2, by="axis", step=5000)
+RsquareAdj(mod2)$adj.r.squared
+```
+
+```{r}
+summary(mod2)
+View(coef(mod2))
+screeplot(mod2)
+
+
+RsquareAdj(mod2)$r.squared
+
+# global test of the RDA plot
+anova.cca(mod2, step=1000)
+
+# test of all canonical axes
+
+anova.cca(mod2, by="axis", step=1000)
+
+```
+
+
+```{r}
+#plot RDA
+par(mai=c(1,2,1,2),cex.lab=0.9, cex.axis=0.9, mgp=c(1.5,0.5,0))
+plot(mod2, scaling=2, type='n', ylim=c(-6,6))
+points(mod2, display="sp",col="grey")
+points(mod2, display="sites", col='black', cex=1, pch=16, lwd=1.5)
+text(mod2, display="bp", col="darkred", cex=0.9)
+```
+
+
+```{r}
+plot(mod2,
+scaling = 2,
+display = c( "lc", "cn"), type="text")
+```
+
+
+
+```{r}
+# save plot to local
+png('/Users/yiwang/Downloads/euk_sedimentology_rda.png', width = 7.2, height = 4.8, units = 'in', res = 600)
+
+# paste code here:
+
+dev.off()
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+

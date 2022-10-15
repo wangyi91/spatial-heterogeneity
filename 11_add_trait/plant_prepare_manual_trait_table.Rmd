@@ -1,0 +1,238 @@
+```{r, message=FALSE}
+library(metabaR)
+library(dplyr)
+library(reshape2)
+library(data.table)
+```
+
+```{r}
+#import data, already motu-aggregated and log-chord transformed
+dt_name <- "plants_r2_embl_98"
+dt <- readRDS(paste("../00_R-repository/",dt_name, "_agg_2rep_motuAgg_norm",sep=""))
+```
+
+*Optional: choose if to use freq of detection format*
+```{r}
+dt <- readRDS(paste("../00_R-repository/",dt_name, "_clean",sep=""))
+
+# aggregate motus
+dt_motuAgg <- aggregate_motus(dt, groups=dt$motus$TAXID)
+
+# aggregate pcrs by site, output frequency of detection 
+dt_st <- dt_motuAgg
+dt_st$pcrs <- left_join(dt_motuAgg$pcrs, dt_motuAgg$samples %>% mutate(sample_id=rownames(.)), by="sample_id")
+rownames(dt_st$pcrs) <- rownames(dt_motuAgg$pcrs)
+dt_st$pcrs$sample_id <- dt_st$pcrs$site
+
+# load the new 'samples' table: sites
+sites<- read.table("../03_metabaR/surfsedi_sites.txt", header=T, sep='\t')
+rownames(sites) <- sites$site
+dt_st$samples <- sites
+
+# frequency of detection at sites
+data <- aggregate_pcrs(dt_st, FUN=FUN_agg_pcrs_prob)
+
+dt<-data
+```
+
+
+
+```{r}
+# load trait table
+trait <- read.table("../17_add_trait/TRY_Categorical_Traits_Lookup_Table_2012_03_17_TestRelease_clean.txt", 
+                    header=T, sep='\t', na.strings=c("","NA"))
+```
+
+
+```{r}
+# Assign growth form to reads with species name assigned
+tmp <- left_join(dt$motus %>% 
+                   filter(!is.na(species_name)), #%>% mutate(sequence_id=rownames(.)), 
+                 trait %>% 
+                   mutate(species_name=AccSpeciesName) %>% 
+                   select(species_name, PlantGrowthForm, Parasitic, Aquatic, Crop, Woodiness), by="species_name")
+
+# Assign growth form to reads with genus name assigned
+## since sp. in one genus can have different growth forms, here I take unique words for the list of growth forms in this genus 
+tmp2 <- left_join(dt$motus %>%
+                    filter(is.na(species_name)), #%>%mutate(sequence_id=rownames(.))
+                  trait %>% 
+                    mutate(genus_name=Genus) %>% 
+                    select(genus_name, PlantGrowthForm, Parasitic, Aquatic, Crop, Woodiness) %>% 
+                    group_by(genus_name) %>% 
+                    summarise(PlantGrowthForm = paste(sort(unique(na.omit(unlist(strsplit(PlantGrowthForm, "\\s+|[[:punct:]]"))))), collapse ="/"),
+                              Parasitic = paste(sort(unique(na.omit(unlist(Parasitic)))), collapse ="/"),
+                              Aquatic = paste(sort(unique(na.omit(unlist(Aquatic)))), collapse ="/"),
+                              Crop = paste(sort(unique(na.omit((Crop)))), collapse ="/"),
+                              Woodiness = paste(sort(unique(na.omit(unlist(strsplit(Woodiness,"/"))))), collapse ="/")), #unlist(strsplit(na.omit(PlantGrowthForm), "\\s+|[[:punct:]]"))
+                  by="genus_name")
+
+motus_trait <- bind_rows(tmp, tmp2)
+
+
+# replace "" with NA
+motus_trait <- motus_trait %>% mutate_all(na_if,"")
+
+# update the motus table
+dt$motus <- left_join(dt$motus, #%>% mutate(sequence_id=rownames(.))
+                      motus_trait %>% select(TAXID, PlantGrowthForm, Parasitic, Aquatic, Crop, Woodiness), 
+                      by="TAXID")
+
+rownames(dt$motus) <- dt$motus$TAXID
+
+identical(rownames(dt$motus), colnames(dt$reads))
+
+check_metabarlist(dt)
+```
+
+
+
+
+
+
+```{r, warning=F}
+# exclude taxa without family info:
+#sub <- subset_metabarlist(dt, "motus", !is.na(dt$motus$family_name))
+
+# subset data to keep taxa identified to species level with 100% identity
+sub <- subset_metabarlist(dt, "motus", dt$motus$BEST_IDENTITY==1 & !is.na(dt$motus$species_name))
+```
+
+
+Add a column indicating whether they are alpine taxa
+```{r}
+# alpine taxa
+alp_ls <- c("Senecio","Edraianthus" ,"Androsace","Pedicularis","Veronica","Phyteuma", "Doronicum",
+            "Calluna vulgaris","Bartsia alpina","Vaccinium vitis-idaea","Veronica alpina","Veronica aphylla","Oxyria digyna", "Arctous alpina", "Trifolium pallescens", "Arctostaphylos uva-ursi") #,"Saxifraga", "Saussurea", "Carex","Euphrasia",
+
+# load data from info flora (Flora Helvetica)
+IF <- read.csv("../17_add_trait/info_flora_Checklist_simplified.csv", header=T, na.strings="") %>% filter(Rangstufe == "sp")
+```
+
+
+
+
+
+```{r}
+# mark alpine plants
+# mark what species are present in info flora checklist 
+# create a column marking cultivated or non-cultivated plants in infoflora
+sub$motus <- sub$motus %>% mutate(alpine = sub$motus$genus_name %like% paste(alp_ls, collapse  = "|") | 
+                                    sub$motus$species_name %like% paste(alp_ls, collapse  = "|"),
+                                  info_flora = sub$motus$species_name %in% paste(IF$Gattung, IF$Spezies, sep=" "))
+
+# get a species list
+IF_sp <- sub$motus[sub$motus$info_flora,]$species_name %>% unique
+
+# non-cultivated plants: A, I, ni
+ncul <- IF %>% filter(paste(IF$Gattung, IF$Spezies, sep=" ") %in% IF_sp) %>% filter(Indigenat.CH %in% c("I","A","I/N","A/N","ni"))
+
+# cultivated plants: AC, NC
+neo_cul <- IF %>% filter(paste(IF$Gattung, IF$Spezies, sep=" ") %in% IF_sp) %>% filter(Indigenat.CH %in% c(NA,"NC","AC","N"))
+
+sub$motus <- sub$motus %>% mutate(cultivated_IF =  ifelse(sub$motus$species_name %in% paste(neo_cul$Gattung, neo_cul$Spezies, sep=" "), "TRUE", 
+                                                          ifelse(sub$motus$species_name %in% paste(ncul$Gattung, ncul$Spezies, sep=" "), "FALSE", NA)))
+```
+
+
+
+
+
+**if loaded _agg_2rep_motuAgg_norm as dt**
+Aggregate pcrs by site, output *mean read count*.
+
+```{r, warning=F}
+dt_st <- sub
+dt_st$pcrs <- left_join(sub$pcrs, sub$samples %>% mutate(sample_id=rownames(.)), by="sample_id")
+rownames(dt_st$pcrs) <- rownames(sub$pcrs)
+dt_st$pcrs$sample_id <- dt_st$pcrs$site
+
+# load the new 'samples' table: sites
+sites<- read.table("../03_metabaR/surfsedi_sites.txt", header=T, sep='\t')
+rownames(sites) <- sites$site
+dt_st$samples <- sites 
+
+# rate of detection, OR, mean read count at sites
+data <- aggregate_pcrs(dt_st, FUN=FUN_agg_pcrs_mean)
+```
+
+
+
+
+```{r}
+# out put motus table to sort traits manually
+write.table(data$motus, 'plant_motus.txt', row.names=FALSE, col.names=T, sep = "\t", quote = FALSE)
+```
+
+*manually edit the 'plant_motus.txt' table in excel*
+  
+```{r}
+# read modified motus table
+library(readxl)
+motus_man <- read_xlsx("plant_traits.xlsx", col_names = T, na=c("","NA")) %>% `row.names<-`(.$TAXID)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+data$motus <- motus_man
+check_metabarlist(data)
+```
+
+
+```{r}
+# organise cultivated_IF, Aquatic, alpine into one column 
+data$motus <- data$motus %>% mutate(traits = ifelse(alpine %in% c("TRUE","T"), "alpine",
+                                                ifelse(Aquatic %in% c("aquatic","T"), "aquatic",
+                                                       ifelse(cultivated_IF %in% c("TRUE","T"), "cultivated",
+                                                              "others")))) %>%
+  mutate(growth_form = ifelse(PlantGrowthForm %in% c("shrub","shrub/tree","tree"), "shrubs & trees",
+                              ifelse(PlantGrowthForm=="graminoid", "grass & sedges",
+                                     ifelse(PlantGrowthForm=="herb","non-grass herbs", PlantGrowthForm))))
+```
+
+
+
+
+
+
+```{r}
+saveRDS(data, paste("../00_R-repository/",dt_name, "_2rep_motuAgg_norm_sp_trait",sep=""))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
