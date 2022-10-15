@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CurrentWorkingDirectory</key>
+	<string>/Users/yiwang</string>
+	<key>WorksheetContents</key>
+	<string># Obitools3 commands to process raw amplicon sequence data for input into metabaR R package
+# Dataset PLANT
+
+obi import --quality-sanger plants_data/201015_A00902_A_L001_AQHH-22_R1_paired_2.fastq plants/reads1
+
+obi import --quality-sanger plants_data/201015_A00902_A_L001_AQHH-22_R2_paired_2.fastq plants/reads2
+
+obi import --ngsfilter plants_data/ngsfilter_plants.txt plants/ngsfile
+
+obi alignpairedend -R plants/reads2 plants/reads1 plants/aligned_reads
+
+obi grep -a mode:alignment plants/aligned_reads plants/good_sequences
+# Grepped 87085644 entries
+
+obi ngsfilter -t plants/ngsfile -u plants/unidentified_sequences plants/good_sequences plants/identified_sequences
+# identified_sequences   60641571
+# unidentified_sequences 26444073
+
+obi grep -p "sequence['score_norm']&gt;=0.5" plants/identified_sequences plants/identified_sequences_filtered
+# Grepped 60009096 entries
+
+obi uniq -m sample plants/identified_sequences_filtered plants/dereplicated_sequences_filtered
+
+
+obi annotate -k COUNT -k MERGED_sample plants/dereplicated_sequences_filtered plants/cleaned_metadata_sequences_filtered
+
+
+obi grep -p "sequence['COUNT']&gt;=10" plants/cleaned_metadata_sequences_filtered plants/denoised_sequences_filtered
+# Grepped 34978 entries 
+
+
+obi clean -s MERGED_sample -r 0.2 -H plants/denoised_sequences_filtered plants/cleaned_sequences_filtered_r2
+# Line count: 12711
+
+
+
+
+
+
+obi ecotag -m 0.98 --taxonomy database/embl/taxonomy/my_tax \
+-R database/embl/ref_gh_plants_db_95 \
+plants/cleaned_sequences_filtered_r2 \
+plants/assigned_sequences_filtered_r2_embl_98
+
+
+
+
+
+
+
+# output embl assigned tables for metabaR input
+obi grep -A SCIENTIFIC_NAME plants/assigned_sequences_filtered_r2_embl_98 \
+plants/assigned_sequences_filtered_r2_embl_98_for_metabaR
+# Grepped 2526 entries
+
+
+
+## reads table
+obi annotate -k MERGED_sample plants/assigned_sequences_filtered_r2_embl_98_for_metabaR \
+plants/assigned_sequences_filtered_r2_embl_98_for_metabaR_reads_table
+
+obi export --tab-output --header --output-na-string 0 plants/assigned_sequences_filtered_r2_embl_98_for_metabaR_reads_table &gt; plants_r2_embl_98_reads.txt
+
+## motu table
+obi annotate --taxonomy database/embl/taxonomy/my_tax \
+--with-taxon-at-rank superkingdom \
+--with-taxon-at-rank kingdom \
+--with-taxon-at-rank phylum \
+--with-taxon-at-rank subphylum \
+--with-taxon-at-rank class \
+--with-taxon-at-rank subclass \
+--with-taxon-at-rank order \
+--with-taxon-at-rank suborder \
+--with-taxon-at-rank infraorder \
+--with-taxon-at-rank superfamily \
+--with-taxon-at-rank family \
+--with-taxon-at-rank genus \
+--with-taxon-at-rank species \
+--with-taxon-at-rank subspecies \
+plants/assigned_sequences_filtered_r2_embl_98_for_metabaR \
+plants/assigned_sequences_filtered_r2_embl_98_for_metabaR_taxInfo
+
+
+
+
+obi annotate \
+-k BEST_IDENTITY -k TAXID -k SCIENTIFIC_NAME -k COUNT -k seq_length \
+-k superkingdom_name \
+-k kingdom_name \
+-k phylum_name \
+-k subphylum_name \
+-k class_name \
+-k subclass_name \
+-k order_name \
+-k suborder_name \
+-k infraorder_name \
+-k superfamily_name \
+-k family_name \
+-k genus_name \
+-k species_name \
+plants/assigned_sequences_filtered_r2_embl_98_for_metabaR_taxInfo \
+plants/assigned_sequences_filtered_r2_embl_98_for_metabaR_taxInfo_motu
+
+
+obi export --tab-output --header plants/assigned_sequences_filtered_r2_embl_98_for_metabaR_taxInfo_motu \
+&gt; plants_r2_embl_98_motus.txt
+
+
+</string>
+</dict>
+</plist>
