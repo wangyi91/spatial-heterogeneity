@@ -3,32 +3,15 @@
 library(vegan) # function rda
 library(metabaR)
 library(dplyr)
+library(fuzzyjoin)
 
-#import data
-dt_clean<-readRDS("./00_R-repository/plants_r2_embl_98_clean")
-dt_clean<-readRDS("./00_R-repository/euk_r2_silva_97_agg")
-dt_clean<-readRDS("./00_R-repository/cyano_r2_silva_97_agg")
-dt_clean<-readRDS("./00_R-repository/cop_r2_EmblSilvaCustom_85_agg")
+# import data. Choose one
+dt_name = "plants_r2_embl_98"
+dt_name = "euk_r2_silva_97"
+dt_name = "cyano_r2_silva_97"
+dt_name = "cop_r5_EmblSilvaCustom_85"
 
-
-
-
-# aggregate pcrs by core, output detection probability
-dt_cr <- dt_clean
-dt_cr$pcrs <- left_join(dt_clean$pcrs, dt_clean$samples %>% mutate(sample_id=rownames(.)), by=c("sediment","sample_id"))
-rownames(dt_cr$pcrs) <- rownames(dt_clean$pcrs)
-dt_cr$pcrs$sample_id <- dt_cr$pcrs$sediment; dt_cr$pcrs$sediment <- NULL
-
-cores<- read.table("./03_metabaR/surfsedi_cores.txt", header=T, sep='\t')
-rownames(cores) <- cores$sediment
-dt_cr$samples <- cores
-
-dt <- aggregate_pcrs(dt_cr, FUN=FUN_agg_pcrs_prob) #%>%
-#subset_metabarlist(., "samples",  .$samples$long > 9.2)# & dt$samples$long<9.57) 
-# exclude Rhein inflow samples (outlier) and ueberlingen samples (no sedimentological data)
-
-
-
+dt <- readRDS(paste("./00_R-repository/", dt_name, "_agg_norm_lgchord", sep=""))
 
 
 
@@ -39,36 +22,72 @@ sedi_dt <- read.table("./06_redundancy_analysis/surfsedi_sedimentological_data.t
 sedi <- difference_left_join(dt$samples, sedi_dt, by=c("UTM.32T.E","UTM.32T.N"),  max_dist = 100, distance_col="dist") %>%
   mutate(UTM.32T.E=UTM.32T.E.x, UTM.32T.N=UTM.32T.N.x)
 
-rownames(sedi) <- sedi$sediment
 
 # remove non-numeric and useless columns
 sedi[,c("sediment","KERN","VCoarseSand","CoarseSand","GoodnessofFit","Kies",
         "UTM.32T.N.x","UTM.32T.N.y","UTM.32T.E.x","UTM.32T.E.y","dist")] <- NULL
 
 
+# scale numeric variables
+sedi_st <- scale(sedi %>% select(-c(site)), center = T, scale = T) %>% as.data.frame
 
 
 
-# check collinearity between variables
-sub <- sedi %>% 
-  select(long, lat, water_depth, Sand,Mud,Clay,Mu8.9:Dol31.0,TS,TOC,TN) %>% 
-  arrange(long) %>% 
-  mutate(id=rownames(.)) #%>% select(-c(   Chl6.2, Qz.Mu26.6, Fsp.Mu27.8))
+# Model 1: long, lat and water depth as explanatory variables.
+mod1 <- rda(dt$reads ~ long + lat + water_depth, sedi_st, na.action=na.exclude)
+RsquareAdj(mod1)$adj.r.squared
 
-sub_long <- reshape2::melt(sub, id.vars="id") %>% na.omit() #%>% filter(variable %in% c("TS"  )) #"Mu8.9" ,"Chl6.2","Qz20.9", "Fsp.Mu27.8", "Dol31.0"  "Qz.Mu26.6",  "Cc29.5", 
+summary(mod1)
+#RsquareAdj(mod1)$r.squared
 
-ggplot(sub_long, aes(x=id,y=value,col=variable,group=variable)) + geom_line() + theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
-
-
+# permutation test of explanatory factors
+anova.cca(mod1, by="margin", step=10000)
 
 
 
+# Model 2: controllong for long, lat and water depth, use mineral composition as explanatory variables.
+# subset dt to remove missing data in sedimentology profile, AND remove Rhein and Ueberlingen Samples
+dt_sub <- dt %>% subset_metabarlist(., "samples", !.$samples$sediment %in% 
+                                      c("BS19.26","BS19.27","BS19.28","BS19.30","BS19.45","BS19.46","BS19.55")) %>%
+  subset_metabarlist(., "samples",  .$samples$long > 9.2 & .$samples$long < 9.57)
+
+
+sedi_sub <- sedi %>% filter(long %in% dt_sub$samples$long)
+
+sedi_st_sub <- scale(sedi_sub %>% select(-site), center = T, scale = T) %>% as.data.frame
 
 
 
+# Pre-select models
+mod20 <- rda(dt_sub$reads ~ 1 + Condition(long+ lat + water_depth), sedi_st_sub %>% 
+               select(long, lat, water_depth, Mu8.9,Qz.Mu26.6, Qz20.9, Dol31.0, Cc29.5, Chl6.2, Fsp.Mu27.8, TOC, TS, C.N.ratio) %>% na.omit(),
+             na.action=na.exclude)
+
+mod22 <- rda(dt_sub$reads ~ TOC + TS + C.N.ratio+Chl6.2+Cc29.5+Dol31.0 + Condition(long+ lat + water_depth), sedi_st_sub %>% na.omit, na.action = na.exclude)
+vif.cca(mod22)
+
+# select significant variables
+ordistep(mod20, scope = formula(mod22), pstep=3000, R2scop=TRUE)
+
+
+# model 2 with chosen variables
+mod2 <- rda(dt_sub$reads ~  Chl6.2  + Condition(long + lat + water_depth), sedi_st_sub, na.action=na.exclude)
+
+# assess collinearity of variables, update mod2 by removing colinear variables if necessary
+vif.cca(mod2)
+
+# Final model 2 for all four datasets
+#PLANT: Chl6.2 + Cc29.5 + Condition(long + lat + water_depth) 
+#EUK: TS + TOC + Cc29.5 + Chl6.2 + C.N.ratio + Dol31.0 + Condition(long + lat + water_depth) 
+#CYA: Cc29.5 + Dol31.0 + Condition(long + lat + water_depth)
+#COP: Chl6.2
 
 
 
+anova.cca(mod2, by="margin", step=5000)
+RsquareAdj(mod2)$adj.r.squared
+
+summary(mod2)
 
 
 
