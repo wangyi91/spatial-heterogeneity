@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CurrentWorkingDirectory</key>
+	<string>/Users/yiwang</string>
+	<key>WorksheetContents</key>
+	<string>
+cd /data/scc/edna/yiwang/surfsedi; module load obitools/3.0.0-beta37
+
+# Import the taxonomy
+obi import --taxdump taxdump.tar.gz cop28s_db/taxonomy/my_tax
+
+# Import genbank file
+## SOURCE and FEATURES in genbank files are edited, most importantly, taxid is added in FEATURES ###
+
+obi import --genbank-input cop28s_gb_files/28s_20201225.gb cop28s_db/28s_20201225
+
+
+
+
+
+### go with ecopcr ###
+## Amplify with original primers 
+# 28s cop - line count 20
+obi ecopcr -e 3 -l 50 -L 110 -F ATCGCTCCTCTGCTTACTCGG -R CCTCGCAATGTCCTCGGA --taxonomy cop28s_db/taxonomy/my_tax \
+cop28s_db/28s_20201225 cop28s_db/28s_20201225_marker
+
+obi cat -c cop28s_db/28s_20201225_marker -c database/embl/ref_28s_cop -c database/silva/ref_28s_cop cop28s_db/28s_EmblSilvaCustom_update
+
+
+# Build ref db
+obi build_ref_db -t 0.80 --taxonomy silva/taxonomy/my_tax cop28s_db/28s_EmblSilvaCustom_update cop28s_db/28s_EmblSilvaCustom_db_80_update
+
+
+
+
+
+### evaluate with ecotaxspecificity
+# make combined ref db for ecopcr
+cd /data/scc/edna/yiwang/surfsedi/cop28s_gb_files
+cat 28s_custom_20201225.gb copepoda_28s_ncbi.gb &gt; copepoda_28s_CustomNCBI.gb
+
+obiconvert --skip-on-error --genbank -t ../TAXO --ecopcrdb-output=/data/scc/edna/yiwang/database/copepoda_28s_CustomNCBI_db \
+/data/scc/edna/yiwang/surfsedi/cop28s_gb_files/copepoda_28s_CustomNCBI.gb
+
+cd /data/scc/edna/yiwang/ecopcr
+
+ecoPCR -d /data/scc/edna/yiwang/database/copepoda_28s_CustomNCBI_db -e 3 -l 50 -L 110 \
+ATCGCTCCTCTGCTTACTCGG CCTCGCAATGTCCTCGGA &gt; copepoda_novelmarker_CustomNCBI.ecopcr
+
+ecotaxspecificity -d /data/scc/edna/yiwang/database/copepoda_28s_CustomNCBI_db -e 3 --ecopcr copepoda_novelmarker_CustomNCBI.ecopcr
+
+
+cat 28s_custom_20201225.gb copepoda_28s_ncbi.gb &gt; copepoda_28s_customncbi.gb
+cd /data/scc/edna/yiwang/surfsedi/
+obi import --genbank-input cop28s_gb_files/copepoda_28s_customncbi.gb cop28s_db/28s_customncbi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</string>
+</dict>
+</plist>

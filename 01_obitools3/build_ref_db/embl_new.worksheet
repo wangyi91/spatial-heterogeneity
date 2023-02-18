@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CurrentWorkingDirectory</key>
+	<string>/Users/yiwang</string>
+	<key>WorksheetContents</key>
+	<string>obi import --taxdump taxdump.tar.gz database/embl/taxonomy/my_tax
+
+obi import --embl-input --taxonomy database/embl/taxonomy/my_tax \
+database/EMBL database/embl/refs_update
+
+# ecopcr with plants primers
+obi ecopcr -e 3 -l 10 -L 500 -F GGGCAATCCTGAGCCAA -R CCATTGAGTCTCTGCACCTATC \
+--taxonomy database/embl/taxonomy/my_tax \
+database/embl/refs_update database/embl/ref_gh
+</string>
+</dict>
+</plist>

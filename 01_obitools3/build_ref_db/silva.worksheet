@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CurrentWorkingDirectory</key>
+	<string>/Users/yiwang</string>
+	<key>WorksheetContents</key>
+	<string>Download taxdump from: ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz
+
+cd /data/scc/edna/yiwang/surfsedi; module load obitools/3.0.0-beta37
+
+
+
+
+##################### 2021-08-30 update 18s ###########################
+obi import --taxdump taxdump.tar.gz database/silva/taxonomy/my_tax
+
+obi import --silva-input --taxonomy database/silva/taxonomy/my_tax \
+database/silva_download/SILVA_138.1_SSURef_NR99_tax_silva.fasta  \
+database/silva/ssu_nr99_refs
+
+
+
+obi ecopcr -e 3 -l 50 -L 420 -F GGCTTAATTTGACTCAACRCG -R GGGCATCACAGACCTGTTAT \
+--taxonomy database/silva/taxonomy/my_tax \
+database/silva/ssu_nr99_refs \
+database/silva/ref_18s_F960_R1438_update
+
+obi build_ref_db -t 0.95 --taxonomy database/silva/taxonomy/my_tax \
+database/silva/ref_18s_F960_R1438_update \
+database/silva/ref_18s_F960_R1438_db_95_update
+# Line count: 54413
+
+####################         16s         ###################
+# update taxo
+obi import --taxdump taxdump.tar.gz silva/taxonomy/my_tax
+
+obi import --silva-input --taxonomy silva/taxonomy/my_tax \
+database/silva_download/SILVA_138.1_SSURef_NR99_tax_silva.fasta silva/ssu_nr99_refs
+
+obi ecopcr -e 3 -l 25 -L 450 -F GGGGAATYTTCCGCAATGGG -R ACTACWGGGGTATCTAATCCC \
+--taxonomy silva/taxonomy/my_tax silva/ssu_nr99_refs silva/ref_16s_CYA359F_784R_update
+
+obi build_ref_db -t 0.99 --taxonomy silva/taxonomy/my_tax \
+silva/ref_16s_CYA359F_784R_update \
+silva/ref_16s_CYA359F_784R_db_99
+# if use -t 0.95, it will take 10 days...
+
+
+
+######################## lsu ####################
+obi import --silva-input --taxonomy database/silva/taxonomy/my_tax \
+database/silva_download/SILVA_138.1_LSURef_NR99_tax_silva.fasta.gz  \
+database/silva/lsu_nr99_refs
+
+obi ecopcr -e 3 -l 30 -L 110 -F ATCGCTCCTCTGCTTACTCGG -R CCTCGCAATGTCCTCGGA --taxonomy database/silva/taxonomy/my_tax \
+database/silva/lsu_nr99_refs database/silva/ref_28s_cop
+
+
+
+
+# to do:
+
+obi cat -c cop28s_db/28s_20201225_marker -c database/embl/ref_28s_cop -c database/silva/ref_28s_cop cop28s_db/28s_EmblSilvaCustom_update
+
+obi build_ref_db -t 0.80 --taxonomy cop28s_db/taxonomy/my_tax cop28s_db/28s_EmblSilvaCustom_marker cop28s_db/28s_EmblSilvaCustom_marker_db_80
+
+
+
+
+
+
+
+
+
+
+
+
+
+# for lsu
+obi grep -A TAXID silva/lsu_nr99_refs_annotated silva/lsu_nr99_refs_annotated_cleaned
+## Grepped 90524 entries
+
+
+
+### go with ecopcr ###
+## Amplify with original primers 
+# 18s euk -  50356
+obi ecopcr -e 3 -l 50 -L 420 -F GGCTTAATTTGACTCAACRCG -R GGGCATCACAGACCTGTTAT --taxonomy silva/taxonomy/my_tax silva/ssu_nr99_refs_annotated_cleaned silva/ref_18s_F960_R1438
+# 18s euk - parent_taxid only entries are also included - 54376 
+obi ecopcr -e 3 -l 50 -L 420 -F GGCTTAATTTGACTCAACRCG -R GGGCATCACAGACCTGTTAT --taxonomy silva/taxonomy/my_tax silva/ssu_nr99_refs_annotated_ParentIncl_cleaned silva/ref_18s_F960_R1438_ParentIncl
+
+
+# 16s cyano - line count 249841
+obi ecopcr -e 3 -l 50 -L 700 -F GGGGAATYTTCCGCAATGGG -R ACTACWGGGGTATCTAATCCC --taxonomy silva/taxonomy/my_tax silva/ssu_nr99_refs_annotated_cleaned silva/ref_16s_CYA359F_784R
+# 16s cyano - parent_taxid only entries are included - line count ??
+obi ecopcr -e 3 -l 50 -L 700 -F GGGGAATYTTCCGCAATGGG -R ACTACWGGGGTATCTAATCCC --taxonomy database/silva/taxonomy/my_tax database/silva/ssu_nr99_refs_annotated_ParentIncl_cleaned database/silva/ref_16s_CYA359F_784R_ParentIncl
+
+obi grep --require-rank=family --taxonomy database/silva/taxonomy/my_tax database/silva/ref_16s_CYA359F_784R_ParentIncl database/silva/ref_16s_CYA359F_784R_ParentIncl_clean
+
+
+
+
+
+# Build Silva ref db
+obi build_ref_db -t 0.95 --taxonomy silva/taxonomy/my_tax silva/ref_18s_F960_R1438 silva/ref_18s_F960_R1438_db_95
+obi build_ref_db -t 0.95 --taxonomy silva/taxonomy/my_tax silva/ref_18s_F960_R1438_ParentIncl silva/ref_18s_F960_R1438_ParentIncl_db_95
+
+obi build_ref_db -t 0.97 --taxonomy database/silva/taxonomy/my_tax database/silva/ref_16s_CYA359F_784R database/silva/ref_16s_CYA359F_784R_db_97
+obi build_ref_db -t 0.95 --taxonomy database/silva/taxonomy/my_tax database/silva/ref_16s_CYA359F_784R_ParentIncl_clean database/silva/ref_16s_CYA359F_784R_ParentIncl_db_95
+
+# taxonomy assignment
+## see dataset specific scripts
+
+obi stats -c scientific_name euk/silva_assigned_sequences_95
+
+
+
+
+
+
+
+
+
+
+</string>
+</dict>
+</plist>

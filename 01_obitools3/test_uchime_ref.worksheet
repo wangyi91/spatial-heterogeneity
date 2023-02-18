@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CurrentWorkingDirectory</key>
+	<string>/Users/yiwang</string>
+	<key>WorksheetContents</key>
+	<string># Test uchime_ref with euk reference sequences
+
+## sort by size
+obi export --fasta-output database/silva/ref_18s_F960_R1438_db_95_update &gt; ref_18s_F960_R1438_db_95_update.fasta
+seqkit rename ref_18s_F960_R1438_db_95_update.fasta -o ref_18s_F960_R1438_db_95_update_renamed.fasta
+seqkit sort -l ref_18s_F960_R1438_db_95_update.fasta -o ref_18s_F960_R1438_db_95_update_sortedbysize.fasta
+
+## run uchime 
+module load vsearch
+vsearch --uchime_ref ref_18s_F960_R1438_db_95_update_sortedbysize.fasta \
+--chimeras ref_18s_F960_R1438_db_95_update_chimeras.fasta \
+--db ref_18s_F960_R1438_db_95_update.fasta
+
+## output:
+vsearch v2.14.0_linux_x86_64, 754.5GB RAM, 80 cores
+https://github.com/torognes/vsearch
+
+Reading file ref_18s_F960_R1438_db_95_update.fasta 100%  
+12863938 nt in 54413 seqs, min 50, max 420, avg 236
+Masking 100% 
+Counting k-mers 100% 
+Creating k-mer index 100% 
+Detecting chimeras 100%  
+Found 29518 (54.2%) chimeras, 24895 (45.8%) non-chimeras,
+and 0 (0.0%) borderline sequences in 54413 unique sequences.
+Taking abundance information into account, this corresponds to
+29518 (54.2%) chimeras, 24895 (45.8%) non-chimeras,
+and 0 (0.0%) borderline sequences in 54413 total sequences.
+</string>
+</dict>
+</plist>
