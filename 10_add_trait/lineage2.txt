@@ -1,0 +1,1156 @@
+Acanthocyclops	245076	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Cyclopidae;Acanthocyclops	genus
+Acanthosphaera			
+Acathocnema			
+Baetis	189838	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Pisciforma;Baetidae;Baetis	genus
+Achnanthes	216727	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Mastogloiales;Achnanthaceae;Achnanthes	genus
+Achnanthidium	265567	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cocconeidales;Achnanthidiaceae;Achnanthidium	genus
+Psammothidium	1561718	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cocconeidales;Achnanthidiaceae;Psammothidium	genus
+Karayevia	1560718	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cocconeidales;Achnanthidiaceae;Karayevia	genus
+Astartiella	1880622	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Stauroneidaceae;Astartiella	genus
+Planothidium	216797	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Mastogloiales;Achnanthaceae;Planothidium	genus
+Platessa			
+Eucocconeis	1490965	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cocconeidales;Achnanthidiaceae;Eucocconeis	genus
+Nupela	1838000	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Brachysiraceae;Nupela	genus
+Achtheres			
+Acineria	1502661	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Pleurostomatida;Litonotidae;Acineria	genus
+Metacineta			
+Acineta	78690	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;Liliopsida;Petrosaviidae;Asparagales;Orchidaceae;Epidendroideae;Cymbidieae;Stanhopeinae;Acineta	genus
+Acineta	239360	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Suctoria;Endogenida;Acinetidae;Acineta	genus
+Acroperus	362321	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Chydoridae;Acroperus	genus
+Actidesmium			
+Actinastrum	55401	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Chlorellaceae;Chlorella clade;Actinastrum	genus
+Actinobolina	1683417	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Actinobolinidae;Actinobolina	genus
+Actinocyclus	49230	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Coscinodiscophycidae;Coscinodiscales;Hemidiscaceae;Actinocyclus	genus
+Actinocyclus	262595	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Heterobranchia;Euthyneura;Nudipleura;Nudibranchia;Doridina;Eudoridoidea;Actinocyclidae;Actinocyclus	genus
+Actinotaenium	184489	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Actinotaenium	genus
+Adlafia			
+Aedimorphus	53540	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Culicoidea;Culicidae;Culicinae;Aedini;Aedes;Aedimorphus	subgenus
+Aeolosoma	55816	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Crassiclitellata;Lumbricina;Aeolosomatidae;Aeolosoma	genus
+Albaxona			
+Albia	2137798	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Aturidae;Albia	genus
+Alboglossiphonia	84041	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;Alboglossiphonia	genus
+Allogamus	522519	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Plenitentoria;Limnephiloidea;Limnephilidae;Limnephilinae;Stenophylacini;Allogamus	genus
+Allolobophora	73391	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Crassiclitellata;Lumbricina;Lumbricidae;Lumbricinae;Allolobophora	genus
+Eisenia	6393	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Crassiclitellata;Lumbricina;Lumbricidae;Lumbricinae;Eisenia	genus
+Eisenia	117815	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;PX clade;Phaeophyceae;Laminariales;Lessoniaceae;Eisenia	genus
+Alona	362317	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Chydoridae;Alona	genus
+Ametropus	240918	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Pisciforma;Ametropodidae;Ametropus	genus
+Ammatoidea			
+Amphichaeta	74737	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Naididae;Naidinae;Amphichaeta	genus
+Amphidinium	2960	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Amphidiniales;Amphidiniaceae;Amphidinium	genus
+Amphikrikos	120752	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystoideae;Amphikrikos	genus
+Amphileptus	497730	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Pleurostomatida;Amphileptidae;Amphileptus	genus
+Litonotus	346246	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Pleurostomatida;Litonotidae;Litonotus	genus
+Krasskella			
+Amphirhiza			
+Amphora	59796	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Thalassiophysales;Catenulaceae;Amphora	genus
+Halamphora	1242273	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Amphipleuraceae;Halamphora	genus
+Anabaena	1163	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Nostocaceae;Anabaena	genus
+Trichormus	264688	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Nostocaceae;Trichormus	genus
+Anabaenopsis	110103	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Aphanizomenonaceae;Anabaenopsis	genus
+Anathece	1521558	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Synechococcaceae;Anathece	genus
+Anaulus	1840511	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Mediophyceae;Biddulphiophycidae;Anaulales;Anaulaceae;Anaulus	genus
+Anepsiomyia	377582	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Muscomorpha;Eremoneura;Empidoidea;Dolichopodidae;Sympycninae;Anepsiomyia	genus
+Aneumastus	2045116	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Mastogloiales;Mastogloiaceae;Aneumastus	genus
+Anisonema	186753	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Heteronematina;Heteronematales;Peranemataceae;Anisonema	genus
+Anisus	271028	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Heterobranchia;Euthyneura;Panpulmonata;Hygrophila;Lymnaeoidea;Planorbidae;Anisus	genus
+Ankistrodesmus	3108	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Selenastraceae;Ankistrodesmus	genus
+Ankyra	52687	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Sphaeropleaceae;Ankyra	genus
+Brachysira	1838033	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Brachysiraceae;Brachysira	genus
+Cuspidothrix	882045	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Aphanizomenonaceae;Cuspidothrix	genus
+Aphanizomenon	1175	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Aphanizomenonaceae;Aphanizomenon	genus
+Aphanocapsa	1119	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Merismopediaceae;Aphanocapsa	genus
+Aphanothece	1121	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Chroococcales;Aphanothecaceae;Aphanothece	genus
+Apiocystis			
+Arctoconopa	2728196	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Tipulomorpha;Tipuloidea;Limoniidae;Chioneinae;Arctoconopa	genus
+Ardissonia			
+Arenomya			
+Arrenurus	768087	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Arrenuroidea;Arrenuridae;Arrenurus	genus
+Arthroplea	309668	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Setisura;Arthropleidae;Arthroplea	genus
+Arvicola	10049	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Mammalia;Theria;Eutheria;Boreoeutheria;Euarchontoglires;Glires;Rodentia;Myomorpha;Muroidea;Cricetidae;Arvicolinae;Arvicola	genus
+Ascomorpha	360654	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Gastropidae;Ascomorpha	genus
+Askenasia	457373	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Cyclotrichida;Mesodiniidae;Askenasia	genus
+Aspelta	2739594	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Dicranophoridae;Aspelta	genus
+Aspidisca	138848	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Hypotrichia;Euplotida;Aspidiscidae;Aspidisca	genus
+Aspitriglia			
+Asplanchna	84396	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Asplanchnidae;Asplanchna	genus
+Asplanchnopus	338267	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Asplanchnidae;Asplanchnopus	genus
+Astasia	3036	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Aphagea;Rhabdomonadales;Astasiidae;Astasia	genus
+Euglenopsis			
+Astrosiga			
+Astylozoon	172018	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Astylozoidae;Astylozoon	genus
+Asymphylodora	986157	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Trematoda;Digenea;Plagiorchiida;Monorchiata;Lissorchiidae;Asymphylodora	genus
+Atherix	124299	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Tabanomorpha;Tabanoidea;Athericidae;Atherix	genus
+Ibisia			
+Athripsodes	446525	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Brevitentoria;Leptoceroidea;Leptoceridae;Leptocerinae;Athripsodini;Athripsodes	genus
+Atractides	257021	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Hygrobatidae;Atractides	genus
+Atrichops	2611282	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Tabanomorpha;Tabanoidea;Athericidae;Atrichops	genus
+Atrioplanaria			
+Aturus	1712352	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Aturidae;Aturus	genus
+Atypophthalamus			
+Audouinella	31359	cellular organisms;Eukaryota;Rhodophyta;Florideophyceae;Nemaliophycidae;Acrochaetiales;Acrochaetiaceae;Audouinella	genus
+Augyles	195170	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Elateriformia;Byrrhoidea;Heteroceridae;Augyles	genus
+Aulacomonas	177250	cellular organisms;Eukaryota;CRuMs;Collodictyonidae;Diphylleia	genus
+Aulacoseira	49233	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Coscinodiscophycidae;Aulacoseiraceae;Aulacoseira	genus
+Auliscus			
+Aulodrilus	76584	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Naididae;Tubificinae;Aulodrilus	genus
+Aulomonas			
+Aulonogyrus	107779	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Adephaga;Gyrinoidea;Gyrinidae;Aulonogyrus	genus
+Aulophorus			
+Avenionia	179932	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Caenogastropoda;Littorinimorpha;Truncatelloidea;Hydrobiidae;Belgrandiinae;Pseudohoratiini;Avenionia	genus
+Axonopsis	2079179	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Aturidae;Axonopsis	genus
+Bacillaria	3002	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Bacillaria	genus
+Baetopus			
+Bagous	166842	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Curculionoidea;Curculionidae;Bagoinae;Bagous	genus
+Balladyna			
+Bandakia	2662669	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Lebertioidea;Anisitsiellidae;Bandakia	genus
+Barbaxonella			
+Bathynella	1986501	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Malacostraca;Eumalacostraca;Syncarida;Bathynellacea;Bathynellidae;Bathynella	genus
+Batrachospermum	2809	cellular organisms;Eukaryota;Rhodophyta;Florideophyceae;Nemaliophycidae;Batrachospermales;Batrachospermaceae;Batrachospermum	genus
+Batracobdelloides	321039	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;Batracobdelloides	genus
+Bavarismittia			
+Belonastrum			
+Belonophrya			
+Beraea	177795	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Brevitentoria;Sericostomatoidea;Beraeidae;Beraea	genus
+Berdeniella	1148477	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Psychodomorpha;Psychodoidea;Psychodidae;Psychodinae;Berdeniella	genus
+Beris	34688	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Stratiomyomorpha;Stratiomyidae;Beridinae;Beris	genus
+Berosus	290646	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Staphyliniformia;Hydrophiloidea;Hydrophilidae;Hydrophilinae;Berosus	genus
+Bicosoeca	272143	cellular organisms;Eukaryota;Sar;Stramenopiles;Bigyra;Opalozoa;Bicosoecida;Bicosoecidae;Bicosoeca	genus
+Binuclearia			
+Bitrichia			
+Blepharicera	547808	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Blephariceromorpha;Blephariceroidea;Blephariceridae;Blepharicera	genus
+Blepharisma	5959	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Heterotrichida;Blepharismidae;Blepharisma	genus
+Boreoheptagyia	2045256	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Diamesinae;Boreoheptagyia	genus
+Borysthenia			
+Borzia			
+Bosmina	27402	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Bosminidae;Bosmina	genus
+Bothriocephalus	56202	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Cestoda;Eucestoda;Bothriocephalidea;Bothriocephalidae;Bothriocephalus	genus
+Bothrostoma			
+Botryochloris	240561	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;PX clade;Xanthophyceae;Mischococcales;Botryochloridaceae;Botryochloris	genus
+Brachionus	10194	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Brachionidae;Brachionus	genus
+Brachycercus	309673	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Furcatergalia;Pannota;Caenoidea;Caenidae;Brachycercus	genus
+Brachypoda	84332	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Cephalocarida;Brachypoda	order
+Brachypoda	2927759	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Aturidae;Brachypoda	genus
+Brachyptera	143731	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Plecoptera;Nemouroidea;Taeniopterygidae;Brachypterainae;Brachyptera	genus
+Branchiomyces			
+Bryocamptus	298465	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Canthocamptidae;Bryocamptus	genus
+Bryum	37412	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Bryophyta;Bryophytina;Bryopsida;Bryidae;Bryanae;Bryales;Bryaceae;Bryum	genus
+Bursaridium			
+Bursellopsis			
+Bythiospeum	179940	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Caenogastropoda;Littorinimorpha;Truncatelloidea;Hydrobiidae;Hydrobiidae incertae sedis;Bythiospeum	genus
+Bythonomus			
+Caenomorpha	59998	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Armophorea;Armophorida;Caenomorphidae;Caenomorpha	genus
+Calanoida-Copepodid			
+Calanoida-Nauplius			
+Caloneis	431323	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Caloneis	genus
+Dichothrix	1316747	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Rivulariaceae;Dichothrix	genus
+Ollicola			
+Calyptotricha			
+Camptocercus	362319	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Chydoridae;Camptocercus	genus
+Campylodiscus	216756	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Surirellales;Surirellaceae;Campylodiscus	genus
+Caracatharina			
+Caraphractus			
+Carbochironomus			
+Carpatogramma			
+Carteria	47780	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Chlamydomonadaceae;Carteria	genus
+Cashia			
+Chlorodesmos			
+Catenula	66403	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Catenulida;Catenulidae;Catenula	genus
+Cavinula			
+Cecidochloris			
+Centrales			
+Centritractus			
+Fragilaria	33644	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Fragilaria	genus
+Cephalodella	231615	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Notommatidae;Cephalodella	genus
+Ceratium	2915	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Gonyaulacales;Ceratiaceae;Ceratium	genus
+Ceratopogoninae	43801	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Ceratopogonidae;Ceratopogoninae	subfamily
+Cercion	197157	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Odonata;Zygoptera;Coenagrionoidea;Coenagrionidae;Erythromma	genus
+Chaenea	5991	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Trachelophyllidae;Chaenea	genus
+Chaetoceros	49237	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Chaetocerotophycidae;Chaetocerotales;Chaetocerotaceae;Chaetoceros	genus
+Chaetocladius	611341	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Chaetocladius	genus
+Chaetogaster	74726	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Naididae;Naidinae;Chaetogaster	genus
+Chaetonotus	68038	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Gastrotricha;Chaetonotida;Paucitubulatina;Chaetonotidae;Chaetonotus	genus
+Chaetophora	51319	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;OCC clade;Chaetophorales;Chaetophoraceae;Chaetophora	genus
+Chaetophora	195185	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Elateriformia;Byrrhoidea;Byrrhidae;Chaetophora	genus
+Chaetopterygini	492564	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Plenitentoria;Limnephiloidea;Limnephilidae;Limnephilinae;Chaetopterygini	tribe
+Chaetospira			
+Chamaepinnularia			
+Chamaesiphon	217161	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Chamaesiphonaceae;Chamaesiphon	genus
+Chantransia	109051	cellular organisms;Eukaryota;Rhodophyta;Florideophyceae;Nemaliophycidae;Batrachospermales;Batrachospermaceae;Chantransia	genus
+Chappuisius			
+Chara	13778	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Charophyceae;Charales;Characeae;Chara	genus
+Characiopsis	1431827	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Eustigmatophyceae;Eustigmatales;Eustigmataceae;Characiopsis	genus
+Characium	3091	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Chlorococcaceae;Characium	genus
+Chelicorophium	1541166	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Malacostraca;Eumalacostraca;Peracarida;Amphipoda;Senticaudata;Corophiida;Corophiidira;Corophioidea;Corophiidae;Chelicorophium	genus
+Chilodonella	151076	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Phyllopharyngia;Chlamydodontida;Chilodonellidae;Chilodonella	genus
+Zosterodasys	502091	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Nassophorea;Synhymeniida;Orthodonellidae;Zosterodasys	genus
+Chilomonas	2897	cellular organisms;Eukaryota;Cryptophyceae;Cryptomonadales;Cryptomonadaceae;Chilomonas	genus
+Chironomus	7150	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Chironomus	genus
+Chironomus	72537	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Chironomus;Chironomus	subgenus
+Chlamydocapsa	292727	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Palmellopsidaceae;Chlamydocapsa	genus
+Chlamydomonas	3052	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Chlamydomonadaceae;Chlamydomonas	genus
+Chlamydonella	717083	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Phyllopharyngia;Chlamydodontida;Lynchellidae;Chlamydonella	genus
+Chlamydonellopsis	717074	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Phyllopharyngia;Chlamydodontida;Lynchellidae;Chlamydonellopsis	genus
+Chlorocloster			
+Chlorogonium	52027	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Haematococcaceae;Chlorogonium	genus
+Chlorophyceae	3166	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae	class
+Chlorotylium			
+Chondrocystis	268175	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Chroococcales;Chroococcaceae;Chondrocystis	genus
+Choricystis	41299	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Trebouxiophyceae incertae sedis;Choricystis clade;Choricystis	genus
+Spiniferomonas			
+Chromulina	2997	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Chromulinaceae;Chromulina	genus
+Chroococcopsis	945730	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pleurocapsales;Hyellaceae;Chroococcopsis	genus
+Chroococcus	70190	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Chroococcales;Chroococcaceae;Chroococcus	genus
+Chroomonas	3028	cellular organisms;Eukaryota;Cryptophyceae;Pyrenomonadales;Chroomonadaceae;Chroomonas	genus
+Chrysamoeba	98047	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Chrysoamoebidaceae;Chrysamoeba	genus
+Chrysidalis			
+Chrysidiastrum			
+Chrysocapsella			
+Chrysococcus			
+Chrysodendron			
+Chrysoflagellaten			
+Chrysoikos			
+Chrysolykos			
+Chrysophyceae	2825	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae	class
+Chrysopilus	124301	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Tabanomorpha;Tabanoidea;Rhagionidae;Chrysopilus	genus
+Chrysopora			
+Chrysopyxis			
+Chrysosphaera	98057	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chrysosphaerales;Chrysosphaeraceae;Chrysosphaera	genus
+Chrysosphaerella	420614	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Synurophyceae;Synurales;Synuraceae;Chrysosphaerella	genus
+Chrysoxys	98069	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Chromulinaceae;Chrysoxys	genus
+Chydorus	77744	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Chydoridae;Chydorus	genus
+Ciliophora,			
+Cinclidotus	129959	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Bryophyta;Bryophytina;Bryopsida;Dicranidae;Pottiales;Pottiaceae;Cinclidotus	genus
+Cladomonas			
+Cladopelma	1278999	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Cladopelma	genus
+Cladotanytarsus	288858	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Tanytarsini;Cladotanytarsus	genus
+Clastidium			
+Closteriopsis	82137	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Chlorellaceae;Closteriopsis	genus
+Closterium	34145	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Desmidiales;Closteriaceae;Closterium	genus
+Coccomonas			
+Cocconeis	216715	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cocconeidales;Cocconeidaceae;Cocconeis	genus
+Cochliopodium	313557	cellular organisms;Eukaryota;Amoebozoa;Discosea;Himatismenida;Cochliopodiidae;Cochliopodium	genus
+Cocquillettidia			
+Codonella	382707	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Choreotrichia;Tintinnida;Codonellidae;Codonella	genus
+Codonosigopsis			
+Codosiga	216891	cellular organisms;Eukaryota;Opisthokonta;Choanoflagellata;Craspedida;Salpingoecidae;Codosiga	genus
+Coelastrum	55408	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Scenedesmaceae;Coelastrum	genus
+Coelosphaerium	470208	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Coelosphaeriaceae;Coelosphaerium	genus
+Schizochloris			
+Coenochloris	170399	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystaceae incertae sedis;Coenochloris	genus
+Coenocystis	82175	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Trebouxiophyceae incertae sedis;Coenocystis	genus
+Pseudocohnilembus	35103	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Philasterida;Pseudocohnilembidae;Pseudocohnilembus	genus
+Kahlilembus			
+Colacium	102909	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Euglenophyceae;Euglenales;Colacium	genus
+Coleps	6003	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Prostomatea;Prorodontida;Colepidae;Coleps	genus
+Collotheca	360644	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Gnesiotrocha;Flosculariaceae;Flosculariidae;Collotheca	genus
+Dexiostoma	63335	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Hymenostomatida;Tetrahymenina;Turaniellidae;Dexiostoma	genus
+Colpidium	5926	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Hymenostomatida;Tetrahymenina;Turaniellidae;Colpidium	genus
+Paracolpidium			
+Colurella	1926390	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Lepadellidae;Colurella	genus
+Conchapelopia	891881	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Tanypodinae;Pentaneurini;Conchapelopia	genus
+Linostoma	2807247	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;rosids;malvids;Malvales;Thymelaeaceae;Linostoma	genus
+Mytilopsis	45970	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Bivalvia;Autobranchia;Heteroconchia;Euheterodonta;Imparidentia;Neoheterodontei;Myida;Dreissenoidea;Dreissenidae;Mytilopsis	genus
+Conochilus	360647	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Gnesiotrocha;Flosculariaceae;Conochilidae;Conochilus	genus
+Conradocystis			
+Copepoda-Copepodid			
+Copepoda-Nauplius			
+Corduliidae	70381	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Odonata;Epiprocta;Anisoptera;Cavilabiata;Corduliidae	family
+Coregonus	27772	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Actinopterygii;Actinopteri;Neopterygii;Teleostei;Osteoglossocephalai;Clupeocephala;Euteleosteomorpha;Protacanthopterygii;Salmoniformes;Salmonidae;Coregoninae;Coregonus	genus
+Monocorophium	1582899	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Malacostraca;Eumalacostraca;Peracarida;Amphipoda;Senticaudata;Corophiida;Corophiidira;Corophioidea;Corophiidae;Monocorophium	genus
+Corynoneura	611344	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Corynoneura	genus
+Coscinodiscoideae			
+Coscinodiscopsis			
+Thalassiosira	35127	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Thalassiosirophycidae;Thalassiosirales;Thalassiosiraceae;Thalassiosira	genus
+Cosmarium	33100	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Cosmarium	genus
+Cosmioneis			
+Costia			
+Crangonyx	111556	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Malacostraca;Eumalacostraca;Peracarida;Amphipoda;Senticaudata;Gammarida;Crangonyctidira;Crangonyctoidea;Crangonyctidae;Crangonyx	genus
+Craticula	431342	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Stauroneidaceae;Craticula	genus
+Cricotopus	153373	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Cricotopus	genus
+Cristigera	1348386	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Pleuronematida;Cyclidiidae;Cristigera	genus
+Crucigenia	1169106	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Scenedesmaceae;Crucigenia	genus
+Willea	1169116	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Makinoelloideae;Willea	genus
+Crucigenioideae			
+Cryptochironomus	391808	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Cryptochironomus	genus
+Cryptomonas	3030	cellular organisms;Eukaryota;Cryptophyceae;Cryptomonadales;Cryptomonadaceae;Cryptomonas	genus
+Cryptopharynx	2615174	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Karyorelictea;Loxodida;Cryptopharyngidae;Cryptopharynx	genus
+Cryptotendipes	891885	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Cryptotendipes	genus
+Ctedoctema			
+Culicella			
+Culiseta	174825	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Culicoidea;Culicidae;Culicinae;Culisetini;Culiseta	genus
+Cyanocatena			
+Cyanodermatium			
+Cyanodictyon	442393	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Synechococcaceae;Cyanodictyon	genus
+Cyanogranis			
+Cyanonephron			
+Cyanophanon			
+Cyanostylon			
+Cyanothece	43988	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Cyanothecaceae;Cyanothece	genus
+Cyathomonas			
+Cyclidium	35099	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Pleuronematida;Cyclidiidae;Cyclidium	genus
+Cyclocypris	1112814	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Oligostraca;Ostracoda;Podocopa;Podocopida;Cypridocopina;Cypridoidea;Cyclocyprididae;Cyclocypris	genus
+Cyclopoida-Copepodid			
+Cyclopoida-Nauplius			
+Cyclostephanos	382378	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Thalassiosirophycidae;Stephanodiscales;Stephanodiscaceae;Cyclostephanos	genus
+Cyclotella	29203	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Thalassiosirophycidae;Stephanodiscales;Stephanodiscaceae;Cyclotella	genus
+Discostella	382381	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Thalassiosirophycidae;Stephanodiscales;Stephanodiscaceae;Discostella	genus
+Cyclotrichium	696132	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Didiniidae;Cyclotrichium	genus
+Cyclotrichium	751773	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;asterids;lamiids;Lamiales;Lamiaceae;Nepetoideae;Mentheae;Cyclotrichium	genus
+Cylindrocystis	37306	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Zygnematales;Mesotaeniaceae;Cylindrocystis	genus
+Cymbella	216744	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cymbellales;Cymbellaceae;Cymbella	genus
+Encyonema	216746	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cymbellales;Cymbellaceae;Encyonema	genus
+Cymbopleura	487667	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cymbellales;Cymbellaceae;Cymbopleura	genus
+Encyonopsis	941923	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cymbellales;Cymbellaceae;Encyonopsis	genus
+Gomphocymbellopsis			
+Delicata			
+Navicymbula			
+Cymbellonitzschia	1796603	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Cymbellonitzschia	genus
+Cyphon	1569076	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Elateriformia;Scirtoidea;Scirtidae;Contacyphon	genus
+Cypria	221386	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Oligostraca;Ostracoda;Podocopa;Podocopida;Cypridocopina;Cypridoidea;Cyclocyprididae;Cypria	genus
+Cystobranchus	251671	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Hirudinea;Hirudinida;Oceanobdelliformes;Piscicolidae;Cystobranchus	genus
+Dactylogyrus	142931	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Monogenea;Monopisthocotylea;Dactylogyridea;Dactylogyridae;Dactylogyrus	genus
+Dallyellidae			
+Danubia			
+Daphnia	6668	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Daphniidae;Daphnia	genus
+Dasygloea			
+Decussata			
+Delphineis	265589	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Rhaponeidales;Rhaphoneidaceae;Delphineis	genus
+Demicryptochironomus	1891129	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Demicryptochironomus	genus
+Dendrobaena	116954	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Crassiclitellata;Lumbricina;Lumbricidae;Lumbricinae;Dendrobaena	genus
+Dendrocoelum	27894	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Rhabditophora;Seriata;Tricladida;Continenticola;Planarioidea;Dendrocoelidae;Dendrocoelum	genus
+Dendrocometes			
+Dendromonas			
+Denticula	1003041	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Denticula	genus
+Nitzschia	2857	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Nitzschia	genus
+Nitzschia	651811	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Monogenea;Monopisthocotylea;Capsalidea;Capsalidae;Nitzschia	genus
+Derotanypus	1754252	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Tanypodinae;Macropelopiini;Derotanypus	genus
+Deschampsia	15452	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;Liliopsida;Petrosaviidae;commelinids;Poales;Poaceae;BOP clade;Pooideae;Poodae;Poeae;Poeae Chloroplast Group 2 (Poeae type);Holcinae;Deschampsia	genus
+Desmarella	81527	cellular organisms;Eukaryota;Opisthokonta;Choanoflagellata;Craspedida;Salpingoecidae;Desmarella	genus
+Desmatractum			
+Desmodesmus	91202	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Scenedesmaceae;Desmodesmus	genus
+Dexiotricha	638334	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Philasterida;Loxocephalidae;Dexiotricha	genus
+Dexiotrichides	2814299	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Philasterida;Philasteridae;Dexiotrichides	genus
+Diacyclops	516365	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Cyclopidae;Diacyclops	genus
+Diadesmis	303457	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Diadesmidaceae;Diadesmis	genus
+Dialytrichia	200708	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Bryophyta;Bryophytina;Bryopsida;Dicranidae;Pottiales;Pottiaceae;Dialytrichia	genus
+Diamesa	338156	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Diamesinae;Diamesa	genus
+Diatoma	2862	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Diatoma	genus
+Diatomella			
+Dicellula			
+Dichotomococcus			
+Dickieia	265531	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Dickieia	genus
+Dicranophorus	360658	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Dicranophoridae;Dicranophorus	genus
+Dictyochlorella			
+Dictyogenus	909448	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Plecoptera;Perloidea;Perlodidae;Perlodinae;Perlodinae incertae sedis;Dictyogenus	genus
+Dictyosphaerium	247496	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Chlorellaceae;Chlorella clade;Dictyosphaerium	genus
+Didinium	5996	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Didiniidae;Didinium	genus
+Didymocystis	91187	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Scenedesmaceae;Didymocystis	genus
+Didymocystis	668748	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Trematoda;Digenea;Azygiida;Hemiuroidea;Didymozoidae;Didymocystis	genus
+Pseudodidymocystis	113525	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Scenedesmaceae;Pseudodidymocystis	genus
+Dileptus	71587	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Dileptidae;Dileptus	genus
+Monilicaryon	1502660	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Dileptidae;Monilicaryon	genus
+Dina	83994	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Hirudinea;Hirudinida;Erpobdelliformes;Erpobdellidae;Dina	genus
+Dinematomonas	181205	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Heteronematina;Heteronematales;Peranemataceae;Dinema	genus
+Dinobryon	98059	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Dinobryaceae;Dinobryon	genus
+Epipyxis	64705	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Dinobryaceae;Epipyxis	genus
+Diplochloris			
+Diploeca			
+Diplomitella			
+Diploneis	1003045	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Diploneidaceae;Diploneis	genus
+Diplostauron			
+Diplostomum	116844	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Trematoda;Digenea;Diplostomida;Diplostomoidea;Diplostomidae;Diplostominae;Diplostomum	genus
+Discomorphella	2022779	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Odontostomatea;Odontostomatida;Discomorphellidae;Discomorphella	genus
+Disematostoma	1683419	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peniculida;Frontoniidae;Disematostoma	genus
+Dixa	79309	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Culicoidea;Dixidae;Dixa	genus
+Dixella	46213	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Culicoidea;Dixidae;Dixella	genus
+Donacia	111199	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Chrysomeloidea;Chrysomelidae;Donaciinae;Donacia	genus
+Dorydrilus	2200903	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Dorydrilidae;Dorydrilus	genus
+Dratnalia			
+Drepanomonas	638337	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Nassophorea;Microthoracida;Microthoracidae;Drepanomonas	genus
+Dryops	195189	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Elateriformia;Byrrhoidea;Dryopidae;Dryops	genus
+Dugesia	6160	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Rhabditophora;Seriata;Tricladida;Continenticola;Geoplanoidea;Dugesiidae;Dugesia	genus
+Dugesia	121909	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;asterids;campanulids;Asterales;Asteraceae;Asteroideae;Heliantheae alliance;Heliantheae;Dugesia	genus
+Dysteria	238904	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Phyllopharyngia;Dysteriida;Dysteriidae;Dysteria	genus
+Ecdyonurus	309576	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Setisura;Heptageniidae;Ecdyonurus	genus
+Echinocamptus			
+Echinosphaerella			
+Einfeldia	391810	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Einfeldia	genus
+Elaeorhanis			
+Elakatothrix	142646	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Klebsormidiophyceae;Klebsormidiales;Elakatotrichaceae;Elakatothrix	genus
+Elaphoidella	1104527	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Canthocamptidae;Elaphoidella	genus
+Electrogena	940666	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Setisura;Heptageniidae;Electrogena	genus
+Ellerbeckia	1529369	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Coscinodiscophycidae;Paraliales;Radialiplicataceae;Ellerbeckia	genus
+Ellipteroides			
+Elodea	26324	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;Liliopsida;Alismatales;Hydrocharitaceae;Elodea	genus
+Elodes	347341	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Elateriformia;Scirtoidea;Scirtidae;Elodes	genus
+Elodidae			
+Elosa			
+Encentrum	360660	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Dicranophoridae;Encentrum	genus
+Enchelyodon	55195	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Trachelophyllidae;Enchelyodon	genus
+Enchelyomorpha			
+Enochrus	290642	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Staphyliniformia;Hydrophiloidea;Hydrophilidae;Hydrophilinae;Enochrus	genus
+Enoicyla	1271739	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Plenitentoria;Limnephiloidea;Limnephilidae;Limnephilinae;Stenophylacini;Enoicyla	genus
+Ulva	3118	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Ulvophyceae;OUU clade;Ulvales;Ulvaceae;Ulva	genus
+Entomoneis	186042	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Entomoneidaceae;Entomoneis	genus
+Entophysalis			
+Entosiphon	101492	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Heteronematina;Heteronematales;Peranemataceae;Entosiphon	genus
+Eolimna	137465	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Eolimna	genus
+Epalxella	408071	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Odontostomatea;Odontostomatida;Epalxellidae;Epalxella	genus
+Epenardia			
+Ephemera	50582	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Furcatergalia;Scapphodonta;Ephemeridae;Ephemera	genus
+Ephemerella	50634	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Furcatergalia;Pannota;Ephemerelloidea;Ephemerellidae;Ephemerella	genus
+Ephemerella	998446	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Bryophyta;Bryophytina;Bryopsida;Funariidae;Funariales;Funariaceae;Ephemerella	genus
+Epiphanes	338912	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Epiphanidae;Epiphanes	genus
+Epistylis	155142	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Epistylidae;Epistylis	genus
+Epithemia	420972	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Rhopalodiales;Rhopalodiaceae;Epithemia	genus
+Eristalinus	115278	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Muscomorpha;Eremoneura;Cyclorrhapha;Aschiza;Syrphoidea;Syrphidae;Eristalinae;Eristalini;Eristalinus	genus
+Erkenia			
+Euastrum	130992	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Euastrum	genus
+Eucapsis	1521555	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Merismopediaceae;Eucapsis	genus
+Euchlanis	231619	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Brachionidae;Euchlanis	genus
+Eucrangonyx			
+Eucyclops	84316	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Podoplea;Cyclopoida;Cyclopidae;Eucyclops	genus
+Eudiaptomus	251516	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Diaptomidae;Eudiaptomus	genus
+Euglena	3038	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Euglenophyceae;Euglenales;Euglenaceae;Euglena	genus
+Eugleninae			
+Euglenophyceae,			
+Euglypha	39713	cellular organisms;Eukaryota;Sar;Rhizaria;Imbricatea;Silicofilosea;Euglyphida;Euglyphidae;Euglypha	genus
+Eukiefferiella	288843	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Eukiefferiella	genus
+Eunotia	196637	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Eunotiophycidae;Eunotiales;Eunotiaceae;Eunotia	genus
+Eunotogramma	515460	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Mediophyceae;Biddulphiophycidae;Anaulales;Anaulaceae;Eunotogramma	genus
+Euplotes	5935	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Hypotrichia;Euplotida;Euplotidae;Euplotes	genus
+Eurylophella	219546	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Furcatergalia;Pannota;Ephemerelloidea;Ephemerellidae;Eurylophella	genus
+Simulium	7191	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Simuliidae;Simuliinae;Simuliini;Simulium	genus
+Simulium	47389	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Simuliidae;Simuliinae;Simuliini;Simulium;Simulium	subgenus
+Eutetramorus			
+Excentrosphaeria			
+Eylais	257710	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Eylaoidea;Eylaidae;Eylais	genus
+Fabaeformiscandona	1112811	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Oligostraca;Ostracoda;Podocopa;Podocopida;Cypridocopina;Cypridoidea;Candonidae;Fabaeformiscandona	genus
+Fallacia	433415	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Sellaphoraceae;Fallacia	genus
+Fallacia	2868815	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Chrysomeloidea;Cerambycidae;Lepturinae;Rhagiini;Fallacia	genus
+Feltria	1635221	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Feltriidae;Feltria	genus
+Ferrissia	191786	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Heterobranchia;Euthyneura;Panpulmonata;Hygrophila;Lymnaeoidea;Ancylidae;Ferrissia	genus
+Feuerborniella			
+Filinia	338286	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Gnesiotrocha;Flosculariaceae;Filinidae;Filinia	genus
+Finlayia			
+Fissidens	52982	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Bryophyta;Bryophytina;Bryopsida;Dicranidae;Dicranales;Fissidentaceae;Fissidens	genus
+Fleuria	2053068	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Fleuria	genus
+Floscularia	195508	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Gnesiotrocha;Flosculariaceae;Flosculariidae;Floscularia	genus
+Forelia	1686738	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Pionidae;Forelia	genus
+Fotterella			
+Hannaea			
+Stauroforma	2231154	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Fragilariales;Staurosiraceae;Stauroforma	genus
+Tabularia	232513	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Licmophorales;Ulnariaceae;Tabularia	genus
+Pseudostaurosira	449146	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Fragilariales;Staurosiraceae;Pseudostaurosira	genus
+Franceia	304616	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystoideae;Franceia	genus
+Fridericia	77730	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Enchytraeida;Enchytraeidae;Fridericia	genus
+Fridericia	354074	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;asterids;lamiids;Lamiales;Bignoniaceae;Bignonieae;Fridericia	genus
+Frontipoda	1635224	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Lebertioidea;Oxidae;Frontipoda	genus
+Frustulia	431357	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Amphipleuraceae;Frustulia	genus
+Gajewskajophrya			
+Gammarus	45625	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Malacostraca;Eumalacostraca;Peracarida;Amphipoda;Senticaudata;Gammarida;Gammaridira;Gammaroidea;Gammaridae;Gammarus	genus
+Gastronauta	2778217	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Phyllopharyngia;Chlamydodontida;Gastronautidae;Gastronauta	genus
+Gastropus	1917128	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Gastropodidae;Gastropus	genus
+Gastrostyla	99925	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Sporadotrichida;Oxytrichidae;Gastrostyla	genus
+Geissleria	1574442	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Geissleria	genus
+Geitleribactron	1825822	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Leptolyngbyaceae;Geitleribactron	genus
+Gelyelloida-Cyclopodid			
+Gelyelloida-Nauplius			
+Geminella	163308	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Chlorellaceae;Geminella	genus
+Georissus	290635	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Staphyliniformia;Hydrophiloidea;Georissidae;Georissus	genus
+Georthocladius	611352	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Georthocladius	genus
+Geranomyia	472371	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Tipulomorpha;Tipuloidea;Limoniidae;Limoniinae;Geranomyia	genus
+Germainiella			
+Glaucoma	5882	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Hymenostomatida;Tetrahymenina;Glaucomidae;Glaucoma	genus
+Glaucospira			
+Gloeobotrys			
+Gloeococcus	55996	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Palmellopsidaceae;Gloeococcus	genus
+Gloeotila	240455	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Chlorellaceae;Gloeotila	genus
+Stichococcus	29646	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Prasiolales;Stichococcaceae;Stichococcus	genus
+Gloeotrichia	92939	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Gloeotrichiaceae;Gloeotrichia	genus
+Glossatella			
+Glossiphonia	55813	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;Glossiphonia	genus
+Glossosoma	177619	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Glossosomatoidea;Glossosomatidae;Glossosomatinae;Glossosomatini;Glossosoma	genus
+Glyptotendipes	33398	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Glyptotendipes	genus
+Golenkinia	204990	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Golenkiniaceae;Golenkinia	genus
+Golenkiniopsis			
+Gomontiella			
+Gomphoneis	1115525	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cymbellales;Gomphonemataceae;Gomphoneis	genus
+Gomphonema	97226	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cymbellales;Gomphonemataceae;Gomphonema	genus
+Gomphosphenia			
+Snowella	283821	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Coelosphaeriaceae;Snowella	genus
+Gomphosphaeria	1521557	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Chroococcales;Gomphosphaeriaceae;Gomphosphaeria	genus
+Gonempeda			
+Gongrosira	37384	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;OCC clade;Chaetophorales;Chaetophoraceae;Gongrosira	genus
+Goniochloris	643631	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Eustigmatophyceae;Goniochloridales;Goniochloris	genus
+Gonyaulax	2912	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Gonyaulacales;Gonyaulacaceae;Gonyaulax	genus
+Graeteriella			
+Grammotaulius	689468	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Plenitentoria;Limnephiloidea;Limnephilidae;Limnephilinae;Limnephilini;Grammotaulius	genus
+Granulocystis	1911607	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystoideae;Granulocystis	genus
+Granulocystopsis	2070454	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystoideae;Granulocystopsis	genus
+Gregiochloris			
+Gymnodinium	2955	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Gymnodinium	genus
+Woloszynskia	2962	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Lophodiniales;Lophodiniaceae;Woloszynskia	genus
+Gymnodinium,			
+Gymnometriocnemus	611353	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Gymnometriocnemus	genus
+Gyrinus	110031	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Adephaga;Gyrinoidea;Gyrinidae;Gyrinus	genus
+Gyrodactylus	37846	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Monogenea;Monopisthocotylea;Gyrodactylidea;Gyrodactylidae;Gyrodactylus	genus
+Gyrodinium	60594	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Gymnodiniales;Gymnodiniaceae;Gyrodinium	genus
+Gyromitus	188979	cellular organisms;Eukaryota;Sar;Rhizaria;Imbricatea;Silicofilosea;Thaumatomonadida;Thaumatomastigidae;Gyromitus	genus
+Gyrosigma	197760	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Pleurosigmataceae;Gyrosigma	genus
+Haematococcus	44744	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Haematococcaceae;Haematococcus	genus
+Halesus	465431	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Plenitentoria;Limnephiloidea;Limnephilidae;Limnephilinae;Stenophylacini;Halesus	genus
+Haliplus	107852	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Adephaga;Haliploidea;Haliplidae;Haliplus	genus
+Halocladius	611354	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Halocladius	genus
+Halteria	5973	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Sporadotrichida;Halteriidae;Halteria	genus
+Hantzschia	186033	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Bacillariales;Bacillariaceae;Hantzschia	genus
+Hapalosiphon	162985	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Hapalosiphonaceae;Hapalosiphon	genus
+Hapalothrix			
+Harnischia	891894	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Harnischia	genus
+Harpacticoida-Copepodid			
+Harpacticoida-Nauplius			
+Hastatella			
+Heliophrya	139858	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Suctoria;Evaginogenida;Heliophryidae;Heliophrya	genus
+Helobdella	6411	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;Helobdella	genus
+Helodrilus	565154	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Crassiclitellata;Lumbricina;Lumbricidae;Lumbricinae;Helodrilus	genus
+Helophorus	154135	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Staphyliniformia;Hydrophiloidea;Helophoridae;Helophorus	genus
+Hemicycliophora	313686	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Nematoda;Chromadorea;Rhabditida;Tylenchina;Tylenchomorpha;Criconematoidea;Hemicycliophoridae;Hemicycliophora	genus
+Hesperocorixa	337904	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Paraneoptera;Hemiptera;Prosorrhyncha;Heteroptera;Euheteroptera;Neoheteroptera;Panheteroptera;Nepomorpha;Corixidae;Corixinae;Hesperocorixa	genus
+Heterocerus	195202	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Elateriformia;Byrrhoidea;Heteroceridae;Heterocerus	genus
+Heterocope	555046	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Gymnoplea;Calanoida;Temoridae;Heterocope	genus
+Heterodesmus	2304340	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Oligostraca;Ostracoda;Myodocopa;Myodocopida;Cypridinoidea;Cypridinidae;Heterodesmus	genus
+Heterogloea	587473	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Synurophyceae;Heterogloeales;Heterogloeaceae;Heterogloea	genus
+Heteroleibleinia	1385886	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Heteroleibleiniaceae;Heteroleibleinia	genus
+Heteromeyenia	2691112	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Porifera;Demospongiae;Heteroscleromorpha;Spongillida;Spongillidae;Heteromeyenia	genus
+Heteronema	1131321	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Heteronematina;Heteronematales;Peranemataceae;Heteronema	genus
+Heterotrissocladius	611357	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Heterotrissocladius	genus
+Heterotrophe			
+Hexamitus			
+Hexotricha			
+Hippodonta	431367	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Hippodonta	genus
+Hippoglossius			
+Histriculus	47667	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Sporadotrichida;Oxytrichidae;Stylonychinae;Histriculus	genus
+Microcrocis			
+Holophrya	2833383	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Prostomatea;Prorodontida;Holophryidae;Holophrya	genus
+Holoplagia			
+Holosticha	57504	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Urostylida;Holostichidae;Holosticha	genus
+Homochaeta			
+Homoeothrix			
+Tapinothrix	890417	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Heteroleibleiniaceae;Tapinothrix	genus
+Hormogonales			
+Hortobagyiella			
+Hyalocardium			
+Hyaloraphidium	82267	cellular organisms;Eukaryota;Opisthokonta;Fungi;Fungi incertae sedis;Chytridiomycota;Chytridiomycota incertae sedis;Monoblepharidomycetes;Monoblepharidales;Monoblepharidales incertae sedis;Hyaloraphidium	genus
+Hyalosphenia	318531	cellular organisms;Eukaryota;Amoebozoa;Tubulinea;Elardia;Arcellinida;Difflugina;Hyalospheniidae;Hyalosphenia	genus
+Hydrachna	768091	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hydrachnoidea;Hydrachnidae;Hydrachna	genus
+Hydraena	290659	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Staphyliniformia;Staphylinoidea;Hydraenidae;Hydraena	genus
+Hydrobaenus	611358	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Hydrobaenus	genus
+Hydrochoreutes	2135232	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Pionidae;Hydrochoreutes	genus
+Hydrococcus	1260486	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Caenogastropoda;Littorinimorpha;Truncatelloidea;Hydrococcidae;Hydrococcus	genus
+Hydrococcus	1616833	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pleurocapsales;Hydrococcaceae;Hydrococcus	genus
+Hydrocoleum	400657	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Microcoleaceae;Hydrocoleum	genus
+Hydroglyphus	107868	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Adephaga;Dytiscoidea;Dytiscidae;Hydroporinae;Bidessini;Hydroglyphus	genus
+Hydroporus	107870	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Adephaga;Dytiscoidea;Dytiscidae;Hydroporinae;Hydroporini;Hydroporus	genus
+Hydropsyche	50443	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Annulipalpia;Hydropsychoidea;Hydropsychidae;Hydropsychinae;Hydropsyche	genus
+Hydroptila	599788	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Hydroptiloidea;Hydroptilidae;Hydroptilinae;Hydroptilini;Hydroptila	genus
+Hydrovatus	107875	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Adephaga;Dytiscoidea;Dytiscidae;Hydroporinae;Hydrovatini;Hydrovatus	genus
+Hydryphantes	1252991	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hydryphantoidea;Hydryphantidae;Hydryphantes	genus
+Hyella	945733	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pleurocapsales;Hyellaceae;Hyella	genus
+Hygropetra			
+Hygrotus	107883	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Adephaga;Dytiscoidea;Dytiscidae;Hydroporinae;Hygrotini;Hygrotus	genus
+Hygrotus	2755029	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Adephaga;Dytiscoidea;Dytiscidae;Hydroporinae;Hygrotini;Hygrotus;Hygrotus	subgenus
+Hymenomonas	418936	cellular organisms;Eukaryota;Haptista;Haptophyta;Prymnesiophyceae;Coccolithales;Hymenomonadaceae;Hymenomonas	genus
+Hypophyllus			
+Hypsibius	58670	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Tardigrada;Eutardigrada;Parachela;Hypsibioidea;Hypsibiidae;Hypsibius	genus
+Ichthyosporidium	27975	cellular organisms;Eukaryota;Opisthokonta;Fungi;Fungi incertae sedis;Microsporidia;Apansporoblastina;Nosematidae;Ichthyosporidium	genus
+Ilyocryptus	77758	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Macrotrichidae;Ilyocryptus	genus
+Intranstylum			
+Isochaeta			
+Isochaetides	947480	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Naididae;Tubificinae;Isochaetides	genus
+Isoperla	143767	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Plecoptera;Perloidea;Perlodidae;Isoperlinae;Isoperla	genus
+Isthmochloron			
+Italobdella			
+Juncus	13578	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;Liliopsida;Petrosaviidae;commelinids;Poales;Juncaceae;Juncus	genus
+Jungiella	1161012	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Psychodomorpha;Psychodoidea;Psychodidae;Psychodinae;Jungiella	genus
+Juranyiella			
+Katablepharis	339962	cellular organisms;Eukaryota;Cryptophyceae;Kathablepharidacea;Katablepharidaceae;Katablepharis	genus
+Katagnymene	164815	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Gomontiellaceae;Katagnymene	genus
+Lebouridinium			
+Katodinium	373099	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Gymnodiniales;Tovelliaceae;Katodinium	genus
+Kephyrion	1074835	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Dinobryaceae;Kephyrion	genus
+Pseudokephyrion			
+Stenokalyx			
+Keratella	204737	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Brachionidae;Keratella	genus
+Keratococcus	52961	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Chlorellaceae;Keratococcus	genus
+Raphidocelis	307506	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Selenastraceae;Raphidocelis	genus
+Kirchneriella	55412	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Selenastraceae;Kirchneriella	genus
+Kloosia			
+Kobayasiella	1551409	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Kobayasiella	genus
+Koliella	242837	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Prasiolales;Koliellaceae;Koliella	genus
+Komarekia	1169110	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Scenedesmaceae;Komarekia	genus
+Komvophoron	358711	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Pseudanabaenaceae;Komvophoron	genus
+Kongsbergia	2435041	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Aturidae;Kongsbergia	genus
+Korshikoviella			
+Micropsectra	288800	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Tanytarsini;Micropsectra	genus
+Laccobius	347368	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Staphyliniformia;Hydrophiloidea;Hydrophilidae;Hydrophilinae;Laccobius	genus
+Lagynus	2803491	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Lacrymariidae;Lagynus	genus
+Lacrymaria	71680	cellular organisms;Eukaryota;Opisthokonta;Fungi;Dikarya;Basidiomycota;Agaricomycotina;Agaricomycetes;Agaricomycetidae;Agaricales;Agaricaceae;Lacrymaria	genus
+Lacrymaria	185694	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Lacrymariidae;Lacrymaria	genus
+Lagenophrya			
+Lagenophrys			
+Lagerheimia	202678	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystoideae;Lagerheimia	genus
+Lagynion	98063	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Hibberdiales;Stylococcaceae;Lagynion	genus
+Lagynophrya	1173383	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Trachelophyllidae;Lagynophrya	genus
+Lamprothamnium	37389	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Charophyceae;Charales;Characeae;Lamprothamnium	genus
+Lasiodiamesa	646267	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Podonominae;Lasiodiamesa	genus
+Latona			
+Lauterborniella	288850	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Lauterborniella	genus
+Lebertia	257713	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Lebertioidea;Lebertiidae;Lebertia	genus
+Lecane	96445	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Lecanidae;Lecane	genus
+Legendrea			
+Leibleinia			
+Lemanea	67899	cellular organisms;Eukaryota;Rhodophyta;Florideophyceae;Nemaliophycidae;Batrachospermales;Lemaneaceae;Lemanea	genus
+Lembadion	54107	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peniculida;Lembadionidae;Lembadion	genus
+Lemmermanniella			
+Lepadella	231621	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Lepadellidae;Lepadella	genus
+Lepidotrachelophyllum			
+Lepocinclis	66846	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Euglenophyceae;Euglenales;Phacaceae;Lepocinclis	genus
+Leptocerus	177825	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Brevitentoria;Leptoceroidea;Leptoceridae;Leptocerinae;Leptocerini;Leptocerus	genus
+Leptolyngbya	47251	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Leptolyngbyaceae;Leptolyngbya	genus
+Leptopharynx	502089	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Nassophorea;Microthoracida;Microthoracidae;Leptopharynx	genus
+Leptophlebia	219461	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Furcatergalia;Lanceolata;Leptophlebioidea;Leptophlebiidae;Leptophlebiinae;Leptophlebia	genus
+Lethaxona			
+Leuctra	143734	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Plecoptera;Nemouroidea;Leuctridae;Leuctrinae;Leuctra	genus
+Lichenes			
+Liliimorpha			
+Limnephilus	177674	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Plenitentoria;Limnephiloidea;Limnephilidae;Limnephilinae;Limnephilini;Limnephilus	genus
+Limnesia	673105	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Limnesiidae;Limnesia	genus
+Limnodrilus	76586	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Naididae;Tubificinae;Limnodrilus	genus
+Limnophyes	190098	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Limnophyes	genus
+Limnostrombidium	1844089	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Oligotrichia;Strombidiidae;Limnostrombidium	genus
+Limnothrix	132605	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Pseudanabaenaceae;Limnothrix	genus
+Limoniidae	43823	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Tipulomorpha;Tipuloidea;Limoniidae	family
+Lindia	360668	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Lindiidae;Lindia	genus
+Lipiniella	391812	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Lipiniella	genus
+Liponeura	446516	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Blephariceromorpha;Blephariceroidea;Blephariceridae;Liponeura	genus
+Lithoglyphus	176883	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Caenogastropoda;Littorinimorpha;Truncatelloidea;Hydrobiidae;Lithoglyphinae;Lithoglyphus	genus
+Lithotanytarsus			
+Lobomonas	128464	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Volvocaceae;Lobomonas	genus
+Lonchoptera	92595	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Muscomorpha;Eremoneura;Cyclorrhapha;Aschiza;Platypezoidea;Lonchopteridae;Lonchoptera	genus
+Longitricha			
+Loxocephalus			
+Loxophyllum	39458	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Pleurostomatida;Litonotidae;Loxophyllum	genus
+Luticola	431369	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Diadesmidaceae;Luticola	genus
+Lyngbya	28073	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Oscillatoriaceae;Lyngbya	genus
+Dactylobiotus	290170	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Tardigrada;Eutardigrada;Parachela;Macrobiotoidea;Murrayidae;Dactylobiotus	genus
+Macrothrix	362306	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Macrotrichidae;Macrothrix	genus
+Maillotia	53534	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Culicoidea;Culicidae;Culicinae;Culicini;Culex;Maillotia	subgenus
+Malacoceros	104704	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Polychaeta;Sedentaria;Canalipalpata;Spionida;Spionidae;Malacoceros	genus
+Mallomonas	2988	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Synurophyceae;Synurales;Mallomonadaceae;Mallomonas	genus
+Marine			
+Marituja	2035043	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peniculida;Stokesiidae;Marituja	genus
+Marstoniopsis	152174	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Caenogastropoda;Littorinimorpha;Truncatelloidea;Hydrobiidae;Amnicolinae;Marstoniopsis	genus
+Marthamea	2907562	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Plecoptera;Perloidea;Perlidae;Perlinae;Marthamea	genus
+Mastogloia	1003320	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Mastogloiales;Mastogloiaceae;Mastogloia	genus
+Mattheuccia			
+Mayamaea	431390	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Mayamaea	genus
+Melampophylax	1876304	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Plenitentoria;Limnephiloidea;Limnephilidae;Limnephilinae;Stenophylacini;Melampophylax	genus
+Melanoides	55728	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Caenogastropoda;Sorbeoconcha;Cerithioidea;Thiaridae;Thiarinae;Melanoides	genus
+Miosira			
+Melosira	35124	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Coscinodiscophycidae;Melosirales;Melosiraceae;Melosira	genus
+Membranicola	2023705	cellular organisms;Bacteria;FCB group;Bacteroidetes/Chlorobi group;Bacteroidetes;Saprospiria;Saprospirales;Saprospiraceae;Membranicola	genus
+Membranipora	95169	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Bryozoa;Gymnolaemata;Cheilostomatida;Malacostegina;Membraniporoidea;Membraniporidae;Membranipora	genus
+Menoidium	118007	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Aphagea;Rhabdomonadales;Astasiidae;Menoidium	genus
+Mentha	21819	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;asterids;lamiids;Lamiales;Lamiaceae;Nepetoideae;Mentheae;Menthinae;Mentha	genus
+Meridion	1490962	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Meridion	genus
+Merismopedia	53402	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Merismopediaceae;Merismopedia	genus
+Merlangius	8057	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Actinopterygii;Actinopteri;Neopterygii;Teleostei;Osteoglossocephalai;Clupeocephala;Euteleosteomorpha;Neoteleostei;Eurypterygia;Ctenosquamata;Acanthomorphata;Paracanthopterygii;Zeiogadaria;Gadariae;Gadiformes;Gadoidei;Gadidae;Merlangius	genus
+Mesoporos			
+Mesostoma	99404	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Rhabditophora;Rhabdocoela;Neodalyellida;Typhloplanidae;Mesostominae;Mesostoma	genus
+Metacystis	1680911	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Prostomatea;Prostomatida;Metacystidae;Metacystis	genus
+Metechinorhynchus			
+Metopus	5964	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Armophorea;Metopida;Metopidae;Metopus	genus
+Metriocnemus	137497	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Metriocnemus	genus
+Micilus			
+Micractinium	126838	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Chlorellaceae;Chlorella clade;Micractinium	genus
+Microchironomus	307655	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Microchironomus	genus
+Microcoleus	44471	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Microcoleaceae;Microcoleus	genus
+Microcometes			
+Microcostatus	2830917	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Sellaphoraceae;Microcostatus	genus
+Microcystis	1125	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Chroococcales;Microcystaceae;Microcystis	genus
+Micropterna	465433	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Plenitentoria;Limnephiloidea;Limnephilidae;Limnephilinae;Stenophylacini;Micropterna	genus
+Microspora	6029	cellular organisms;Eukaryota;Opisthokonta;Fungi;Fungi incertae sedis;Microsporidia	phylum
+Microspora	163316	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;Chlorophyceae incertae sedis;Microsporaceae;Microspora	genus
+Microtendipes	891903	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Microtendipes	genus
+Microthamnion	34147	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Microthamniales;Microthamniaceae;Microthamnion	genus
+Microthorax			
+Microturbellarien			
+Microvelia	95679	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Paraneoptera;Hemiptera;Prosorrhyncha;Heteroptera;Euheteroptera;Neoheteroptera;Gerromorpha;Gerroidea;Veliidae;Microveliinae;Microvelia	genus
+Mischococcus	55586	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;PX clade;Xanthophyceae;Mischococcales;Mischococcaceae;Mischococcus	genus
+Mixtacandona	2662473	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Oligostraca;Ostracoda;Podocopa;Podocopida;Cypridocopina;Cypridoidea;Candonidae;Mixtacandona	genus
+Monallantus			
+Monatractides	2483383	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Lebertioidea;Torrenticolidae;Monatractides	genus
+Monochilum			
+Monochrysis	156215	cellular organisms;Eukaryota;Haptista;Haptophyta;Pavlovales;Monochrysis	genus
+Monodiamesa	891905	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Prodiamesinae;Monodiamesa	genus
+Monodinium	382709	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Didiniidae;Monodinium	genus
+Monommata	360678	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Notommatidae;Monommata	genus
+Monoraphidium	34111	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Selenastraceae;Monoraphidium	genus
+Monosiga	81525	cellular organisms;Eukaryota;Opisthokonta;Choanoflagellata;Craspedida;Salpingoecidae;Monosiga	genus
+Monospilus			
+Monostroma	63411	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Ulvophyceae;OUU clade;Ulvales;Monostromataceae;Monostroma	genus
+Moraria	2790030	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Canthocamptidae;Moraria	genus
+Mougeotia	13157	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Zygnematales;Zygnemataceae;Mougeotia	genus
+Mucophrya			
+Muelleria			
+Myocastor	10156	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Mammalia;Theria;Eutheria;Boreoeutheria;Euarchontoglires;Glires;Rodentia;Hystricomorpha;Myocastoridae;Myocastor	genus
+Mytilinia			
+Naididae	2109251	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Naididae	family
+Nais	74730	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Naididae;Naidinae;Nais	genus
+Nais	85919	cellular organisms;Eukaryota;Opisthokonta;Fungi;Dikarya;Ascomycota;saccharomyceta;Pezizomycotina;leotiomyceta;sordariomyceta;Sordariomycetes;Hypocreomycetidae;Microascales;Halosphaeriaceae;Nais	genus
+Obertrumia	40327	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Nassophorea;Nassulida;Nassulidae;Obertrumia	genus
+Nassula	502083	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Nassophorea;Nassulida;Nassulidae;Nassula	genus
+Nassulopsis			
+Navicula	50949	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Navicula	genus
+Naviculadicta			
+Sellaphora	216740	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Sellaphoraceae;Sellaphora	genus
+Placoneis	286102	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cymbellales;Cymbellaceae;Placoneis	genus
+Neidium	432550	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Neidiaceae;Neidium	genus
+Proschkinia	2562729	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Proschkiniaceae;Proschkinia	genus
+Navigiolum			
+Parlibellus	1259758	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Berkeleyaceae;Parlibellus	genus
+Pinnunavis	1629882	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Naviculaceae;Pinnunavis	genus
+Petroneis	286110	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Lyrellales;Lyrellaceae;Petroneis	genus
+Neidiopsis			
+Sieminskia			
+Nemotelus	343582	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Stratiomyomorpha;Stratiomyidae;Nemotelinae;Nemotelus	genus
+Nemoura	62803	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Plecoptera;Nemouroidea;Nemouridae;Nemourinae;Nemoura	genus
+Neoculex	53537	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Culicoidea;Culicidae;Culicinae;Culicini;Culex;Neoculex	subgenus
+Neocystis	1065495	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Radiococcaceae;Neocystis	genus
+Neoechinorhynchus	45088	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Acanthocephala;Eoacanthocephala;Neoechinorhynchida;Neoechinorhynchidae;Neoechinorhynchus	genus
+Neoephemera	243546	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Furcatergalia;Pannota;Caenoidea;Neoephemeridae;Neoephemera	genus
+Neogobius	47307	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Actinopterygii;Actinopteri;Neopterygii;Teleostei;Osteoglossocephalai;Clupeocephala;Euteleosteomorpha;Neoteleostei;Eurypterygia;Ctenosquamata;Acanthomorphata;Euacanthomorphacea;Percomorphaceae;Gobiaria;Gobiiformes;Gobioidei;Gobiidae;Benthophilinae;Neogobiini;Neogobius	genus
+Neolimnomyia	2886670	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Tipulomorpha;Tipuloidea;Limoniidae;Limnophilinae;Neolimnomyia	genus
+Neophytobius	878206	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Curculionoidea;Curculionidae;Baridinae;Neophytobius	genus
+Neostempellina	1085033	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Tanytarsini;Neostempellina	genus
+Neozavrelia	364945	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Tanytarsini;Neozavrelia	genus
+Nephrochlamys	876698	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Selenastraceae;Nephrochlamys	genus
+Nephrodiella			
+Nephroselmis	31311	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Nephroselmidophyceae;Nephroselmidales;Nephroselmidaceae;Nephroselmis	genus
+Niphargellus	2589672	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Malacostraca;Eumalacostraca;Peracarida;Amphipoda;Senticaudata;Gammarida;Crangonyctidira;Crangonyctoidea;Niphargidae;Niphargellus	genus
+Niphargus	111560	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Malacostraca;Eumalacostraca;Peracarida;Amphipoda;Senticaudata;Gammarida;Crangonyctidira;Crangonyctoidea;Niphargidae;Niphargus	genus
+Nitella	3148	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Charophyceae;Charales;Characeae;Nitella	genus
+Nitocrella	2775253	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Ameiridae;Nitocrella	genus
+Nostoc	1177	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Nostocales;Nostocaceae;Nostoc	genus
+Notaris	298246	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Curculionoidea;Erirhinidae;Erirhininae;Notaris	genus
+Notholca	231617	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Brachionidae;Notholca	genus
+Notommata	47120	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Notommatidae;Notommata	genus
+Obesogammarus	225956	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Malacostraca;Eumalacostraca;Peracarida;Amphipoda;Senticaudata;Gammarida;Gammaridira;Gammaroidea;Gammaridae;Obesogammarus	genus
+Ochlerotatus	53545	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Culicoidea;Culicidae;Culicinae;Aedini;Ochlerotatus;Ochlerotatus	subgenus
+Ochlerotatus	190765	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Culicoidea;Culicidae;Culicinae;Aedini;Ochlerotatus	genus
+Ochromonas	2985	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Chromulinaceae;Ochromonas	genus
+Ochthebius	174908	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Staphyliniformia;Staphylinoidea;Hydraenidae;Ochthebius	genus
+Octactis			
+Odontella	2838	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Mediophyceae;Biddulphiophycidae;Eupodiscales;Odontellaceae;Odontella	genus
+Odontella	332376	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Collembola;Poduromorpha;Poduroidea;Odontellidae;Odontella	genus
+Trieres	1529381	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Mediophyceae;Biddulphiophycidae;Eupodiscales;Parodontellaceae;Trieres	genus
+Odontomesa	880190	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Prodiamesinae;Odontomesa	genus
+Odontomyia	343652	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Stratiomyomorpha;Stratiomyidae;Stratiomyinae;Stratiomyini;Odontomyia	genus
+Oecetis	50643	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Brevitentoria;Leptoceroidea;Leptoceridae;Leptocerinae;Oecetini;Oecetis	genus
+Oedogonium	55993	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;OCC clade;Oedogoniales;Oedogoniaceae;Oedogonium	genus
+Oemopteryx	270820	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Plecoptera;Nemouroidea;Taeniopterygidae;Brachypterainae;Oemopteryx	genus
+Oestrupia			
+Oligochoerus			
+Oligoneuriella	309675	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Setisura;Oligoneuriidae;Oligoneuriella	genus
+Oligoneurisca			
+Onchulus			
+Onychogomphus	126253	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Odonata;Epiprocta;Anisoptera;Gomphidae;Onychogomphus	genus
+Opephora	515465	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Fragilariales;Staurosiraceae;Opephora	genus
+Opercularia	58397	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;asterids;lamiids;Gentianales;Rubiaceae;Rubioideae;Anthospermeae;Opercularia	genus
+Opercularia	168247	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Operculariidae;Opercularia	genus
+Ophiocytium	73018	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;PX clade;Xanthophyceae;Mischococcales;Ophiocytiaceae;Ophiocytium	genus
+Ophrydium	168250	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Ophrydiidae;Ophrydium	genus
+Ophryoglena	37091	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Hymenostomatida;Ophryoglenina;Ophryoglena	genus
+Orthocladius	288845	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Orthocladius	genus
+Phormidium	1198	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Oscillatoriaceae;Phormidium	genus
+Oscillatoria	1158	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Oscillatoriaceae;Oscillatoria	genus
+Osteichthyes			
+Oxus	1350212	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Lebertioidea;Oxidae;Oxus	genus
+Oxycera	860348	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Stratiomyomorpha;Stratiomyidae;Stratiomyinae;Oxycerini;Oxycera	genus
+Oxyloma	74077	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Heterobranchia;Euthyneura;Panpulmonata;Eupulmonata;Stylommatophora;Helicina;Succineoidea;Succineidae;Oxyloma	genus
+Oxytricha	5943	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Sporadotrichida;Oxytrichidae;Oxytrichinae;Oxytricha	genus
+Oxyurella	423265	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Chydoridae;Oxyurella	genus
+Pallasiola	1391620	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Chrysomeloidea;Chrysomelidae;Galerucinae;Galerucini;Pallasiola	genus
+Palmella			
+Palmellopsis	240367	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;Tetrasporales;Palmellaceae;Palmellopsis	genus
+Palmodictyon			
+Panisopsis	1200320	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hydryphantoidea;Hydryphantidae;Panisopsis	genus
+Pannus	1427526	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Merismopediaceae;Pannus	genus
+Parachilodonella			
+Parachironomus	315554	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Parachironomus	genus
+Paracricotopus	611370	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Paracricotopus	genus
+Paracymus	674367	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Staphyliniformia;Hydrophiloidea;Hydrophilidae;Hydrophilinae;Paracymus	genus
+Paradoxia	249349	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Trebouxiophyceae incertae sedis;Coccomyxaceae;Paradoxia	genus
+Parakiefferiella	611371	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Parakiefferiella	genus
+Paramastix			
+Parametriocnemus	611373	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Parametriocnemus	genus
+Parapediastrum	427894	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Hydrodictyaceae;Parapediastrum	genus
+Parapodophrya			
+Parapoynx	687116	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Lepidoptera;Glossata;Neolepidoptera;Heteroneura;Ditrysia;Obtectomera;Pyraloidea;Crambidae;Nymphulinae;Parapoynx	genus
+Parasoldanellonyx			
+Parastenocaris	1104532	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Multicrustacea;Hexanauplia;Copepoda;Neocopepoda;Podoplea;Harpacticoida;Parastenocarididae;Parastenocaris	genus
+Paratanytarsus	82133	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Tanytarsini;Paratanytarsus	genus
+Paratendipes	1279001	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Paratendipes	genus
+Paratrichocladius	315558	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Paratrichocladius	genus
+Paratrissocladius			
+Parorthocladius	611377	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Parorthocladius	genus
+Uroleptus	57512	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Urostylida;Urostylidae;Uroleptus	genus
+Parvodinium	2081632	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Peridiniales;Peridiniopsidaceae;Parvodinium	genus
+Pawlowskiella			
+Pediastrum	3104	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Hydrodictyaceae;Pediastrum	genus
+Pelagohalteria			
+Pelagolacrymaria			
+Pelagostrombidium	659332	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Oligotrichia;Strombidiidae;Pelagostrombidium	genus
+Pelagothrix	614058	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Prostomatea;Prorodontida;Holophryidae;Pelagothrix	genus
+Pelagotrichidium			
+Pelagovasicola			
+Pelagovorticella			
+Pelenomus	878422	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Curculionoidea;Curculionidae;Baridinae;Pelenomus	genus
+Pellia	40339	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Marchantiophyta;Jungermanniopsida;Pelliidae;Pelliales;Pelliaceae;Pellia	genus
+Pelodinium			
+Pennales			
+Peranema	3287	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Polypodiopsida;Polypodiidae;Polypodiales;Polypodiineae;Dryopteridaceae;Dryopteridoideae;Dryopteris	genus
+Peranema	56465	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Heteronematina;Heteronematales;Peranemidae;Peranema	genus
+Tyrannodinium	1476394	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Peridiniales;Pfiesteriaceae;Tyrannodinium	genus
+Peridiniopsis	425806	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Peridiniales;Peridiniopsidaceae;Peridiniopsis	genus
+Peridinium	2867	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Peridiniales;Peridiniaceae;Peridinium	genus
+Perigonimus			
+Peripsychoda			
+Peronia	500108	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Heterobranchia;Euthyneura;Panpulmonata;Eupulmonata;Systellommatophora;Onchidioidea;Onchidiidae;Peronia	genus
+Petalomonas	56451	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Petalomonadida;Scytomonadidae;Petalomonas	genus
+Peusomyia			
+Phacotus	52033	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Phacotaceae;Phacotus	genus
+Phacus	96783	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Euglenophyceae;Euglenales;Phacaceae;Phacus	genus
+Phaeodermatium			
+Phagocata	27899	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Rhabditophora;Seriata;Tricladida;Continenticola;Planarioidea;Planariidae;Phagocata	genus
+Philasterides	282687	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Philasterida;Philasteridae;Philasterides	genus
+Pholis	56725	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Actinopterygii;Actinopteri;Neopterygii;Teleostei;Osteoglossocephalai;Clupeocephala;Euteleosteomorpha;Neoteleostei;Eurypterygia;Ctenosquamata;Acanthomorphata;Euacanthomorphacea;Percomorphaceae;Eupercaria;Perciformes;Cottioidei;Zoarcales;Pholidae;Pholinae;Pholis	genus
+Phormidiochaete			
+Phyllolabis	2886732	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Tipulomorpha;Tipuloidea;Limoniidae;Chioneinae;Phyllolabis	genus
+Phyllomitus			
+Phyllomonas			
+Phyllotelmatoscopus			
+Phytoplankton,			
+Picoplankton,			
+Piersigia			
+Pinnularia	216736	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Pinnulariaceae;Pinnularia	genus
+Piona	1046329	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Pionidae;Piona	genus
+Pionacercus	2461124	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Pionidae;Pionacercus	genus
+Pionopsis			
+Pisces			
+Piscicola	60957	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Hirudinea;Hirudinida;Oceanobdelliformes;Piscicolidae;Piscicola	genus
+Pisidium	98305	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Bivalvia;Autobranchia;Heteroconchia;Euheterodonta;Imparidentia;Neoheterodontei;Venerida;Cyrenoidea;Sphaeriidae;Pisidium	genus
+Placus	693142	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Prostomatea;Prorodontida;Placidae;Placus	genus
+Plagiocampa	1348341	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Prostomatea;Prorodontida;Plagiocampidae;Plagiocampa	genus
+Planctococcus			
+Planktolyngbya	471271	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Leptolyngbyaceae;Planktolyngbya	genus
+Planktothrix	54304	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Microcoleaceae;Planktothrix	genus
+Platycola			
+Platynematum	1367512	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Philasterida;Cinetochilidae;Platynematum	genus
+Plectonema	1183	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Oscillatoriaceae;Plectonema	genus
+Plectrocnemia	161769	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Annulipalpia;Psychomyioidea;Polycentropodidae;Polycentropodinae;Plectrocnemia	genus
+Pleurocapsa	44474	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pleurocapsales;Hyellaceae;Pleurocapsa	genus
+Pleuronema	31279	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Pleuronematida;Pleuronematidae;Pleuronema	genus
+Pleurosigma	197752	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Pleurosigmataceae;Pleurosigma	genus
+Pleurotaenium	130988	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Pleurotaenium	genus
+Pleurotricha	57510	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Sporadotrichida;Oxytrichidae;Stylonychinae;Pleurotricha	genus
+Pleuroxus	362313	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Branchiopoda;Phyllopoda;Diplostraca;Cladocera;Anomopoda;Chydoridae;Pleuroxus	genus
+Ploesoma	360689	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Synchaetidae;Ploesoma	genus
+Podophrya	1974331	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Suctoria;Exogenida;Podophryidae;Podophrya	genus
+Podosira	265574	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Coscinodiscophycidae;Melosirales;Hyalodiscaceae;Podosira	genus
+Polyarthra	360692	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Synchaetidae;Polyarthra	genus
+Polydora	46600	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Polychaeta;Sedentaria;Canalipalpata;Spionida;Spionidae;Polydora	genus
+Polydora	1227177	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;asterids;campanulids;Asterales;Asteraceae;Vernonioideae;Vernonieae;Erlangeinae;Polydora	genus
+Polyedriella			
+Polygoniochloris			
+Polypedilum	54968	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Polypedilum	genus
+Polypedilum	2056899	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Polypedilum;Polypedilum	subgenus
+Polytoma	40525	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Chlamydomonadaceae;Polytoma	genus
+Pompholyx	2739615	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Gnesiotrocha;Flosculariaceae;Testudinellidae;Pompholyx	genus
+Potamogeton	13228	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;Liliopsida;Alismatales;Potamogetonaceae;Potamogeton	genus
+Prionolabis	700857	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Tipulomorpha;Tipuloidea;Limoniidae;Limnophilinae;Prionolabis	genus
+Pristinella			
+Pristina	150439	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Naididae;Naidinae;Pristina	genus
+Proales	360694	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Proalidae;Proales	genus
+Procladius	191633	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Tanypodinae;Procladini;Procladius	genus
+Procloeon	248186	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Pisciforma;Baetidae;Procloeon	genus
+Prodiamesa	288839	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Prodiamesinae;Prodiamesa	genus
+Prodiscophrya	238907	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Suctoria;Evaginogenida;Discophryidae;Prodiscophrya	genus
+Propsilocerus	903465	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Propsilocerus	genus
+Prorodon	40332	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Prostomatea;Prorodontida;Prorodontidae;Prorodon	genus
+Protoderma	53262	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Ulvophyceae;OUU clade;Ulotrichales;Ulotrichales incertae sedis;Protoderma	genus
+Protonemura	143716	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Plecoptera;Nemouroidea;Nemouridae;Nemourinae;Protonemura	genus
+Protoperidinium	261839	cellular organisms;Eukaryota;Sar;Alveolata;Dinophyceae;Peridiniales;Protoperidiniaceae;Protoperidinium	genus
+Provasoliella			
+Psectrocladius	288848	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Psectrocladius	genus
+Pseudanabaena	1152	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Pseudanabaenaceae;Pseudanabaena	genus
+Pseudanthrobathynella			
+Pseudocandona	1112808	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Crustacea;Oligostraca;Ostracoda;Podocopa;Podocopida;Cypridocopina;Cypridoidea;Candonidae;Pseudocandona	genus
+Pseudocentroptiloides			
+Pseudochilodonopsis	1170555	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Phyllopharyngia;Chlamydodontida;Chilodonellidae;Pseudochilodonopsis	genus
+Pseudochlamydonella			
+Pseudofeltria			
+Pseudomicrothorax	6018	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Nassophorea;Microthoracida;Pseudomicrothoracidae;Pseudomicrothorax	genus
+Pseudoncobyrsa			
+Pseudopedinella	35683	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Dictyochophyceae;Pedinellales;Pseudopedinella	genus
+Pseudophormidium	268156	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Oscillatoriophycideae;Oscillatoriales;Microcoleaceae;Pseudophormidium	genus
+Pseudophyllomitus	1978332	cellular organisms;Eukaryota;Sar;Stramenopiles;Bigyra;Pseudophyllomitidae;Pseudophyllomitus	genus
+Pseudopolyedriopsis			
+Pseudoquadrigula			
+Pseudorthocladius	611381	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Pseudorthocladius	genus
+Pseudoschroederia	132189	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Schroederiaceae;Pseudoschroederia	genus
+Pseudosmittia	611382	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Pseudosmittia	genus
+Pseudosphaerocystis			
+Pseudostaurastrum	425068	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Eustigmatophyceae;Goniochloridales;Pseudostaurastrum	genus
+Pseudostrombidium			
+Pseudotetrastrum			
+Pseudovorticella	310678	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Vorticellidae;Pseudovorticella	genus
+Psilopteryx	1876365	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Plenitentoria;Limnephiloidea;Limnephilidae;Limnephilinae;Chaetopterygini;Psilopteryx	genus
+Psilotricha	2654408	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Stichotrichida;Kahliellidae;Psilotricha	genus
+Psychomyia	177920	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Annulipalpia;Psychomyioidea;Psychomyiidae;Psychomyiinae;Psychomyia	genus
+Pteromonas	52966	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Phacotaceae;Pteromonas	genus
+Ptychoptera	209691	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Ptychopteromorpha;Ptychopteridae;Ptychopterinae;Ptychoptera	genus
+Ptygura	360650	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Gnesiotrocha;Flosculariaceae;Flosculariidae;Ptygura	genus
+Pulchella			
+Pyramichlamys			
+Pyramimonas	36882	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Pyramimonadophyceae;Pyramimonadales;Pyramimonadaceae;Pyramimonas	genus
+Pyxicola	2488815	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Vaginicolidae;Pyxicola	genus
+Quadricoccus	138117	cellular organisms;Bacteria;Proteobacteria;Betaproteobacteria;Rhodocyclales;Azonexaceae;Quatrionicoccus	genus
+Quadricoccus	1065485	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystoideae;Quadricoccus	genus
+Quadrigula	82290	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Selenastraceae;Quadrigula	genus
+Quickella			
+Radiococcus	245902	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Radiococcaceae;Radiococcus	genus
+Radix	55689	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Heterobranchia;Euthyneura;Panpulmonata;Hygrophila;Lymnaeoidea;Lymnaeidae;Radix	genus
+Rana	8399	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amphibia;Batrachia;Anura;Neobatrachia;Ranoidea;Ranidae;Rana	genus
+Rana	121175	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amphibia;Batrachia;Anura;Neobatrachia;Ranoidea;Ranidae;Rana;Rana	subgenus
+Ranunculus	3445	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;Ranunculales;Ranunculaceae;Ranunculoideae;Ranunculeae;Ranunculus	genus
+Raphidiophrys	212534	cellular organisms;Eukaryota;Haptista;Centroplasthelida;Pterocystida;Raphidista;Raphidiophryidae;Raphidiophrys	genus
+Rattus	10114	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Sarcopterygii;Dipnotetrapodomorpha;Tetrapoda;Amniota;Mammalia;Theria;Eutheria;Boreoeutheria;Euarchontoglires;Glires;Rodentia;Myomorpha;Muroidea;Muridae;Murinae;Rattus	genus
+Rhabdoaskenasia			
+Rhabdoderma	262065	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Synechococcaceae;Rhabdoderma	genus
+Rhabdogloea	13034	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Synechococcaceae;Dactylococcopsis	genus
+Rhabdostyla	768687	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Epistylidae;Rhabdostyla	genus
+Rhegmoclemina			
+Rheocricotopus	611384	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Rheocricotopus	genus
+Rheomorpha	272726	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Crassiclitellata;Lumbricina;Aeolosomatidae;Rheomorpha	genus
+Rheosmittia	611385	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Rheosmittia	genus
+Rheotanytarsus	288875	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Tanytarsini;Rheotanytarsus	genus
+Rhinoncus	166897	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Curculionoidea;Curculionidae;Ceutorhynchinae;Rhinoncus	genus
+Rhipidodendron			
+Rhithrogena	307890	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Setisura;Heptageniidae;Rhithrogena	genus
+Rhizosolenia	3004	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Rhizosoleniophycidae;Rhizosoleniales;Rhizosoleniaceae;Rhizosolenia	genus
+Rhodostichus			
+Rhoicosphenia	1574459	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Cymbellales;Rhoicospheniaceae;Rhoicosphenia	genus
+Rhopalodia	245178	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Rhopalodiales;Rhopalodiaceae;Rhopalodia	genus
+Rhyacophila	177632	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Rhyacophiloidea;Rhyacophilidae;Rhyacophila	genus
+Rhynchelmis	100955	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Lumbriculida;Lumbriculidae;Rhynchelmis	genus
+Riccia	41843	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Marchantiophyta;Marchantiopsida;Marchantiidae;Marchantiales;Ricciaceae;Riccia	genus
+Rimostrombidium	415604	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Choreotrichia;Choreotrichida;Strobilidiidae;Rimostrombidium	genus
+Robackia			
+Romeria	945765	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Romeriaceae;Romeria	genus
+Rorippa	50495	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;rosids;malvids;Brassicales;Brassicaceae;Cardamineae;Rorippa	genus
+Rusticoidus	190767	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Culicoidea;Culicidae;Culicinae;Aedini;Ochlerotatus;Rusticoidus	subgenus
+Saetheria	1891021	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Saetheria	genus
+Salix	40685	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;rosids;fabids;Malpighiales;Salicaceae;Saliceae;Salix	genus
+Salpingoeca	86017	cellular organisms;Eukaryota;Opisthokonta;Choanoflagellata;Craspedida;Salpingoecidae;Salpingoeca	genus
+Salvelinus	8033	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Deuterostomia;Chordata;Craniata;Vertebrata;Gnathostomata;Teleostomi;Euteleostomi;Actinopterygii;Actinopteri;Neopterygii;Teleostei;Osteoglossocephalai;Clupeocephala;Euteleosteomorpha;Protacanthopterygii;Salmoniformes;Salmonidae;Salmoninae;Salvelinus	genus
+Sanguinicola	232605	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Trematoda;Digenea;Strigeidida;Schistosomatoidea;Aporocotylidae;Sanguinicola	genus
+Saprodinium	2022781	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Odontostomatea;Odontostomatida;Epalxellidae;Saprodinium	genus
+Sathrophilus	692530	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Philasterida;Cinetochilidae;Sathrophilus	genus
+Scenedesmus	3087	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Scenedesmaceae;Scenedesmus	genus
+Tetradesmus	91192	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Scenedesmaceae;Tetradesmus	genus
+Schellencandona			
+Scherffelia	3189	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorodendrophyceae;Chlorodendrales;Chlorodendraceae;Scherffelia	genus
+Schineriella			
+Schizothrix	240294	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pseudanabaenales;Schizotrichaceae;Schizothrix	genus
+Schoenophilus			
+Schroederia	132187	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Schroederiaceae;Schroederia	genus
+Schwiebea	223593	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Sarcoptiformes;Astigmata;Acaroidea;Acaridae;Rhizoglyphinae;Schwiebea	genus
+Scoliotropis			
+Scourfieldia	163104	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Pedinophyceae;Scourfieldiales;Scourfieldiaceae;Scourfieldia	genus
+Scyphidia	1622028	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Scyphidiidae;Scyphidia	genus
+Sericostoma	177789	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Brevitentoria;Sericostomatoidea;Sericostomatidae;Sericostoma	genus
+Sericostomatinae			
+Sialis	50607	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Neuropterida;Megaloptera;Sialidae;Sialis	genus
+Siderocelis			
+Siderocystopsis	304620	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystoideae;Siderocystopsis	genus
+Sigara	446485	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Paraneoptera;Hemiptera;Prosorrhyncha;Heteroptera;Euheteroptera;Neoheteroptera;Panheteroptera;Nepomorpha;Corixidae;Corixinae;Sigara	genus
+Siphononema			
+Sisyra	279439	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Neuropterida;Neuroptera;Hemerobiiformia;Sisyridae;Sisyra	genus
+Smittia	315559	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Smittia	genus
+Soldanellonyx	2796889	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Eupodina;Halacaroidea;Halacaridae;Soldanellonyx	genus
+Solenophrya			
+Sperchon	450509	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Sperchontoidea;Sperchontidae;Sperchon	genus
+Sphaerium	55712	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Bivalvia;Autobranchia;Heteroconchia;Euheterodonta;Imparidentia;Neoheterodontei;Venerida;Cyrenoidea;Sphaeriidae;Sphaerium	genus
+Sphaerobotrys			
+Sphaerocystis	915267	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Chlamydomonadales;Sphaerocystidaceae;Sphaerocystis	genus
+Sphaerophrya			
+Sphenomonas	2704095	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Petalomonadida;Sphenomonadidae;Sphenomonas	genus
+Spiretella			
+Spirogyra	3179	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Zygnematales;Zygnemataceae;Spirogyra	genus
+Spironema	2027452	cellular organisms;Eukaryota;Hemimastigophora;Spironemidae;Spironema	genus
+Spironema	2834378	cellular organisms;Bacteria;Spirochaetes;Spirochaetia;Spirochaetales;Spirochaetaceae;Entomospira	genus
+Spirulina	1154	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Spirulinales;Spirulinaceae;Spirulina	genus
+Spirulina	551299	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Cephalopoda;Coleoidea;Decapodiformes;Spirulida;Spirulina	suborder
+Spondylomorum			
+Spongomonas	188972	cellular organisms;Eukaryota;Sar;Rhizaria;Imbricatea;Spongomonadida;Spongomonadidae;Spongomonas	genus
+Spumella	89043	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Chromulinaceae;Spumella	genus
+Stactobia	1432127	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Hydroptiloidea;Hydroptilidae;Hydroptilinae;Stactobiini;Stactobia	genus
+Staurastrum	31317	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Staurastrum	genus
+Staurodesmus	130996	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Staurodesmus	genus
+Stauroneis	265583	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Naviculales;Stauroneidaceae;Stauroneis	genus
+Stauronella			
+Staurophrya			
+Staurosira	210615	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Fragilariales;Staurosiraceae;Staurosira	genus
+Steinia	152446	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Sporadotrichida;Oxytrichidae;Stylonychinae;Steinia	genus
+Steinia	222574	cellular organisms;Eukaryota;Opisthokonta;Fungi;Dikarya;Ascomycota;saccharomyceta;Pezizomycotina;leotiomyceta;Lecanoromycetes;OSLEUM clade;Lecanoromycetidae;Lecideales;Lecideaceae;Steinia	genus
+Stelexomonas			
+Stempellina	879791	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Tanytarsini;Stempellina	genus
+Stenopterobia	1003111	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Surirellales;Surirellaceae;Stenopterobia	genus
+Stentor	5962	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Postciliodesmatophora;Heterotrichea;Heterotrichida;Stentoridae;Stentor	genus
+Stephanocostis			
+Stephanodiscus	29206	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Coscinodiscophyceae;Thalassiosirophycidae;Stephanodiscales;Stephanodiscaceae;Stephanodiscus	genus
+Thalassiocyclus			
+Stephanoporos			
+Stichogloea	82160	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Phaeothamniophyceae;Phaeothamniales;Phaeothamniaceae;Stichogloea	genus
+Stichosiphon			
+Stichotricha	693445	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Stichotrichida;Spirofilidae;Stichotricha	genus
+Stigeoclonium	55998	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;OCC clade;Chaetophorales;Chaetophoraceae;Stigeoclonium	genus
+Stilocladius	611387	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Stilocladius	genus
+Stipitococcus			
+Stokesiella			
+Stolella			
+Stratiomys	219520	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Stratiomyomorpha;Stratiomyidae;Stratiomyinae;Stratiomyini;Stratiomys	genus
+Strobilidium	181620	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Choreotrichia;Choreotrichida;Strobilidiidae;Strobilidium	genus
+Strombidinopsis	141413	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Choreotrichia;Choreotrichida;Strombidinopsidae;Strombidinopsis	genus
+Strombidium	60005	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Oligotrichia;Strombidiidae;Strombidium	genus
+Strombomonas	103341	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Euglenophyceae;Euglenales;Euglenaceae;Strombomonas	genus
+Strongylidium	400979	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Stichotrichida;Spirofilidae;Strongylidium	genus
+Stylochrysalis			
+Stylodrilus	77570	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Lumbriculida;Lumbriculidae;Stylodrilus	genus
+Stylonychia	5948	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Sporadotrichida;Oxytrichidae;Stylonychinae;Stylonychia	genus
+Surirella	216753	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Bacillariophyceae;Bacillariophycidae;Surirellales;Surirellaceae;Surirella	genus
+Symbiocladius			
+Symposiocladius			
+Sympotthastia	994281	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Diamesinae;Sympotthastia	genus
+Synagapetus	1876395	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Glossosomatoidea;Glossosomatidae;Agapetinae;Synagapetus	genus
+Synchaeta	204744	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Synchaetidae;Synchaeta	genus
+Syncrypta			
+Syndiamesa			
+Synechococcus	1129	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Synechococcaceae;Synechococcus	genus
+Synedra	191584	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Fragilariales;Fragilariaceae;Synedra	genus
+Szaboiella			
+Tabanus	7206	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Brachycera;Tabanomorpha;Tabanoidea;Tabanidae;Tabaninae;Tabanini;Tabanus	genus
+Tabellaria	426661	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Tabellariales;Tabellariaceae;Tabellaria	genus
+Tachysoma	693951	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Sporadotrichida;Oxytrichidae;Tachysoma	genus
+Taeniopteryx	143728	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Polyneoptera;Plecoptera;Nemouroidea;Taeniopterygidae;Taeniopteryginae;Taeniopteryx	genus
+Tanytarsus	288802	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Tanytarsini;Tanytarsus	genus
+Taphrocampa	2739607	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Notommatidae;Taphrocampa	genus
+Tartarothyas			
+Tavastia	880593	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Tavastia	genus
+Testudinella	525911	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Gnesiotrocha;Flosculariaceae;Testudinellidae;Testudinella	genus
+Tetmemorus	184530	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Tetmemorus	genus
+Tetrablepharis			
+Tetrachlorella	120750	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystoideae;Tetrachlorella	genus
+Tetracyclus	1529378	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Fragilariophyceae;Fragilariophycidae;Tabellariales;Tabellariaceae;Tetracyclus	genus
+Tetradinium			
+Tetraedriella	1903575	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Eustigmatophyceae;Eustigmatophyceae incertae sedis;Tetraedriella	genus
+Tetraedron	302392	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Sphaeropleaceae;Tetraedron	genus
+Tetrallantos			
+Tetranephris	875622	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;CS clade;Sphaeropleales;Scenedesmaceae;Tetranephris	genus
+Tetraonchus	198445	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Monogenea;Monopisthocotylea;Gyrodactylidea;Tetraonchidae;Tetraonchus	genus
+Tetraplektron			
+Tetraspora	56012	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;Tetrasporales;Tetrasporaceae;Tetraspora	genus
+Tetraspora	148349	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Cnidaria;Myxozoa;Myxosporea;Myxosporea incertae sedis;Tetraspora	genus
+Tetrastrum	1169114	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Trebouxiophyceae;Chlorellales;Oocystaceae;Oocystaceae incertae sedis;Tetrastrum	genus
+Thalassomya			
+Thalassosmittia	611394	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Thalassosmittia	genus
+Thaumalea	61068	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Thaumaleidae;Thaumalea	genus
+Thaumastoptera			
+Theromyzon	13285	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Hirudinea;Rhynchobdellida;Glossiphoniidae;Theromyzon	genus
+Thienemannia	611395	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Thienemannia	genus
+Thienemanniella	611396	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Thienemanniella	genus
+Thienemannimyia	994282	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Tanypodinae;Pentaneurini;Thienemannimyia	genus
+Thigmogaster			
+Thoracomonas			
+Thorakochloris			
+Thraulus	552417	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Palaeoptera;Ephemeroptera;Furcatergalia;Lanceolata;Leptophlebioidea;Leptophlebiidae;Atalophlebiinae;Thraulus	genus
+Thryogenes	298250	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Coleoptera;Polyphaga;Cucujiformia;Curculionoidea;Erirhinidae;Erirhininae;Thryogenes	genus
+Thuricola	2070546	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Vaginicolidae;Thuricola	genus
+Thyas	1251907	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hydryphantoidea;Hydryphantidae;Todothyas	genus
+Thyas	1367883	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Lepidoptera;Glossata;Neolepidoptera;Heteroneura;Ditrysia;Obtectomera;Noctuoidea;Erebidae;Erebinae;Thyas	genus
+Thylakidium			
+Tinodes	177915	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Annulipalpia;Psychomyioidea;Psychomyiidae;Psychomyiinae;Tinodes	genus
+Tintinnidium	211015	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Choreotrichia;Tintinnida;Tintinnidae;Tintinnidium	genus
+Tintinnopsis	180939	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Choreotrichia;Tintinnida;Codonellidae;Tintinnopsis	genus
+Tiphys	1635235	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Pionidae;Tiphys	genus
+Tipula	41043	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Tipulomorpha;Tipuloidea;Tipulidae;Tipulinae;Tipula	genus
+Tipula	259245	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Tipulomorpha;Tipuloidea;Tipulidae;Tipulinae;Tipula;Tipula	subgenus
+Tokophrya	168138	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Suctoria;Endogenida;Tokophryidae;Tokophrya	genus
+Tonnoiriella			
+Torrenticola	116747	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;eudicotyledons;Gunneridae;Pentapetalae;rosids;fabids;Malpighiales;Podostemaceae;Podostemaceae incertae sedis;Torrenticola	genus
+Torrenticola	257721	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Lebertioidea;Torrenticolidae;Torrenticola	genus
+Trachelius	993382	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Tracheliidae;Trachelius	genus
+Trachelomonas	96503	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Euglenophyceae;Euglenales;Euglenaceae;Trachelomonas	genus
+Trachelophyllum	990152	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Litostomatea;Haptoria;Haptorida;Trachelophyllidae;Trachelophyllum	genus
+Trachydiscus	1032744	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Eustigmatophyceae;Goniochloridales;Trachydiscus	genus
+Treubaria	52684	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;Chlorophyceae incertae sedis;Treubariaceae;Treubaria	genus
+Ylodes	692096	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Trichoptera;Integripalpia;Brevitentoria;Leptoceroidea;Leptoceridae;Leptocerinae;Triaenodini;Ylodes	genus
+Triaenophorus	56556	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Platyhelminthes;Cestoda;Eucestoda;Bothriocephalidea;Triaenophoridae;Triaenophorus	genus
+Tribelos	994287	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Chironomini;Tribelos	genus
+Tribonema	2980	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;PX clade;Xanthophyceae;Tribonematales;Tribonemataceae;Tribonema	genus
+Triceratium	1003065	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Bacillariophyta;Mediophyceae;Biddulphiophycidae;Triceratiales;Triceratiaceae;Triceratium	genus
+Trichocerca	360703	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Gnathifera;Rotifera;Eurotatoria;Monogononta;Pseudotrocha;Ploima;Trichocercidae;Trichocerca	genus
+Trichodina	197893	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Mobilida;Trichodinidae;Trichodina	genus
+Trichodrilus	100957	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Lumbriculida;Lumbriculidae;Trichodrilus	genus
+Trichophrya			
+Triglochin	55500	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Embryophyta;Tracheophyta;Euphyllophyta;Spermatophyta;Magnoliopsida;Mesangiospermae;Liliopsida;Alismatales;Juncaginaceae;Triglochin	genus
+Trimicra			
+Trissocladius	2886783	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Trissocladius	genus
+Trithigmostoma	37473	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Phyllopharyngia;Chlamydodontida;Chilodonellidae;Trithigmostoma	genus
+Trochetinae			
+Trochilia	1170543	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Phyllopharyngea;Phyllopharyngia;Dysteriida;Dysteriidae;Trochilia	genus
+Tubifex	6385	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Annelida;Clitellata;Oligochaeta;Haplotaxida;Tubificina;Naididae;Tubificinae;Tubifex	genus
+Tvetenia	611398	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Orthocladiinae;Tvetenia	genus
+Twinnia	61070	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Simuliidae;Simuliinae;Prosimuliini;Twinnia	genus
+Ulothrix	43940	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;Ulvophyceae;OUU clade;Ulotrichales;Ulotrichaceae;Ulothrix	genus
+Unionicola	322641	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Unionicolidae;Unionicolinae;Unionicola	genus
+Unionicola	350840	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Unionicolidae;Unionicolinae;Unionicola;Unionicola	subgenus
+Urceolus	2704128	cellular organisms;Eukaryota;Discoba;Euglenozoa;Euglenida;Spirocuta;Heteronematina;Heteronematales;Peranemidae;Urceolus	genus
+Urnatella			
+Uroglena	98067	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;Chrysophyceae;Chromulinales;Chromulinaceae;Uroglena	genus
+Uronema	35106	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Scuticociliatia;Philasterida;Uronematidae;Uronema	genus
+Uronema	104535	cellular organisms;Eukaryota;Viridiplantae;Chlorophyta;core chlorophytes;Chlorophyceae;OCC clade;Chaetophorales;Uronemataceae;Uronema	genus
+Urosoma	1550893	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Spirotrichea;Stichotrichia;Sporadotrichida;Oxytrichidae;Urosoma	genus
+Urotricha	457378	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Prostomatea;Prorodontida;Urotrichidae;Urotricha	genus
+Vaginicola	168253	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Vaginicolidae;Vaginicola	genus
+Vahlkampfia	5770	cellular organisms;Eukaryota;Discoba;Heterolobosea;Tetramitia;Eutetramitia;Vahlkampfiidae;Vahlkampfia	genus
+Valvata	54981	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Spiralia;Lophotrochozoa;Mollusca;Gastropoda;Heterobranchia;lower Heterobranchia;Valvatoidea;Valvatidae;Valvata	genus
+Vasicola			
+Vaucheria	2976	cellular organisms;Eukaryota;Sar;Stramenopiles;Ochrophyta;PX clade;Xanthophyceae;Vaucheriales;Vaucheriaceae;Vaucheria	genus
+Veliger			
+Verrucaria	168925	cellular organisms;Eukaryota;Opisthokonta;Fungi;Dikarya;Ascomycota;saccharomyceta;Pezizomycotina;leotiomyceta;Eurotiomycetes;Chaetothyriomycetidae;Verrucariales;Verrucariaceae;Verrucaria	genus
+Victorella			
+Virga	509515	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Amphiesmenoptera;Lepidoptera;Glossata;Neolepidoptera;Heteroneura;Ditrysia;Obtectomera;Hesperioidea;Hesperiidae;Hesperiinae;Hesperiini;Virga	genus
+Virgatanytarsus	288802	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Endopterygota;Diptera;Nematocera;Culicomorpha;Chironomoidea;Chironomidae;Chironominae;Tanytarsini;Tanytarsus	genus
+Vorticella	60849	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Vorticellidae;Vorticella	genus
+Wandesia	1635240	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hydryphantoidea;Hydryphantidae;Wandesia	genus
+Wettina	2161229	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Chelicerata;Arachnida;Acari;Acariformes;Trombidiformes;Prostigmata;Anystina;Parasitengona;Hydracarina;Hygrobatoidea;Wettinidae;Wettina	genus
+Woronichinia	283819	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Synechococcales;Coelosphaeriaceae;Woronichinia	genus
+Xanthidium	130983	cellular organisms;Eukaryota;Viridiplantae;Streptophyta;Streptophytina;Zygnemophyceae;Zygnematophycidae;Desmidiales;Desmidiaceae;Xanthidium	genus
+Xenococcus	52607	cellular organisms;Bacteria;Terrabacteria group;Cyanobacteria/Melainabacteria group;Cyanobacteria;Pleurocapsales;Xenococcaceae;Xenococcus	genus
+Xenococcus	2774086	cellular organisms;Eukaryota;Opisthokonta;Metazoa;Eumetazoa;Bilateria;Protostomia;Ecdysozoa;Panarthropoda;Arthropoda;Mandibulata;Pancrustacea;Hexapoda;Insecta;Dicondylia;Pterygota;Neoptera;Paraneoptera;Hemiptera;Sternorrhyncha;Coccoidea;Xenococcidae;Xenococcus	genus
+Xenotholos			
+Zoothamnium	168256	cellular organisms;Eukaryota;Sar;Alveolata;Ciliophora;Intramacronucleata;Oligohymenophorea;Peritrichia;Sessilida;Zoothamniidae;Zoothamnium	genus
+Zygoceros			
