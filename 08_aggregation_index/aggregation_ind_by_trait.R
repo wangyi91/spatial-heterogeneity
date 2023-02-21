@@ -44,7 +44,7 @@ c <- coor %>%
   group_by(sediment) %>% mutate(j=as.numeric(factor(sample_id))-1)
 
 # shift coordinates: 20 cm between cores at a site; 2 cm between extracts from same core
-coor_s <- c %>% mutate(long = long+i*2e-6+j*2e-7, lat = lat+i*2e-6+j*2e-7) #+j*1e-7
+coor_s <- c %>% mutate(long = long+i*3e-6+j*2e-7, lat = lat+i*3e-6+j*2e-7) 
 
 
 
