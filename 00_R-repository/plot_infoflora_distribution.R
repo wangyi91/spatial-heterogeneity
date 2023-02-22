@@ -25,8 +25,8 @@ plot_infoflora_distribution <- function(df, tab){
   
   
   # Use ggmap to plot coordinates on Google Maps.
-  #Set my API Key
-  ggmap::register_google(key = "AIzaSyBx_FmEsklH68dgo96SvCPlSYw9z6BT4Hc")
+  # Set my API Key
+  ggmap::register_google(key = "MY_API_KEY")
   
   # get map of Lake Constance and catchment area
   #map <- get_googlemap(center = c(lon = 9.190567, lat = 46.8),
