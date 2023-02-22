@@ -7,7 +7,7 @@ library(ggplot2)
 source("./00_R-repository/aggregate_to_site.R")
 source("./10_add_trait/plant_merge_traits_to_metabarlist.R")
 
-dt<-readRDS("./00_R-repository/plants_r2_embl_98_agg_2rep_motuAgg")
+dt <- readRDS("./00_R-repository/plants_r2_embl_98_agg_2rep_motuAgg")
 
 
 # load info flora distribution dataset
