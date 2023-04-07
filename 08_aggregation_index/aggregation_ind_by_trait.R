@@ -4,7 +4,7 @@
 # Reference: Clark and Evans 1954
 
 library(metabaR)
-library(spatstat.core) # calculate clark and evans index, function: clarkevans
+library(spatstat.explore) # calculate clark and evans index, function: clarkevans
 library(geosphere) # to use distm to calculate distances
 
 library(dplyr)
