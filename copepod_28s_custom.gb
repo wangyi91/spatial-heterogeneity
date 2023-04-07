@@ -1,0 +1,1325 @@
+LOCUS       COP28s_ref001_28s_full        3782 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref001_indiv001_Cop28s assembled using Geneious.
+ACCESSION   urn.local...1f8-ct45b3r
+VERSION     urn.local...1f8-ct45b3r
+KEYWORDS    .
+SOURCE      Eudiaptomus sp.
+  ORGANISM  Eudiaptomus sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Calanoida; Diaptomidae; Eudiaptomus.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Eudiaptomus sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:251516"
+ORIGIN      
+        1 tgtttgggtc agggtcggtt aacatccatc agaacgctct gcgttctgcc ctgggctgtc
+       61 ccacctcctt aacgggaggc gggtggcctc aagttgactt gtgcagtgct ctgccgaatg
+      121 actcttgggt cgtaaaaagc ctgggtctta gcagacaagc cttcacaggg gatcggctgc
+      181 cgttgtaagc gcggcagctg taccaatttt ctctttcgac ctgacatcaa gcaagactac
+      241 ccgccgaatt taagcatatt aataagcgga ggaaaagaaa acaactgtga ttcccttagt
+      301 aatggcgaat gaaacgggaa gagcccatcg tcgaatcgca agtcgttctg gctttgcgaa
+      361 atgtgacgtt tgggagggtc ttccacggct cagacgacca gtcaaagtcc aacttgacag
+      421 tggccacagt ccatagaggg tgataggccc gtaaggcggt tgtctggccg tgctgacctc
+      481 tctctagagt cggattgctt gggagtgcag tccaaagtgc gaggtaaact cctcgtaagg
+      541 ctaaatataa ccccgagacc gatagcaaac aagtacagtg atggaaaatt gaaaagaact
+      601 ttgaagagag agttaagagt acgtgaaact gtgtggtggt aaacggaggc gttctcgaag
+      661 tgtccgcggg ggactcaggc ttggtggcgg gcagccggcg ggtggtgatc agcaatgact
+      721 ccgcccgttg tgcaggcttg cctcccggcc gcactttccc cgtggttgac ggcaggaact
+      781 gttgggatcg gacctaaggc ctgggatgaa gttgcttgcc ctcacgggct ttcagctccc
+      841 ggtgtcctgg cttcggaccc gacaggtcac gagtggactt gtatagcaag cgacagcctg
+      901 ttgcggttca cctctctctg ccgagtaggt cggtggcgcc tccgacccgt cttgaaacac
+      961 ggaccaagga gtctaacatg tatgcgagcc attgggttga ctaaacctag cggcgcagtg
+     1021 aaagcaaaga gttgcttgca gctcgaggga cgacgtgcaa accgcagtcc cgcgatttcc
+     1081 aatcaacctc gcattgttgg gaatacgcag agcatagatg ttgggacccg aaagatggtg
+     1141 aactatgcct ggccaggttg aagtcagggg aaaccctgat ggaggaccgt agcgattctg
+     1201 acgtgcaaat cgatcgtcgg agctgggtat aggggcgaaa gactaatcga accatctagt
+     1261 agctggttcc tgtcgaagtt tccctcagga tagctggcgc tttttaacga gtttcatccg
+     1321 gtaaagcgaa tgattagaag cattgggggc gaaacgccct caacttattc tcaaacttta
+     1381 aatgggtgag aagtctgtgt tgcttgagtg aactcagaca ctgaatcgga gtgcctagtg
+     1441 ggccattttt ggtaagcaga actggcgctg tgggatgaac caaacgcgag gttaaagtgc
+     1501 caaaatggaa gctcatcaga tcccacgaaa ggtgttggtt gcttaagaca gcaggacggt
+     1561 ggccatggaa gtcggaatcc gctaaggagt gtgtaacaac tcacctgccg aagcaactag
+     1621 ccctgaaaat ggatggcgct aaagcttcct acttatacct cgccgttcag ttagagctgg
+     1681 gcttccgagc cccccacaac tgaacgagta ggcaggtcga accggtggcg cggaaggctc
+     1741 tgggtgtgaa cctggctgga gccgccggtt gtgcagatct tggtggtagt agcaaatact
+     1801 ccagagaggc cctggaggac cgatgtggag aagggtttcg tgtgaacagc cgttgaacac
+     1861 gagtcagtcg gtcctaaggc ttaggggaag ccttgtttaa tagtgcgatt ttcttgccaa
+     1921 aagaactcgc atcgacagcc gaaagggaat gaggtccata ttcctcaacc gggcagcgta
+     1981 actgtttggg ccctcgtacc caacatggca acatgaaatg actctgagac gcccgccgga
+     2041 gctctgggaa gagttgtctt ttctgcataa gctgccgagg ccctggaatt cctttgagga
+     2101 gagaatgggt tttggtttag ccaagagcac agcagttctc gctgtgtcca tgagtgcccg
+     2161 gtgggacctt gaaaatcaga gtgagggtta cagcgattcg cgcccgtccg tacccatatc
+     2221 cgcagcaggt ctcctaggtg aatagcctct ggtcgataga ataatgtagg taagggaagt
+     2281 cggcaaattg gatccgtaac ttcgggataa ggattggctc tgaaggccgg ggtgtttggg
+     2341 ctctgtactg gaagcagtcg gcttaccggc gggcctggcc gaatcttttg ggtaaagtcg
+     2401 gtcccgtttc acaagctact gtggatagtc attgcttcgc aggctcgggc aaccgatgtc
+     2461 ctgttcaagc atcgattaac ggctaattca gaactggcac ggacaagggg aatccgactg
+     2521 tttaattaaa acaaagcatt gcgatggtca gagaatgatg ttgacgcaat gtgatttctg
+     2581 cccagtgctc tgaatgtcaa agtgaagagg ttcgtccaag cgcgggtaaa cggcgggagt
+     2641 aactatgact ctcttaaggt agccaaatgc ctcgccatct aattagtggc gcgcatgaat
+     2701 ggattaacga gattcccact gtccctatct actatctagc gaaaccgcag ccaagggaac
+     2761 ggacttggga aaatcagcgg ggaaagaaga ccctgttgag cttgactcta gtctcctatt
+     2821 gtggcggagc atttctggcg tagaataggg aggagcctca cggcgacagt gaaatactcc
+     2881 tacggaaatc gctcctctgc ttactcggtt aggcgaagtt aggaccttcg ggccctattt
+     2941 cttgaatcaa acgggcgtgc tctgcatgcc cgtgattcgc tccgaggaca ttgcgaggcg
+     3001 gggagtttga ctggggcggt acatctgtca aatgataacg caggtgtcct aagggcagct
+     3061 cagtgaggac ggaaacctca cgtagaacaa aagggtaaaa gctgccttga cttttccctt
+     3121 cagtacgggg caaagagcag aaatgtcggc ctatcgatcc tctttatttc ggagtttgaa
+     3181 gaaagaggtg tcagaaaagt taccacaggg ataactggct tgtggccgcc aagcgttcat
+     3241 agcgacgtgg ctttttgatc cttcgatgtc ggctcttcct atcattcaga agcagaattc
+     3301 tgatagtgtc ggattgttca cccgccaata gggaacgtga gctgggttta gaccgtcgtg
+     3361 agacaggtta gttttaccct actgattact ggaagttgcg atagtaatcc tgctcagtac
+     3421 gagaggaacc gcaggttcgg acatttggta cacgttcttg ggcgatagcc cagtggagcg
+     3481 aagctaccat ccgtgggatt atgcctgaac gcctctaagg cagaaacccg cctagacatg
+     3541 gcaactttat tgttgggcct gatttctgtg cggggaagga taggcgtaag cctccatccc
+     3601 agagtcagga gccggacttg tgcctgaagc gcgcctgtcc gtcctgatca ctcatttagc
+     3661 agagttcggg tcccaaatcg tttgtagacg acttatgtac cggccgaggt gtcgtacttg
+     3721 gtagagcagc taccacactg cgatctattg agactcatcc ttttgactga aagatttgtc
+     3781 tt
+//
+LOCUS       COP28s_ref002_indiv002_28s_full        3770 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref002_indiv002_Cop28s assembled using Geneious.
+ACCESSION   urn.local...1ix-ct46j37
+VERSION     urn.local...1ix-ct46j37
+KEYWORDS    .
+SOURCE      Eudiaptomus sp.
+  ORGANISM  Eudiaptomus sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Calanoida; Diaptomidae; Eudiaptomus.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Eudiaptomus sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:251516"
+ORIGIN      
+        1 gtcggttaac atccatcaga acgctctgag actcatcctt ttgactgaaa gatttgtcwt
+       61 gkcagctaga caagcctcaa gttgacttgt gcagtgctct gccgaatgac tcttgggtcg
+      121 taaaaagcct gggtcttagc agacaagcct tcacagggga tcggctgccg ttgtaagcgc
+      181 ggcagctgta ccaattttct ctttcgacct gacatcaagc aagactaccc gccgaattta
+      241 agcatattaa taagcggagg aaaagaaaac aactgtgatt cccttagtaa tggcgaatga
+      301 aacgggaaga gcccatcgtc gaatcgcaag tcgttctggc tttgcgaaat gtgacgtttg
+      361 ggagggtctt ccacggctca gacgaccagt caaagtccaa cttgacagtg gccacagtcc
+      421 atagagggtg ataggcccgt aaggcggttg tctggccgtg ctgacctctc tctagagtcg
+      481 gattgcttgg gagtgcagtc caaagtgcga ggtaaactcc tcgtaaggct aaatataacc
+      541 ccgagaccga tagcaaacaa gtacagtgat ggaaaattga aaagaacttt gaagagagag
+      601 ttaagagtac gtgaaactgt gtggtggtaa acggaggcgt tctcgaagtg tccgcggggg
+      661 actcaggctt ggtggcgggc agccggcggg tggtgatcag caatgactcc gcccgttgtg
+      721 caggcttgcc tcccggccgc actttccccg tggttgacgg caggaactgt tgggatcgga
+      781 cctaaggcct gggatgaagt tgcttgccct cacgggcttt cagctcccgg tgtcctggct
+      841 tcggacccga caggtcacga gtggacttgt atagcaagcg acagcctgtt gcggttcacc
+      901 tctctctgcc gagtaggtcg gtggcgcctc cgacccgtct tgaaacacgg accaaggagt
+      961 ctaacatgta tgcgagccat tgggttgact aaacctagcg gcgcagtgaa agcaaagagt
+     1021 tgcttgcagc tcgagggacg acgtgcaaac cgcagtcccg cgatttccaa tcaacctcgc
+     1081 attgttggga atacgcagag catagatgtt gggacccgaa agatggtgaa ctatgcctgg
+     1141 ccaggttgaa gtcaggggaa accctgatgg aggaccgtag cgattctgac gtgcaaatcg
+     1201 atcgtcggag ctgggtatag gggcgaaaga ctaatcgaac catctagtag ctggttcctg
+     1261 tcgaagtttc cctcaggata gctggcgctt tttaacgagt ttcatccggt aaagcgaatg
+     1321 attagaagca ttgggggcga aacgccctca acttattctc aaactttaaa tgggtgagaa
+     1381 gtctgtgttg cttgagtgaa ctcagacact gaatcggagt gcctagtggg ccatttttgg
+     1441 taagcagaac tggcgctgtg ggatgaacca aacgcgaggt taaagtgcca aaatggaagc
+     1501 tcatcagatc ccacgaaagg tgttggttgc ttaagacagc aggacggtgg ccatggaagt
+     1561 cggaatccgc taaggagtgt gtaacaactc acctgccgaa gcaactagcc ctgaaaatgg
+     1621 atggcgctaa agcttcctac ttatacctcg ccgttcagtt agagctgggc ttccgagccc
+     1681 cccacaactg aacgagtagg caggtcgaac cggtggcgcg gaaggctctg ggtgtgaacc
+     1741 tggctggagc cgccggttgt gcagatcttg gtggtagtag caaatactcc agagaggccc
+     1801 tggaggaccg atgtggagaa gggtttcgtg tgaacagccg ttgaacacga gtcagtcggt
+     1861 cctaaggctt aggggaagcc ttgtttaata gtgcgatttt cttgccaaaa gaactcgcat
+     1921 cgacagccga aagggaatga ggtccatatt cctcaaccgg gcagcgtaac tgtttgggcc
+     1981 ctcgtaccca acatggcaac atgaaatgac tctgagacgc ccgccggagc tctgggaaga
+     2041 gttgtctttt ctgcataagc tgccgaggcc ctggaattcc tttgaggaga gaatgggttt
+     2101 tggtttagcc aagagcacag cagttctcgc tgtgtccatg agtgcccggt gggaccttga
+     2161 aaatcagagt gagggttaca gcgattcgcg cccgtccgta cccatatccg cagcaggtct
+     2221 cctaggtgaa tagcctctgg tcgatagaat aatgtaggta agggaagtcg gcaaattgga
+     2281 tccgtaactt cgggataagg attggctctg aaggccgggg tgtttgggct ctgtactgga
+     2341 agcagtcggc ttaccggcgg gcctggccga atcttttggg taaagtcggt cccgtttcac
+     2401 aagctactgt ggatagtcat tgcttcgcag gctcgggcaa ccgatgtcct gttcaagcat
+     2461 cgattaacgg ctaattcaga actggcacgg acaaggggaa tccgactgtt taattaaaac
+     2521 aaagcattgc gatggtcaga gaatgatgtt gacgcaatgt gatttctgcc cagtgctctg
+     2581 aatgtcaaag tgaagaggtt cgtccaagcg cgggtaaacg gcgggagtaa ctatgactct
+     2641 cttaaggtag ccaaatgcct cgccatctaa ttagtggcgc gcatgaatgg attaacgaga
+     2701 ttcccactgt ccctatctac tatctagcga aaccgcagcc aagggaacgg acttgggaaa
+     2761 atcagcgggg aaagaagacc ctgttgagct tgactctagt ctcctattgt ggcggagcat
+     2821 ttctggcgta gaatagggag gagcctcacg gcgacagtga aatactccta cggaaatcgc
+     2881 tcctctgctt actcggttag gcgaagttag gaccttcggg ccctatttct tgaatcaaac
+     2941 gggcgtgctc tgcatgcccg tgattcgctc cgaggacatt gcgaggcggg gagtttgact
+     3001 ggggcggtac atctgtcaaa tgataacgca ggtgtcctaa gggcagctca gtgaggacgg
+     3061 aaacctcacg tagaacaaaa gggtaaaagc tgccttgact tttcccttca gtacggggca
+     3121 aagagcagaa atgtcggcct atcgatcctc tttatttcgg agtttgaaga aagaggtgtc
+     3181 agaaaagtta ccacagggat aactggcttg tggccgccaa gcgttcatag cgacgtggct
+     3241 ttttgatcct tcgatgtcgg ctcttcctat cattcagaag cagaattctg atagtgtcgg
+     3301 attgttcacc cgccaatagg gaacgtgagc tgggtttaga ccgtcgtgag acaggttagt
+     3361 tttaccctac tgattactgg aagttgcgat agtaatcctg ctcagtacga gaggaaccgc
+     3421 aggttcggac atttggtaca cgttcttggg cgatagccca gtggagcgaa gctaccatcc
+     3481 gtgggattat gcctgaacgc ctctaaggca gaaacccgcc tagacatggc aactttattg
+     3541 ttgggcctga tttctgtgcg gggaaggata ggcgtaagcc tccatcccag agtcaggagc
+     3601 cggacttgtg cctgaagcgc gcctgtccgt cctgatcact catttagcag agttcgggtc
+     3661 ccaaatcgtt tgtagacgac ttatgtaccg gccgaggtgt cgtacttggt agagcagcta
+     3721 ccacactgcg atctattgag actcatcctt ttgactgaaa gatttgtctt
+//
+LOCUS       COP28s_ref003_indiv051_28s_full        3779 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref003_indiv051_Cop28s assembled using Geneious.
+ACCESSION   urn.local...1ly-ct46y4r
+VERSION     urn.local...1ly-ct46y4r
+KEYWORDS    .
+SOURCE      Eudiaptomus sp.
+  ORGANISM  Eudiaptomus sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Calanoida; Diaptomidae; Eudiaptomus.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Eudiaptomus sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:251516"
+ORIGIN      
+        1 tttgggtcag ggtcggttaa catccatcag aacgctctga gactcatcct tttgactgaa
+       61 agatttgtct tgtcagctag acaagmctca agttgacttg tgcagtgctc tgccgaatga
+      121 ctcttgggtc gtaaaaagcc tgggtcttag cagacaagcc ttcacagggg atcggctgcc
+      181 gttgtaagcg cggcagctgt accaattttc tctttcgacc tgacatcaag caagactacc
+      241 cgccgaattt aagcatatta ataagcggag gaaaagaaaa caactgtgat tcccttagta
+      301 atggcgaatg aaacgggaag agcccatcgt cgaatcgcaa gtcgttctgg ctttgcgaaa
+      361 tgtgacgttt gggagggtct tccacggctc agacgaccag tcaaagtcca acttgacagt
+      421 ggccacagtc catagagggt gataggcccg taaggcggtt gtctggccgt gctgacctct
+      481 ctctagagtc ggattgcttg ggagtgcagt ccaaagtgcg aggtaaactc ctcgtaaggc
+      541 taaatataac cccgagaccg atagcaaaca agtacagtga tggaaaattg aaaagaactt
+      601 tgaagagaga gttaagagta cgtgaaactg tgtggtggta aacggaggcg ttctcgaagt
+      661 gtccgcgggg gactcaggct tggtggcggg cagccggcgg gtggtgatca gcaatgactc
+      721 cgcccgttgt gcaggcttgc ctcccggccg cactttcccc gtggttgacg gcaggaactg
+      781 ttgggatcgg acctaaggcc tgggatgaag ttgcttgccc tcacgggctt tcagctcccg
+      841 gtgtcctggc ttcggacccg acaggtcacg agtggacttg tatagcaagc gacagcctgt
+      901 tgcggttcac ctctctctgc cgagtaggtc ggtggcgcct ccgacccgtc ttgaaacacg
+      961 gaccaaggag tctaacatgt atgcgagcca ttgggttgac taaacctagc ggcgcagtga
+     1021 aagcaaagag ttgcttgcag ctcgagggac gacgtgcaaa ccgcagtccc gcgatttcca
+     1081 atcaacctcg cattgttggg aatacgcaga gcatagatgt tgggacccga aagatggtga
+     1141 actatgcctg gccaggttga agtcagggga aaccctgatg gaggaccgta gcgattctga
+     1201 cgtgcaaatc gatcgtcgga gctgggtata ggggcgaaag actaatcgaa ccatctagta
+     1261 gctggttcct gtcgaagttt ccctcaggat agctggcgct ttttaacgag tttcatccgg
+     1321 taaagcgaat gattagaagc attgggggcg aaacgccctc aacttattct caaactttaa
+     1381 atgggtgaga agtctgtgtt gcttgagtga actcagacac tgaatcggag tgcctagtgg
+     1441 gccatttttg gtaagcagaa ctggcgctgt gggatgaacc aaacgcgagg ttaaagtgcc
+     1501 aaaatggaag ctcatcagat cccacgaaag gtgttggttg cttaagacag caggacggtg
+     1561 gccatggaag tcggaatccg ctaaggagtg tgtaacaact cacctgccga agcaactagc
+     1621 cctgaaaatg gatggcgcta aagcttccta cttatacctc gccgttcagt tagagctggg
+     1681 cttccgagcc ccccacaact gaacgagtag gcaggtcgaa ccggtggcgc ggaaggctct
+     1741 gggtgtgaac ctggctggag ccgccggttg tgcagatctt ggtggtagta gcaaatactc
+     1801 cagagaggcc ctggaggacc gatgtggaga agggtttcgt gtgaacagcc gttgaacacg
+     1861 agtcagtcgg tcctaaggct taggggaagc cttgtttaat agtgcgattt tcttgccaaa
+     1921 agaactcgca tcgacagccg aaagggaatg aggtccatat tcctcaaccg ggcagcgtaa
+     1981 ctgtttgggc cctcgtaccc aacatggcaa catgaaatga ctctgagacg cccgccggag
+     2041 ctctgggaag agttgtcttt tctgcataag ctgccgaggc cctggaattc ctttgaggag
+     2101 agaatgggtt ttggtttagc caagagcaca gcagttctcg ctgtgtccat gagtgcccgg
+     2161 tgggaccttg aaaatcagag tgagggttac agcgattcgc gcccgtccgt acccatatcc
+     2221 gcagcaggtc tcctaggtga atagcctctg gtcgatagaa taatgtaggt aagggaagtc
+     2281 ggcaaattgg atccgtaact tcgggataag gattggctct gaaggccggg gtgtttgggc
+     2341 tctgtactgg aagcagtcgg cttaccggcg ggcctggccg aatcttttgg gtaaagtcgg
+     2401 tcccgtttca caagctactg tggatagtca ttgcttcgca ggctcgggca accgatgtcc
+     2461 tgttcaagca tcgattaacg gctaattcag aactggcacg gacaagggga atccgactgt
+     2521 ttaattaaaa caaagcattg cgatggtcag agaatgatgt tgacgcaatg tgatttctgc
+     2581 ccagtgctct gaatgtcaaa gtgaagaggt tcgtccaagc gcgggtaaac ggcgggagta
+     2641 actatgactc tcttaaggta gccaaatgcc tcgccatcta attagtggcg cgcatgaatg
+     2701 gattaacgag attcccactg tccctatcta ctatctagcg aaaccgcagc caagggaacg
+     2761 gacttgggaa aatcagcggg gaaagaagac cctgttgagc ttgactctag tctcctattg
+     2821 tggcggagca tttctggcgt agaataggga ggagcctcac ggcgacagtg aaatactcct
+     2881 acggaaatcg ctcctctgct tactcggtta ggcgaagtta ggaccttcgg gccctatttc
+     2941 ttgaatcaaa cgggcgtgct ctgcatgccc gtgattcgct ccgaggacat tgcgaggcgg
+     3001 ggagtttgac tggggcggta catctgtcaa atgataacgc aggtgtccta agggcagctc
+     3061 agtgaggacg gaaacctcac gtagaacaaa agggtaaaag ctgccttgac ttttcccttc
+     3121 agtacggggc aaagagcaga aatgtcggcc tatcgatcct ctttatttcg gagtttgaag
+     3181 aaagaggtgt cagaaaagtt accacaggga taactggctt gtggccgcca agcgttcata
+     3241 gcgacgtggc tttttgatcc ttcgatgtcg gctcttccta tcattcagaa gcagaattct
+     3301 gatagtgtcg gattgttcac ccgccaatag ggaacgtgag ctgggtttag accgtcgtga
+     3361 gacaggttag ttttacccta ctgattactg gaagttgcga tagtaatcct gctcagtacg
+     3421 agaggaaccg caggttcgga catttggtac acgttcttgg gcgatagccc agtggagcga
+     3481 agctaccatc cgtgggatta tgcctgaacg cctctaaggc agaaacccgc ctagacatgg
+     3541 caactttatt gttgggcctg atttctgtgc ggggaaggat aggcgtaagc ctccatccca
+     3601 gagtcaggag ccggacttgt gcctgaagcg cgcctgtccg tcctgatcac tcatttagca
+     3661 gagttcgggt cccaaatcgt ttgtagacga cttatgtacc ggccgaggtg tcgtacttgg
+     3721 tagagcagct accacactgc gatctattga gactcatcct tttgactgaa agatttgct
+//
+LOCUS       COP28s_ref004_indiv053_28s_full        3836 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref004_indiv053_Cop28s assembled using Geneious.
+ACCESSION   urn.local...1op-ct490ow
+VERSION     urn.local...1op-ct490ow
+KEYWORDS    .
+SOURCE      Cyclops sp.
+  ORGANISM  Cyclops sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Cyclopoida; Cyclopidae; Cyclops.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Cyclops sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:263416"
+ORIGIN      
+        1 ttttgcatcc atccactggt cttgtatcag tggcattggg ctttcactct gttccctcga
+       61 ggggtggagt gtggctttaa gttgcaagcg cgtctttgtc tctggcaaac tgcgttgact
+      121 cttgggatat ttctcccggg tcatgcaaac tgtcagtggc aacgtgcgtg gtggtcaaac
+      181 gttaggttgc cgccacgacc cctattttgc ttcgacctga gagcaggcaa ggtgacccgc
+      241 caaatttaag catattaata agcggaggaa aagaaaacaa ctgtgatgcc gttagtaatg
+      301 gcgaatgaaa ccggcagagc ccagcaccga accgccagcc atccaggttg cgtggaatgt
+      361 ggtgtttggg ggagccttct cgcgatgtgt tgaccagtcc aagtccacct tgactggggc
+      421 cacggcccat agagggtgat aggcccgtaa aacggttgac acgttgtgct ggctttcccc
+      481 tagagtcgag ttgcttggga gtgcagctca aagtgcgtgg taaactccac gtaaggctaa
+      541 atatgacccc gagaccgata gcgaacaagt actgtgaagg aaagttgaaa agaactttga
+      601 agagagagtt caacgagtac gtgaaactgt gcagtggtaa acggaggggc tctcgaagag
+      661 ggtccaggag attcaggttg atggctgggc agctggggta agtgtgatcc gcaaggacac
+      721 cttgctttgg ttggctctgt cagcggctgc acttctcctg gactttacgt gacgaaccac
+      781 tgcctgcgga acgtggacct gggtgaagtt tgtttccttc ggggggcaag ccctgggctc
+      841 ctgtcttcgc gggcggcggg tatctgagtc gacttgtata acaagtgagt ttgctctcgc
+      901 ggtcggcatc tctgtcacga gtagcttggt ggcccctccg acccgtcttg aaacacggac
+      961 caaggagtct aacatgtgtg cgagccattg ggcgaactaa acccaagggc gtagtgaaag
+     1021 cgaaggacac gttggtgtct tagggacgat ccccctaggg ggcgcagtct cggcgctttg
+     1081 catcgacctc gcatcgtgca gagcagcaag agcatacacg ttgggacccg aaagatggtg
+     1141 aactatgcct ggccaggttg aagtcagggg aaaccctgat ggaggaccgt agcgattctg
+     1201 acgtgcaaat cgatcgtcgg agctgggtat aggggcgaaa gactaatcga accatctagt
+     1261 agctggttcc ttccgaagtt tccctcagga tagctggcgc tcatttaacg agtttcatcc
+     1321 ggtaaagcga atgattagaa gtcttgggga cgaaacgtcc tcaacttatt ctcaaacttt
+     1381 aaatgggtga gaagcgaggc ttgcttaagt gaagcctcgc aacgaatcgg agtgccaagt
+     1441 gggccatttt tggtaagcag aactggcgct gtgggatgaa ccaaacgccg ggttaaagtg
+     1501 tccgagtggg cgctcatcag atcccatgaa aggtgttggt tgcttaagac agcaggacgg
+     1561 tggccatgga agtcggaatc cgctaaggag tgtgtaacaa ctcacctgcc gaagcaacta
+     1621 gccctgaaaa tggatgacgc taaagcgccc cactcatacc cggccgttgg gacagagcag
+     1681 gcccctagag gaccccgacg tcccaacgag taggaaggtc gcaggggtag cgcaaaaggc
+     1741 ttttgggtgt gaacctggct ggagctgccc ctggtgcaga tcttggtggt agtagcaaat
+     1801 actccagaga gacccctgga gggccgatgt ggagaagggt ttcgtgtgaa cagccgttga
+     1861 acacgagtca gtcgatccta aggcttaggg gaagccttga tcaaacgcgt ggtgtctcta
+     1921 tctcaattta ttggatgagc cacggtgacg ccgaaaggga atccggtcca tattccggaa
+     1981 cctggtagcg gaaccgattc ggaccctcgt atctgtcgtg gcaacgcgac gcgaccggga
+     2041 gacgccggcc agagctctgg gaagagttgt cttttctgca taagccaccg aggcccttga
+     2101 atcgtctcgc acggagaatg ggttttggtt taggcgaaga gtgctgaagt tctctcagca
+     2161 tccacgagca actggctgga ccttgaaaat cccggggagg tgacggcgga atcgcaccag
+     2221 ctcgtaccca tatccgcagc aggtctccaa ggtgaacagc ctctggtcga tagaataatg
+     2281 taggtaaggg aagtcggcaa attggatccg taacttcggg ataaggattg gctctgaggg
+     2341 tcggggtggt cgggctctgt gctggaagca gttgtgccca ccggcaggcc tgggcaagtc
+     2401 cctcgggacg aacccggtcc tgttcacggg cctctgtgga tggccattgc tttgcggccg
+     2461 tttgggggct cttcacgggg tttccaggcg ttgtcgttcg atcaccaatc aacgaccagc
+     2521 tcagaactgg cacggacaag gggaatccga ctgtctaatt aaaacaaagc attgcgatgg
+     2581 tcaaagcgtg atgttgacgc aatgtgattt ctgcccagtg ctctgaatgt caaagtgaag
+     2641 agattcgtcc aagcgcgggt aaacggcggg agtaactatg actctcttaa ggtagccaaa
+     2701 tgcctcgtca tctaattagt gacgcgcatg aatggattaa cgagattccc actgtcccta
+     2761 tctactatct agcgaaaccg cagccaaggg aacggacttg ggaagatcag cggggaaaga
+     2821 agaccctgtt gagtttgact ctagtctcct attgtggcgg agcatctttg gcgtagaata
+     2881 gggaggaggc gcaagccaac ggtgaaatac tcctacgaag atcgctcctc tgcttactcg
+     2941 gttgggcgga agttggacac ctcggtggcc atcttctaga ctcaatcgct ggggctttgc
+     3001 ccccggcgag atccgctccg aggacattgc gaggcgggga gtttgactgg ggcggtacat
+     3061 ctgtcaaatg ataacgcagg tgtcctaagg ccagctcagc ggggacggaa acctcgcgta
+     3121 gagcaaaagg gcaaatgctg gcttgacctc tcccttcagt acggggcgag gagcagaaat
+     3181 gtcggcctat cgatcctctt tatttcggag tttgaagaaa gaggtgtcag aaaaattacc
+     3241 acagggataa ctggcttgtg gcggccaagc gttcatagcg acgtcgcttt ttgatccttc
+     3301 gatgtcggct cttcctatca ttgcgaagca gaattcgcca agcgtcggat tgttcacccg
+     3361 ccaataggga acgtgagctg ggtttagacc gtcgtgagac aggttagttt taccctactg
+     3421 atgactcgtc gttgcgatag taatcctgct cagtacgaga ggaaccgcag gttcggacat
+     3481 ttggtatacg tactcggctg atcagccggt ggtgcgaagc taccatccgt gggattatgc
+     3541 ctgaacgcct ctaaggcaga atcccgtcta gtcatggcaa cgatatcgtt ggacccctcg
+     3601 ctttgctcgg ggaaggatag tcttcggact ccatcccgat ctcgggaacc ttgtcgattg
+     3661 gcccaaagtg cctctcgact ctcccgttca ttcacttggc agggtggggg tcccaaatcg
+     3721 tctgtagacg acttatgtac cggccggggt gtcgtacttg gtagagcagc taccacactg
+     3781 cgatctattg agactcagcc cttttgactg gatgatttgt cttgtcagct agacaa
+//
+LOCUS       COP28s_ref006_indiv055_28s_full        3867 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref006_indiv055_Cop28s assembled using Geneious.
+ACCESSION   urn.local...1v4-ct4ae4o
+VERSION     urn.local...1v4-ct4ae4o
+KEYWORDS    .
+SOURCE      Cyclops sp.
+  ORGANISM  Cyclops sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Cyclopoida; Cyclopidae; Cyclops.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Cyclops sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:263416"
+ORIGIN      
+        1 tccactgtcc atgcctgggt tcagggtcgg ttttgcatcc atccactggt cttgtatcag
+       61 tggcattggg ctttcactct gttccctcga ggggtggagt gtggctttaa gttgcaagcg
+      121 cgtctttgtc tctggcaaac tgcgttgact cttgggatat ttctcccggg tcatgcaaac
+      181 tgtcagtggc aacgtgcgtg gtggtcaaac gttaggttgc cgccacgacc cctattttgc
+      241 ttcgacctga gagcaggcaa ggtgacccgc caaatttaag catattaata agcggaggaa
+      301 aagaaaacaa ctgtgatgcc gttagtaatg gcgaatgaaa ccggcagagc ccagcaccga
+      361 accgccagcc atccaggttg cgtggaatgt ggtgtttggg ggagccttct cgcgatgtgt
+      421 tgaccagtcc aagtccacct tgactggggc cacggcccat agagggtgat aggcccgtaa
+      481 aacggttgac acgttgtgct ggctttcccc tagagtcgag ttgcttggga gtgcagctca
+      541 aagtgcgtgg taaactccac gtaaggctaa atatgacccc gagaccgata gcgaacaagt
+      601 actgtgaagg aaagttgaaa agaactttga agagagagtt caacgagtac gtgaaactgt
+      661 gcagtggtaa acggaggggc tctcgaagag ggtccaggag attcaggttg atggctgggc
+      721 agctggggta agtgtgatcc gcaaggacac cttgctttgg ttggctctgt cagcggctgc
+      781 acttctcctg gactttacgt gacgaaccac tgcctgcgga acgtggacct gggtgaagtt
+      841 tgtttccttc ggggggcaag ccctgggctc ctgtcttcgc gggcggcggg tatctgagtc
+      901 gacttgtata acaagtgagt ttgctctcgc ggtcggcatc tctgtcacga gtagcttggt
+      961 ggcccctccg acccgtcttg aaacacggac caaggagtct aacatgtgtg cgagccattg
+     1021 ggcgaactaa acccaagggc gtagtgaaag cgaaggacac gttggtgtct tagggacgat
+     1081 ccccctaggg ggcgcagtct cggcgctttg catcgacctc gcatcgtgca gagcagcaag
+     1141 agcatacacg ttgggacccg aaagatggtg aactatgcct ggccaggttg aagtcagggg
+     1201 aaaccctgat ggaggaccgt agcgattctg acgtgcaaat cgatcgtcgg agctgggtat
+     1261 aggggcgaaa gactaatcga accatctagt agctggttcc ttccgaagtt tccctcagga
+     1321 tagctggcgc tcatttaacg agtttcatcc ggtaaagcga atgattagaa gtcttgggga
+     1381 cgaaacgtcc tcaacttatt ctcaaacttt aaatgggtga gaagcgaggc ttgcttaagt
+     1441 gaagcctcgc aacgaatcgg agtgccaagt gggccatttt tggtaagcag aactggcgct
+     1501 gtgggatgaa ccaaacgccg ggttaaagtg tccgagtggg cgctcatcag atcccatgaa
+     1561 aggtgttggt tgcttaagac agcaggacgg tggccatgga agtcggaatc cgctaaggag
+     1621 tgtgtaacaa ctcacctgcc gaagcaacta gccctgaaaa tggatgacgc taaagcgccc
+     1681 cactcatacc cggccgttgg gacagagcag gcccctagag gaccccgacg tcccaacgag
+     1741 taggaaggtc gcaggggtag cgcaaaaggc ttttgggtgt gaacctggct ggagctgccc
+     1801 ctggtgcaga tcttggtggt agtagcaaat actccagaga gacccctgga gggccgatgt
+     1861 ggagaagggt ttcgtgtgaa cagccgttga acacgagtca gtcgatccta aggcttaggg
+     1921 gaagccttga tcaaacgcgt ggtgtctcta tctcaattta ttggatgagc cacggtgacg
+     1981 ccgaaaggga atccggtcca tattccggaa cctggtagcg gaaccgattc ggaccctcgt
+     2041 atctgtcgtg gcaacgcgac gcgaccggga gacgccggcc agagctctgg gaagagttgt
+     2101 cttttctgca taagccaccg aggcccttga atcgtctcgc acggagaatg ggttttggtt
+     2161 taggcgaaga gtgctgaagt tctctcagca tccacgagca actggctgga ccttgaaaat
+     2221 cccggggagg tgacggcgga atcgcaccag ctcgtaccca tatccgcagc aggtctccaa
+     2281 ggtgaacagc ctctggtcga tagaataatg taggtaaggg aagtcggcaa attggatccg
+     2341 taacttcggg ataaggattg gctctgaggg tcggggtggt cgggctctgt gctggaagca
+     2401 gttgtgccca ccggcaggcc tgggcaagtc cctcgggacg aacccggtcc tgttcacggg
+     2461 cctctgtgga tggccattgc tttgcggccg tttgggggct cttcacgggg tttccaggcg
+     2521 ttgtcgttcg atcaccaatc aacgaccagc tcagaactgg cacggacaag gggaatccga
+     2581 ctgtctaatt aaaacaaagc attgcgatgg tcaaagcgtg atgttgacgc aatgtgattt
+     2641 ctgcccagtg ctctgaatgt caaagtgaag agattcgtcc aagcgcgggt aaacggcggg
+     2701 agtaactatg actctcttaa ggtagccaaa tgcctcgtca tctaattagt gacgcgcatg
+     2761 aatggattaa cgagattccc actgtcccta tctactatct agcgaaaccg cagccaaggg
+     2821 aacggacttg ggaagatcag cggggaaaga agaccctgtt gagtttgact ctagtctcct
+     2881 attgtggcgg agcatctttg gcgtagaata gggaggaggc gcaagccaac ggtgaaatac
+     2941 tcctacgaag atcgctcctc tgcttactcg gttgggcgga agttggacac ctcggtggcc
+     3001 atcttctaga ctcaatcgct ggggctttgc ccccggcgag atccgctccg aggacattgc
+     3061 gaggcgggga gtttgactgg ggcggtacat ctgtcaaatg ataacgcagg tgtcctaagg
+     3121 ccagctcagc ggggacggaa acctcgcgta gagcaaaagg gcaaatgctg gcttgacctc
+     3181 tcccttcagt acggggcgag gagcagaaat gtcggcctat cgatcctctt tatttcggag
+     3241 tttgaagaaa gaggtgtcag aaaaattacc acagggataa ctggcttgtg gcggccaagc
+     3301 gttcatagcg acgtcgcttt ttgatccttc gatgtcggct cttcctatca ttgcgaagca
+     3361 gaattcgcca agcgtcggat tgttcacccg ccaataggga acgtgagctg ggtttagacc
+     3421 gtcgtgagac aggttagttt taccctactg atgactcgtc gttgcgatag taatcctgct
+     3481 cagtacgaga ggaaccgcag gttcggacat ttggtatacg tactcggctg atcagccggt
+     3541 ggtgcgaagc taccatccgt gggattatgc ctgaacgcct ctaaggcaga atcccgtcta
+     3601 gtcatggcaa cgatatcgtt ggacccctcg ctttgctcgg ggaaggatag tcttcggact
+     3661 ccatcccgat ctcgggaacc ttgtcgattg gcccaaagtg cctctcgact ctcccgttca
+     3721 ttcacttggc agggtggggg tcccaaatcg tctgtagacg acttatgtac cggccggggt
+     3781 gtcgtacttg gtagagcagc taccacactg cgatctattg agactcagcc cttttgactg
+     3841 gatgatttgt cttgtcaggc tagacaa
+//
+LOCUS       COP28s_ref008_indiv057_28s_full        3881 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref008_indiv057_Cop28s assembled using Geneious.
+ACCESSION   urn.local...20l-ct4atep
+VERSION     urn.local...20l-ct4atep
+KEYWORDS    .
+SOURCE      Mesocyclops sp.
+  ORGANISM  Mesocyclops sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Cyclopoida; Cyclopidae; Mesocyclops.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Mesocyclops sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:245081"
+ORIGIN      
+        1 ggctcgtcca ctgcccatgt ctggctcagg gtcggttttg catccctccc gagaggcttc
+       61 tytctcgggc actgggctct cgcctctccc ctcttctggg gggcggcgtg gcctcaagtt
+      121 tcgagcgcgt cccggctggt gggcggccac gactcttggg attctctccc gggtccggtc
+      181 cccctccgat ctgtcggtcg tgtgcctggc ggcttgactt agcaggccgt cggcgacccc
+      241 tctttgctct tcgacctgag agcaggcaag gtgacccgcc aaatttaagc atattaataa
+      301 gcggaggaaa agaaaacaac cgtgatgccc ttagtaatgg cgaatgaaac gggcagagcc
+      361 cagcaccgaa ccgccggcct ttggtcgcgt ggaatgtggt gttcggggga gcctcctcgc
+      421 agcgagacgg ccggtccaag tccaccttga ctggggccac ggcccgtaga gggtgatagg
+      481 cccgtaagac ggccgactcg ctgtgccggc tttyccctag agtcgagttg cttgggagtg
+      541 cagctcaaag tgcgtggtaa actccacgta aggctaaata tgaccccgag accgatagcg
+      601 aacaagtacc gtgagggaaa gttgaaaaga actttgaaga gagagttcaa gagtacgtga
+      661 aactgtgtag tggtaaacgg aggggctctc gaagctggtc tcggagattc aggctggcgg
+      721 ctgggcggct ctggcgtctg tgatccgcga ggactcggcg tctctgtcgg cccggtcggc
+      781 ggctgcactt ctccgggact gtgcgcgacg aaccgctgcc tgtggaacgt ggtgtcgggt
+      841 gaagttcgtt gtcccctcgg gggcggcgag ccccggctct ctgtctcctc gggcggcggg
+      901 tactggagtc ggcttgtata gcaagtgcct tttctggtgc ggccggcrtc tctgtcgcga
+      961 gtaggtyggc ggcccctccg acccgtcttg aaacacggac caaggagtct aacatgtgtg
+     1021 cgagccattg ggcgaactaa acccaagggc gtagtgaaag cgaagggcac tcggtgtcct
+     1081 aggggcgatc cctcgcgggc gtagccccgg cgctttgcat cgacctcgct tcgtgcagag
+     1141 cagcaagagc atacacgttg ggacccgaaa gatggtgaac tatgcctggc caggttgaag
+     1201 ccaggggaaa ccctggtgga ggaccgtagc gattctgacg tgcaaatcga tcgtcggagc
+     1261 tgggtatagg ggcgaaagac taatcgaacc atctagtagc tggttccttc cgaagtttcc
+     1321 ctcaggatag ctggcgctcg tgacgagttt catccggtaa agcgaatgat tagaagtctt
+     1381 ggggacgaaa cgtcctcaac ttattctcaa actttaaatg ggtgagaagc ggggcttgct
+     1441 tgagtgaagc ctcgcagcga atcggagtgc caagtgggcc atttttggta agcagaactg
+     1501 gcgctgtggg atgaaccaaa cgccgggtta aagtgtccga gtgggcgctc atcagatccc
+     1561 atgaaaggtg ttggttgctt aagacagcag gacggtggcc atggaagtcg gaatccgcta
+     1621 aggagtgtgt aacaactcac ctgccgaagc aactagccct gaaaatggat gacgctaaag
+     1681 cgccccactc atacccggcc gtcggcacag agcaggtcct ccgagacccc gaggtgccga
+     1741 cgagtaggaa ggtcgcgggg gtggcgcgaa aggcttttgg gtgtgaacct ggctggagcc
+     1801 gcccccggtg cagatcttgg tggtagtagc aaatactcca gagagtccct ggagggccga
+     1861 tgtggagaag ggtttcgtgt gaacagccgt tgaacacgag tcagtcgatc ctaaggctta
+     1921 ggggaagcct tgatcaaacg cgtggtgtct cggaaatcta tttgattgtc gggccacggt
+     1981 gacgccgaaa gggaatccgg tccatattcc ggaacccgga cgcggaaccg ttcggaacct
+     2041 cgtgtctgtc gtggcaacgc gacgcgaccg ggagacgccc tgcggagccc tgcgaagagt
+     2101 tgtcttttct gcataagccg ccgaggccct cgaatcgtct cgcacggaga atgggttttg
+     2161 gctttaggcg aagagtgccg aagttctctc ggcatgcaag ggtgtccgcg gggaccttga
+     2221 aaatcccggg gaggtgacgg cggaatcgct ccggctcgta cccatatccg cagcaggtct
+     2281 ccaaggtgaa cagcctctgg tcgatagaat aatgtaggta agggaagtcg gcaaattgga
+     2341 tccgtaactt cgggataagg attggctctg agggtcgggg tggccgggct ccgcgctgga
+     2401 agcggctgtg cccaccggca ggcctgggcg agtctctcgg gacgaacccg gtcctgttca
+     2461 cgggcctccg tggatggccg ttgcttcgcg gccccctcgg gcgcttcgcg gcgttcgggg
+     2521 gaagccgttc ggtcaccgat caacgaccgg ctcagaactg gcacggacaa ggggaatccg
+     2581 actgtctaat taaaacaaag cattgcgatg gtcgaagcgc gatgttgacg caatgtgatt
+     2641 tctgcccagt gctctgaatg tcaaagtgaa gagattcgtc caagcgcggg taaacggcgg
+     2701 gagtaactat gactctctta aggtagccaa atgcctcgtc atctaattag tgacgcgcat
+     2761 gaatggatta acgagattcc cactgtccct atctactatc tagcgaaacc gcagccaagg
+     2821 gaacggactt gggaagatca gcggggaaag aagaccctgt tgagtttgac tctagtctcc
+     2881 tattgtggcg gagcatctct ggcgtagaat agggaggagg cctcggccga cggtgaaata
+     2941 ctcctacgga gatcgctcct ctgcttactc ggttgggcgg aagtcggaag cctcgtgctg
+     3001 ccgtcttctc gactcaaccg ccgggccttt gcgtccggcg ggatccgctc cgaggacatt
+     3061 gcgaggcggg gagtttgact ggggcggtac atctgtcaaa tgataacgca ggtgtcctaa
+     3121 ggccagctca gcggggacgg aaacctcgcg tagagcaaaa gggcaaatgc tggcttgacc
+     3181 tctcccttca gtatcgggcg aggagcagaa atgtcggcct atcgatcctc tttatttcgg
+     3241 agtttgaaga aagaggtgtc agaaaaatta ccacagggat aactggcttg tggcggccaa
+     3301 gcgttcatag cgacgtcgct ttttgatcct tcgatgtcgg ctcttcctat cattgcgaag
+     3361 cagaattcgc caagcgtcgg attgttcacc cgccaatagg gaacgtgagc tgggtttaga
+     3421 ccgtcgtgag acaggttagt tttaccctac tgatgactcg tcgttgcgac agtaatcctg
+     3481 ctcagtacga gaggaaccgc aggttcggac atttggtata cgtactcggc cgatcggccg
+     3541 gtggtgcgaa gctaccatcc gtgggattat gcctgaacgc ctctaaggca gaatcccgtc
+     3601 tggtcacggc aacgataccg tcggacctcc tgccacgctc ggggaaggat agtcctcgga
+     3661 ctccgtcccg atctcgggaa ccttgccggc gggcccaaag cgcccgtcgg ctctcccggt
+     3721 cactcacctg gcagggtggg ggtcccaaat cgtctgcaga cgacttatgt accggccggg
+     3781 gtgtcgtact tggtagagca gctaccacac tgcgatctat tgagactcag cccttctgac
+     3841 tggatgattt gtctgtyccr cttagacaaa aatagctggg a
+//
+LOCUS       COP28s_ref009_indiv061_28s_full        3858 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref009_indiv061_Cop28s assembled using Geneious.
+ACCESSION   urn.local...23u-ct4b5fd
+VERSION     urn.local...23u-ct4b5fd
+KEYWORDS    .
+SOURCE      Cyclops sp.
+  ORGANISM  Cyclops sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Cyclopoida; Cyclopidae; Cyclops.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Cyclops sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:263416"
+ORIGIN      
+        1 catgcctggg ttcagggtcg gttttgcatc catccactgg tcttgtatca gtggcattgg
+       61 gctttcactc tgttccctcg aggggtggag tgtggcttta agttgcaagc gcgtctttgt
+      121 ctctggcaaa ctgcgttgac tcttgggata tttctcccgg gtcatgcgaa ctgtcagtgg
+      181 caacgtgcgt ggtggtcaaa cgttaggttg ccgccacgac ccctattttg cttcgacctg
+      241 agagcaggca aggtgacccg ccaaatttaa gcatattaat aagcggagga aaagaaaaca
+      301 actgtgatgc cgttagtaat ggcgaatgaa accggcagag cccagcaccg aaccgccagc
+      361 catccaggtt gcgtggaatg tggtgtttgg gggagccttc tcgcgatgtg ttgaccagtc
+      421 caagtccacc ttgactgggg ccacggccca tagagggtga taggcccgta aaacggttga
+      481 cacgttgtgc tggctttccc ctagagtcga gttgcttggg agtgcagctc aaagtgcgtg
+      541 gtaaactcca cgtaaggcta aatatgaccc cgagaccgat agcgaacaag tactgtgaag
+      601 gaaagttgaa aagaactttg aagagagagt tcaacgagta cgtgaaactg tgcagtggta
+      661 aacggagggg ctctcgaaga gggtccagga gattcaggtt gatggctggg cagctggggt
+      721 aagtgtgatc cgcaaggaca ccttgctttg gttggctctg tcagcggctg cacttctcct
+      781 ggactttacg tgacgaacca ctgcctgcgg aacgtggacc tgggtgaagt ttgtttcctt
+      841 cggggggcaa gccctgggct cctgtcttcg cgggcggcgg gtatctgagt cgacttgtat
+      901 aacaagcgag tttgctctcg cggtcggcat ctctgtcacg agtagcttgg tggcccctcc
+      961 gacccgtctt gaaacacgga ccaaggagtc taacatgtgt gcgagccatt gggcgaacta
+     1021 aacccaaggg cgtagtgaaa gcgaaggaca cgttggtgtc ttagggacga tccccctagg
+     1081 gggcgcagtc tcggcgcttt gcatcgacct cgcatcgtgc agagcagcaa gagcatacac
+     1141 gttgggaccc gaaagatggt gaactatgcc tggccaggtt gaagtcaggg gaaaccctga
+     1201 tggaggaccg tagcgattct gacgtgcaaa tcgatcgtcg gagctgggta taggggcgaa
+     1261 agactaatcg aaccatctag tagctggttc cttccgaagt ttccctcagg atagctggcg
+     1321 ctcatttaac gagtttcatc cggtaaagcg aatgattaga agtcttgggg acgaaacgtc
+     1381 ctcaacttat tctcaaactt taaatgggtg agaagcgagg cttgcttaag tgaagcctcg
+     1441 caacgaatcg gagtgccaag tgggccattt ttggtaagca gaactggcgc tgtgggatga
+     1501 accaaacgcc gggttaaagt gtccgagtgg gcgctcatca gatcccatga aaggtgttgg
+     1561 ttgcttaaga cagcaggacg gtggccatgg aagtcggaat ccgctaagga gtgtgtaaca
+     1621 actcacctgc cgaagcaact agccctgaaa atggatgacg ctaaagcgcc ccactcatac
+     1681 ccggccgttg ggacagagca ggcccctaga ggaccccgac gtcccaacga gtaggaaggt
+     1741 cgcaggggta gcgcaaaagg cttttgggtg tgaacctggc tggagctgcc cctggtgcag
+     1801 atcttggtgg tagtagcaaa tactccagag agacccctgg agggccgatg tggagaaggg
+     1861 tttcgtgtga acagccgttg aacacgagtc agtcgatcct aaggcttagg ggaagccttg
+     1921 atcaaacgcg tggtgtctct atctcaattt attggatgag ccacggtgac gccgaaaggg
+     1981 aatccggtcc atattccgga acctggtagc ggaaccgatt cggaccctcg tatctgtcgt
+     2041 ggcaacgcga cgcgaccggg agacgccggc cagagctctg ggaagagttg tcttttctgc
+     2101 ataagccacc gaggcccttg aatcgtctcg cacggagaat gggttttggt ttaggcgaag
+     2161 agtgctgaag ttctctcagc atccacgagc aactggctgg accttgaaaa tcccggggag
+     2221 gtgacggcgg aatcgcacca gctcgtaccc atatccgcag caggtctcca aggtgaacag
+     2281 cctctggtcg atagaataat gtaggtaagg gaagtcggca aattggatcc gtaacttcgg
+     2341 gataaggatt ggctctgagg gtcggggtgg tcgggctctg tgctggaagc agttgtgccc
+     2401 accggcaggc ctgggcaagt ccctcgggac gaacccggtc ctgttcacgg gcctctgtgg
+     2461 atggccattg ctttgcggcc gtttgggggc tcttcacggg gtttccaggc gttgtcgttc
+     2521 gatcaccaat caacgaccag ctcagaactg gcacggacaa ggggaatccg actgtctaat
+     2581 taaaacaaag cattgcgatg gtcaaagcgt gatgttgacg caatgtgatt tctgcccagt
+     2641 gctctgaatg tcaaagtgaa gagattcgtc caagcgcggg taaacggcgg gagtaactat
+     2701 gactctctta aggtagccaa atgcctcgtc atctaattag tgacgcgcat gaatggatta
+     2761 acgagattcc cactgtccct atctactatc tagcgaaacc gcagccaagg gaacggactt
+     2821 gggaagatca gcggggaaag aagaccctgt tgagtttgac tctagtctcc tattgtggcg
+     2881 gagcatcttt ggcgtagaat agggaggagg cgcaagccaa cggtgaaata ctcctacgaa
+     2941 gatcgctcct ctgcttactc ggttgggcgg aagttggaca cctcggtggc catcttctag
+     3001 actcaatcgc tggggctttg cccccggcga gatccgctcc gaggacattg cgaggcgggg
+     3061 agtttgactg gggcggtaca tctgtcaaat gataacgcag gtgtcctaag gccagctcag
+     3121 cggggacgga aacctcgcgt agagcaaaag ggcaaatgct ggcttgacct ctcccttcag
+     3181 tacggggcga ggagcagaaa tgtcggccta tcgatcctct ttatttcgga gtttgaagaa
+     3241 agaggtgtca gaaaaattac cacagggata actggcttgt ggcggccaag cgttcatagc
+     3301 gacgtcgctt tttgatcctt cgatgtcggc tcttcctatc attgcgaagc agaattcgcc
+     3361 aagcgtcgga ttgttcaccc gccaataggg aacgtgagct gggtttagac cgtcgtgaga
+     3421 caggttagtt ttaccctact gatgactcgt cgttgcgata gtaatcctgc tcagtacgag
+     3481 aggaaccgca ggttcggaca tttggtatac gtactcggct gatcagccgg tggtgcgaag
+     3541 ctaccatccg tgggattatg cctgaacgcc tctaaggcag aatcccgtct agtcatggca
+     3601 acgatatcgt tggacccctc gctttgctcg gggaaggata gtcttcggac tccatcccga
+     3661 tctcgggaac cttgtcgatt ggcccaaagt gcctctcgac tctcccgttc attcacttgg
+     3721 cagggtgggg gtcccaaatc gtctgtagac gacttatgta ccggccgggg tgtcgtactt
+     3781 ggtagagcag ctaccacact gcgatctatt gagactcagc ccttttgact ggatgatttg
+     3841 tcttgtcagg ctagacaa
+//
+LOCUS       COP28s_ref011_indiv073_28s_partial        3346 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  7 reads from ref011_indiv073_Cop28s assembled using Geneious.
+ACCESSION   urn.local...29l-ct4c0v4
+VERSION     urn.local...29l-ct4c0v4
+KEYWORDS    .
+SOURCE      Mesocyclops sp.
+  ORGANISM  Mesocyclops sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Cyclopoida; Cyclopidae; Mesocyclops.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Mesocyclops sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:245081"
+ORIGIN      
+        1 tccctagagt cgagttgctt gggagtgcag ctcaaagtgc gtggtaaact ccacgtaagg
+       61 ctaaatatga ccccgagacc gatagcgaac aagtactgtg aaggaaagtt gaaaagaact
+      121 ttgaagagag agttcaacga gtacgtgaaa ctgtgcagtg gtaaacggag gggctctcga
+      181 agagggtcca ggagattcag gttgatggct gggcagctgg ggtaagtgtg atccgcaagg
+      241 acaccttgct ttggttggct ctgtcagcgg ctgcacttct cctggacttt acgtgacgaa
+      301 ccactgcctg cggaacgtgg acctgggtga agtttgtttc cttcgggggg caagccctgg
+      361 gctcctgtct tcgcgggcgg cgggtatctg agtcgacttg tataacaagc gagtttgctc
+      421 tcgcggtcgg catctctgtc acgagtagct tggtggcccc tccgacccgt cttgaaacac
+      481 ggaccaagga gtctaacatg tgtgcgagcc attgggcgaa ctaaacccaa gggcgtagtg
+      541 aaagcgaagg acacgttggt gtcttaggga cgatccccct agggggcgca gtctcggcgc
+      601 tttgcatcga cctcgcatcg tgcagagcag caagagcata cacgttggga cccgaaagat
+      661 ggtgaactat gcctggccag gttgaagtca ggggaaaccc tgatggagga ccgtagcgat
+      721 tctgacgtgc aaatcgatcg tcggagctgg gtataggggc gaaagactaa tcgaaccatc
+      781 tagtagctgg ttccttccga agtttccctc aggatagctg gcgctcattt aacgagtttc
+      841 atccggtaaa gcgaatgatt agaagtcttg gggacgaaac gtcctcaact tattctcaaa
+      901 ctttaaatgg gtgagaagcg aggcttgctt aagtgaagcc tcgcaacgaa tcggagtgcc
+      961 aagtgggcca tttttggtaa gcagaactgg cgctgtggga tgaaccaaac gccgggttaa
+     1021 agtgtccgag tgggcgctca tcagatccca tgaaaggtgt tggttgctta agacagcagg
+     1081 acggtggcca tggaagtcgg aatccgctaa ggagtgtgta acaactcacc tgccgaagca
+     1141 actagccctg aaaatggatg acgctaaagc gccccactca tacccggccg ttgggacaga
+     1201 gcaggcccct agaggacccc gacgtcccaa cgagtaggaa ggtcgcaggg gtagcgcaaa
+     1261 aggcttttgg gtgtgaacct ggctggagct gcccctggtg cagatcttgg tggtagtagc
+     1321 aaatactcca gagagacccc tggagggccg atgtggagaa gggtttcgtg tgaacagccg
+     1381 ttgaacacga gtcagtcgat cctaaggctt aggggaagcc ttgatcaaac gcgtggtgtc
+     1441 tctatctcaa tttattggat gagccacggt gacgccgaaa gggaatccgg tccatattcc
+     1501 ggaacctggt agcggaaccg attcggaccc tcgtatctgt cgtggcaacg cgacgcgacc
+     1561 gggagacgcc ggccagagct ctgggaagag ttgtcttttc tgcataagcc accgaggccc
+     1621 ttgaatcgtc tcgcacggag aatgggtttt ggtttaggcg aagagtgctg aagttctctc
+     1681 agcatccacg agcaactggc tggaccttga aaatcccggg gaggtgacgg cggaatcgca
+     1741 ccagctcgta cccatatccg cagcaggtct ccaaggtgaa cagcctctgg tcgatagaat
+     1801 aatgtaggta agggaagtcg gcaaattgga tccgtaactt cgggataagg attggctctg
+     1861 agggtcgggg tggtcgggct ctgtgctgga agcagttgtg cccaccggca ggcctgggca
+     1921 agtccctcgg gacgaacccg gtcctgttca cgggcctctg tggatggcca ttgctttgcg
+     1981 gccgtttggg ggctcttcac ggggtttcca ggcgttgtcg ttcgatcacc aatcaacgac
+     2041 cagctcagaa ctggcacgga caaggggaat ccgactgtct aattaaaaca aagcattgcg
+     2101 atggtcaaag cgtgatgttg acgcaatgtg atttctgccc agtgctctga atgtcaaagt
+     2161 gaagagattc gtccaagcgc gggtaaacgg cgggagtaac tatgactctc ttaaggtagc
+     2221 caaatgcctc gtcatctaat tagtgacgcg catgaatgga ttaacgagat tcccactgtc
+     2281 cctatctact atctagcgaa accgcagcca agggaacgga cttgggaaga tcagcgggga
+     2341 aagaagaccc tgttgagttt gactctagtc tcctattgtg gcggagcatc tttggcgtag
+     2401 aatagggagg aggcgcaagc caacggtgaa atactcctac gaagatcgct cctctgctta
+     2461 ctcggttggg cggaagttgg acacctcggt ggccatcttc tagactcaat cgctggggct
+     2521 ttgcccccgg cgagatccgc tccgaggaca ttgcgaggcg gggagtttga ctggggcggt
+     2581 acatctgtca aatgataacg caggtgtcct aaggccagct cagcggggac ggaaacctcg
+     2641 cgtagagcaa aagggcaaat gctggcttga cctctccctt cagtacgggg cgaggagcag
+     2701 aaatgtcggc ctatcgatcc tctttatttc ggagtttgaa gaaagaggtg tcagaaaaat
+     2761 taccacaggg ataactggct tgtggcggcc aagcgttcat agcgacgtcg ctttttgatc
+     2821 cttcgatgtc ggctcttcct atcattgcga agcagaattc gccaagcgtc ggattgttca
+     2881 cccgccaata gggaacgtga gctgggttta gaccgtcgtg agacaggtta gttttaccct
+     2941 actgatgact cgtcgttgcg atagtaatcc tgctcagtac gagaggaacc gcaggttcgg
+     3001 acatttggta tacgtactcg gctgatcagc cggtggtgcg aagctaccat ccgtgggatt
+     3061 atgcctgaac gcctctaagg cagaatcccg tctagtcatg gcaacgatat cgttggaccc
+     3121 ctcgctttgc tcggggaagg atagtcttcg gactccatcc cgatctcggg aaccttgtcg
+     3181 attggcccaa agtgcctctc gactctcccg ttcattcact tggcagggtg ggggtcccaa
+     3241 atcgtctgta gacgacttat gtaccggccg gggtgtcgta cttggtagag cagctaccac
+     3301 actgcgatct attgagactc agcccttttg actggatgat ttgctg
+//
+LOCUS       COP28s_ref012_indiv074_28s_full        3833 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref012_indiv074_Cop28s assembled using Geneious.
+ACCESSION   urn.local...2c6-ct4cep4
+VERSION     urn.local...2c6-ct4cep4
+KEYWORDS    .
+SOURCE      Mesocyclops sp.
+  ORGANISM  Mesocyclops sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Cyclopoida; Cyclopidae; Mesocyclops.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Mesocyclops sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:245081"
+ORIGIN      
+        1 ctggctcagg gtcggttttg catacctccc gagaggcttc tctctcgggc actgggctct
+       61 cgcctctccc ctcttctggg gggcggcgtg gcctcaagtt tcgagcgcgt cccggctggt
+      121 gggcggccac gactcttggg attctctccc gggtccggtc cccctccgat ctgtcggtcg
+      181 tgtgcctggc ggcttgactt agcaggccgt cggcgacccc tctttgctct tcgacctgag
+      241 agcaggcaag gtgacccgcc aaatttaagc atattaataa gcggaggaaa agaaaacaac
+      301 cgtgatgccc ttagtaatgg cgaatgaaac gggcagagcc cagcaccgaa ccgccggcct
+      361 ttggtcgcgt ggaatgtggt gttcggggga gcctcctcgc agcgagacgg ccggtccaag
+      421 tccaccttga ctggggccay ggcccgtaga gggtgatagg cccgtaagac ggccgactcg
+      481 ctgtgccggc tttcccctag agtcgagttg cttgggagtg cagctcaaag tgcgtggtaa
+      541 actccacgta aggctaaata tgaccccgag accgatagcg aacaagtacc gtgagggaaa
+      601 gttgaaaaga actttgaaga gagagttcaa gagtacgtga aactgtgtag tggtaaacgg
+      661 aggggctctc gaagctggtc tcggagattc aggctggcgg ctgggcggct ctggcgtctg
+      721 tgatccgcga ggactcggcg tctctgtcgg cccggtcggc ggctgcactt ctccgggact
+      781 gtgcgcgacg aaccgctgcc tgtggaacgt ggtgtcgggt gaagttcgtt gtcccctcgg
+      841 gggcggcgag ccccggctct ctgtctcctc gggcggcggg tactggagtc ggcttgtata
+      901 gcaagtgcct tttctggtgc ggccggcrtc tctgtcgcga gtaggtcggc ggcccctccg
+      961 acccgtcttg aaacacggac caaggagtct aacatgtgtg cgagccattg ggcgaactaa
+     1021 acccaagggc gtagtgaaag cgaagggcac tcggtgtcct aggggcgatc cctcgcgggc
+     1081 gtagccccgg cgctttgcat cgacctcgct tcgtgcagag cagcaagagc atacacgttg
+     1141 ggacccgaaa gatggtgaac tatgcctggc caggttgaag ccaggggaaa ccctggtgga
+     1201 ggaccgtagc gattctgacg tgcaaatcga tcgtcggagc tgggtatagg ggcgaaagac
+     1261 taatcgaacc atctagtagc tggttccttc cgaagtttcc ctcaggatag ctggcgctcg
+     1321 tgacgagttt catccggtaa agcgaatgat tagaagtctt ggggacgaaa cgtcctcaac
+     1381 ttattctcaa actttaaatg ggtgagaagc ggggcttgct tgagtgaagc ctcgcagcga
+     1441 atcggagtgc caagtgggcc atttttggta agcagaactg gcgctgtggg atgaaccaaa
+     1501 cgccgggtta aagtgtccga gtgggcgctc atcagatccc atgaaaggtg ttggttgctt
+     1561 aagacagcag gacggtggcc atggaagtcg gaatccgcta aggagtgtgt aacaactcac
+     1621 ctgccgaagc aactagccct gaaaatggat gacgctaaag cgccccactc atacccggcc
+     1681 gtcggcacag agcaggtcct ccgagacccc gaggtgccga cgagtaggaa ggtcgcgggg
+     1741 gtggcgcgaa aggcttttgg gtgtgaacct ggctggagcc gcccccggtg cagatcttgg
+     1801 tggtagtagc aaatactcca gagagtccct ggagggccga tgtggagaag ggtttcgtgt
+     1861 gaacagccgt tgaacacgag tcagtcgatc ctaaggctta ggggaagcct tgatcaaacg
+     1921 cgtggtgtct cggaaatcta tttgattgtc gggccacggt gacgccgaaa gggaatccgg
+     1981 tccatattcc ggaacccgga cgcggaaccg ttcggaacct cgtgtctgtc gtggcaacgc
+     2041 gacgcgaccg ggagacgccc tgcggagccc tgcgaagagt tgtcttttct gcataagccg
+     2101 ccgaggccct cgaatcgtct cgcacggaga atgggttttg gctttaggcg aagagtgccg
+     2161 aagttctctc ggcatgcaag ggtgtccgcg gggaccttga aaatcccggg gaggtgacgg
+     2221 cggaatcgct ccggctcgta cccatatccg cagcaggtct ccaaggtgaa cagcctctgg
+     2281 tcgatagaat aatgtaggta agggaagtcg gcaaattgga tccgtaactt cgggataagg
+     2341 attggctctg agggtcgggg tggccgggct ccgcgctgga agcggctgtg cccaccggca
+     2401 ggcctgggcg agtctctcgg gacgaacccg gtcctgttca cgggcctccg tggatggccg
+     2461 ttgcttcgcg gccccctcgg gcgcttcgcg gcgttcgggg gaagccgttc ggtcaccgat
+     2521 caacgaccgg ctcagaactg gcacggacaa ggggaatccg actgtctaat taaaacaaag
+     2581 cattgcgatg gtcgaagcgc gatgttgacg caatgtgatt tctgcccagt gctctgaatg
+     2641 tcaaagtgaa gagattcgtc caagcgcggg taaacggcgg gagtaactat gactctctta
+     2701 aggtagccaa atgcctcgtc atctaattag tgacgcgcat gaatggatta acgagattcc
+     2761 cactgtccct atctactatc tagcgaaacc gcagccaagg gaacggactt gggaagatca
+     2821 gcggggaaag aagaccctgt tgagtttgac tctagtctcc tattgtggcg gagcatctct
+     2881 ggcgtagaat agggaggagg cctcggccga cggtgaaata ctcctacgga gatcgctcct
+     2941 ctgcttactc ggttgggcgg aagtcggaag cctcgtgctg ccgtcttctc gactcaaccg
+     3001 ccgggccttt gcgtccggcg ggatccgctc cgaggacatt gcgaggcggg gagtttgact
+     3061 ggggcggtac atctgtcaaa tgataacgca ggtgtcctaa ggccagctca gcggggacgg
+     3121 aaacctcgcg tagagcaaaa gggcaaatgc tggcttgacc tctcccttca gtatcgggcg
+     3181 aggagcagaa atgtcggcct atcgatcctc tttatttcgg agtttgaaga aagaggtgtc
+     3241 agaaaaatta ccacagggat aactggcttg tggcggccaa gcgttcatag cgacgtcgct
+     3301 ttttgatcct tcgatgtcgg ctcttcctat cattgcgaag cagaattcgc caagcgtcgg
+     3361 attgttcacc cgccaatagg gaacgtgagc tgggtttaga ccgtcgtgag acaggttagt
+     3421 tttaccctac tgatgactcg tcgttgcgac agtaatcctg ctcagtacga gaggaaccgc
+     3481 aggttcggac atttggtata cgtactcggc cgatcggccg gtggtgcgaa gctaccatcc
+     3541 gtgggattat gcctgaacgc ctctaaggca gaatcccgtc tggtcacggc aacgataccg
+     3601 tcggacctcc tgccacgctc ggggaaggat agtcctcgga ctccgtcccg atctcgggaa
+     3661 ccttgccggc ggacccaaag cgcccgtcgg ctctcccggt cactcacctg gcagggtggg
+     3721 ggtcccaaat cgtctgcaga cgacttatgt accggccggg gtgtcgtact tggtagagca
+     3781 gctaccacac tgcgatctat tgagactcag cccttctgac tggatgattt gct
+//
+LOCUS       COP28s_ref013_indiv085_28s_full        3790 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  10 reads from ref013_indiv085_Cop28s assembled using Geneious.
+ACCESSION   urn.local...2j9-ct4duim
+VERSION     urn.local...2j9-ct4duim
+KEYWORDS    .
+SOURCE      Eudiaptomus sp.
+  ORGANISM  Eudiaptomus sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Calanoida; Diaptomidae; Eudiaptomus.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Eudiaptomus sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:251516"
+ORIGIN      
+        1 gcttgtgcat gtccatnttg ggtcagggtc ggttaaacat ccatcagaac gctctgcgtt
+       61 ctgccctggg ctgtcccacc tccttaacgg gaggcgggtg gcctcaagtt gacttgtgca
+      121 gtgctctgcc gaatgactct tgggtcgtaa aaagcctggg tcttagcaga caagccttca
+      181 caggggatcg gctgccgttg taagcgcggc agctgtacca attttctctt tcgacctgac
+      241 atcaagcaag actacccgcc gaatttaagc atattaataa gcggaggaaa agaaaacaac
+      301 tgtgattccc ttagtaatgg cgaatgaaac gggaagagcc catcgtcgaa tcgcaagtcg
+      361 ttctggcttt gcgaaatgtg acgtttggga gggtcttcca cggctcagac gaccagtcaa
+      421 agtccaactt gacagtggcc acagtccata gagggtgata ggcccgtaag gcggttgtct
+      481 ggccgtgctg acctctctct agagtcggat tgcttgggag tgcagtccaa agtgcgaggt
+      541 aaactcctcg taaggctaaa tataaccccg agaccgatag caaacaagta cagtgatgga
+      601 aaattgaaaa gaactttgaa gagagagtta agagtacgtg aaactgtgtg gtggtaaacg
+      661 gaggcgttct cgaagtgtcc gcgggggact caggcttggt ggcgggcagc cggcgggtgg
+      721 tgatcagcaa tgactccgcc cgttgtgcag gcttgcctcc cggccgcact ttccccgtgg
+      781 ttgacggcag gaactgttgg gatcggacct aaggcctggg atgaagttgc ttgccctcac
+      841 gggctttcag ctcccggtgt cctggcttcg gacccgacag gtcacgagtg gacttgtata
+      901 gcaagcgaca gcctgttgcg gttcacctct ctctgccgag taggtcggtg gcgcctccga
+      961 cccgtcttga aacacggacc aaggagtcta acatgtatgc gagccattgg gttgactaaa
+     1021 cctagcggcg cagtgaaagc aaagagttgc ttgcagctcg agggacgacg tgcaaaccgc
+     1081 agtcccgcga tttccaatca acctcgcatt gttgggaata cgcagagcat agatgttggg
+     1141 acccgaaaga tggtgaacta tgcctggcca ggttgaagtc aggggaaacc ctgatggagg
+     1201 accgtagcga ttctgacgtg caaatcgatc gtcggagctg ggtatagggg cgaaagacta
+     1261 atcgaaccat ctagtagctg gttcctgtcg aagtttccct caggatagct ggcgcttttt
+     1321 aacgagtttc atccggtaaa gcgaatgatt agaagcattg ggggcgaaac gccctcaact
+     1381 tattctcaaa ctttaaatgg gtgagaagtc tgtgttgctt gagtgaactc agacactgaa
+     1441 tcggagtgcc tagtgggcca tttttggtaa gcagaactgg cgctgtggga tgaaccaaac
+     1501 gcgaggttaa agtgccaaaa tggaagctca tcagatccca cgaaaggtgt tggttgctta
+     1561 agacagcagg acggtggcca tggaagtcgg aatccgctaa ggagtgtgta acaactcacc
+     1621 tgccgaagca actagccctg aaaatggatg gcgctaaagc ttcctactta tacctcgccg
+     1681 ttcagttaga gctgggcttc cgagcccccc acaactgaac gagtaggcag gtcgaaccgg
+     1741 tggcgcggaa ggctctgggt gtgaacctgg ctggagccgc cggttgtgca gatcttggtg
+     1801 gtagtagcaa atactccaga gaggccctgg aggaccgatg tggagaaggg tttcgtgtga
+     1861 acagccgttg aacacgagtc agtcggtcct aaggcttagg ggaagccttg tttaatagtg
+     1921 cgattttctt gccaaaagaa ctcgcatcga cagccgaaag ggaatgaggt ccatattcct
+     1981 caaccgggca gcgtaactgt ttgggccctc gtacccaaca tggcaacatg aaatgactct
+     2041 gagacgcccg ccggagctct gggaagagtt gtcttttctg cataagctgc cgaggccctg
+     2101 gaattccttt gaggagagaa tgggttttgg tttagccaag agcacagcag ttctcgctgt
+     2161 gtccatgagt gcccggtggg accttgaaaa tcagagtgag ggttacagcg attcgcgccc
+     2221 gtccgtaccc atatccgcag caggtctcct aggtgaatag cctctggtcg atagaataat
+     2281 gtaggtaagg gaagtcggca aattggatcc gtaacttcgg gataaggatt ggctctgaag
+     2341 gccggggtgt ttgggctctg tactggaagc agtcggctta ccggcgggcc tggccgaatc
+     2401 ttttgggtaa agtcggtccc gtttcacaag ctactgtgga tagtcattgc ttcgcaggct
+     2461 cgggcaaccg atgtcctgtt caagcatcga ttaacggcta attcagaact ggcacggaca
+     2521 aggggaatcc gactgtttaa ttaaaacaaa gcattgcgat ggtcagagaa tgatgttgac
+     2581 gcaatgtgat ttctgcccag tgctctgaat gtcaaagtga agaggttcgt ccaagcgcgg
+     2641 gtaaacggcg ggagtaacta tgactctctt aaggtagcca aatgcctcgc catctaatta
+     2701 gtggcgcgca tgaatggatt aacgagattc ccactgtccc tatctactat ctagcgaaac
+     2761 cgcagccaag ggaacggact tgggaaaatc agcggggaaa gaagaccctg ttgagcttga
+     2821 ctctagtctc ctattgtggc ggagcatttc tggcgtagaa tagggaggag cctcacggcg
+     2881 acagtgaaat actcctacgg aaatcgctcc tctgcttact cggttaggcg aagttaggac
+     2941 cttcgggccc tatttcttga atcaaacggg cgtgctctgc atgcccgtga ttcgctccga
+     3001 ggacattgcg aggcggggag tttgactggg gcggtacatc tgtcaaatga taacgcaggt
+     3061 gtcctaaggg cagctcagtg aggacggaaa cctcacgtag aacaaaaggg taaaagctgc
+     3121 cttgactttt cccttcagta cggggcaaag agcagaaatg tcggcctatc gatcctcttt
+     3181 atttcggagt ttgaagaaag aggtgtcaga aaagttacca cagggataac tggcttgtgg
+     3241 ccgccaagcg ttcatagcga cgtggctttt tgatccttcg atgtcggctc ttcctatcat
+     3301 tcagaagcag aattctgata gtgtcggatt gttcacccgc caatagggaa cgtgagctgg
+     3361 gtttagaccg tcgtgagaca ggttagtttt accctactga ttactggaag ttgcgatagt
+     3421 aatcctgctc agtacgagag gaaccgcagg ttcggacatt tggtacacgt tcttgggcga
+     3481 tagcccagtg gagcgaagct accatccgtg ggattatgcc tgaacgcctc taaggcagaa
+     3541 acccgcctag acatggcaac tttattgttg ggcctgattt ctgtgcgggg aaggataggc
+     3601 gtaagcctcc atcccagagt caggagccgg acttgtgcct gaagcgcgcc tgtccgtcct
+     3661 gatcactcat ttagcagagt tcgggtccca aatcgtttgt agacgactta tgtaccggcc
+     3721 gaggtgtcgt acttggtaga gcagctacca cactgcgatc tattgagact catccttttg
+     3781 actgaaagat
+//
+LOCUS       COP28s_ref014_indiv086_28s_full        3883 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  11 reads from ref014_indiv086_Cop28s assembled using Geneious.
+ACCESSION   urn.local...2mw-ct4e8fb
+VERSION     urn.local...2mw-ct4e8fb
+KEYWORDS    .
+SOURCE      Eudiaptomus sp.
+  ORGANISM  Eudiaptomus sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Calanoida; Diaptomidae; Eudiaptomus.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Eudiaptomus sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:251516"
+ORIGIN      
+        1 tgcgacatgt gcttgtgcat gtccatgttn gggtcagggt cggttaaaca tccatcagaa
+       61 cgctctgcgt tctgccctgg gctgtcccac ctccttaacg ggaggcgggt ggcctcaagt
+      121 tgacttgtgc agtgctctgc cgaatgactc ttgggtcgta aaaagcctgg gtcttagcag
+      181 acaagccttc acaggggatc ggctgccgtt gtaagcgcgg cagctgtacc aattttctct
+      241 ttcgacctga catcaagcaa gactacccgc cgaatttaag catattaata agcggaggaa
+      301 aagaaaacaa ctgtgattcc cttagtaatg gcgaatgaaa cgggaagagc ccatcgtcga
+      361 atcgcaagtc gttctggctt tgcgaaatgt gacgtttggg agggtcttcc acggctcaga
+      421 cgaccagtca aagtccaact tgacagtggc cacagtccat agagggtgat aggcccgtaa
+      481 ggcggttgtc tggccgtgct gacctctctc tagagtcgga ttgcttggga gtgcagtcca
+      541 aagtgcgagg taaactcctc gtaaggctaa atataacccc gagaccgata gcaaacaagt
+      601 acagtgatgg aaaattgaaa agaactttga agagagagtt aagagtacgt gaaactgtgt
+      661 ggtggtaaac ggaggcgttc tcgaagtgtc cgcgggggac tcaggcttgg tggcgggcag
+      721 ccggcgggtg gtgatcagca atgactccgc ccgttgtgca ggcttgcctc ccggccgcac
+      781 tttccccgtg gttgacggca ggaactgttg ggatcggacc taaggcctgg gatgaagttg
+      841 cttgccctca cgggctttca gctcccggtg tcctggcttc ggacccgaca ggtcacgagt
+      901 ggacttgtat agcaagcgac agcctgttgc ggttcacctc tctctgccga gtaggtcggt
+      961 ggcgcctccg acccgtcttg aaacacggac caaggagtct aacatgtatg cgagccattg
+     1021 ggttgactaa acctagcggc gcagtgaaag caaagagttg cttgcagctc gagggacgac
+     1081 gtgcaaaccg cagtcccgcg atttccaatc aacctcgcat tgttgggaat acgcagagca
+     1141 tagatgttgg gacccgaaag atggtgaact atgcctggcc aggttgaagt caggggaaac
+     1201 cctgatggag gaccgtagcg attctgacgt gcaaatcgat cgtcggagct gggtataggg
+     1261 gcgaaagact aatcgaacca tctagtagct ggttcctgtc gaagtttccc tcaggatagc
+     1321 tggcgctttt taacgagttt catccggtaa agcgaatgat tagaagcatt gggggcgaaa
+     1381 cgccctcaac ttattctcaa actttaaatg ggtgagaagt ctgtgttgct tgagtgaact
+     1441 cagacactga atcggagtgc ctagtgggcc atttttggta agcagaactg gcgctgtggg
+     1501 atgaaccaaa cgcgaggtta aagtgccaaa atggaagctc atcagatccc acgaaaggtg
+     1561 ttggttgctt aagacagcag gacggtggcc atggaagtcg gaatccgcta aggagtgtgt
+     1621 aacaactcac ctgccgaagc aactagccct gaaaatggat ggcgctaaag cttcctactt
+     1681 atacctcgcc gttcagttag agctgggctt ccgagccccc cacaactgaa cgagtaggca
+     1741 ggtcgaaccg gtggcgcgga aggctctggg tgtgaacctg gctggagccg ccggttgtgc
+     1801 agatcttggt ggtagtagca aatactccag agaggccctg gaggaccgat gtggagaagg
+     1861 gtttcgtgtg aacagccgtt gaacacgagt cagtcggtcc taaggcttag gggaagcctt
+     1921 gtttaatagt gcgattttct tgccaaaaga actcgcatcg acagccgaaa gggaatgagg
+     1981 tccatattcc tcaaccgggc agcgtaactg tttgggccct cgtacccaac atggcaacat
+     2041 gaaatgactc tgagacgccc gccggagctc tgggaagagt tgtcttttct gcataagctg
+     2101 ccgaggccct ggaattcctt tgaggagaga atgggttttg gtttagccaa gagcacagca
+     2161 gttctcgctg tgtccatgag tgcccggtgg gaccttgaaa atcagagtga gggttacagc
+     2221 gattcgcgcc cgtccgtacc catatccgca gcaggtctcc taggtgaata gcctctggtc
+     2281 gatagaataa tgtaggtaag ggaagtcggc aaattggatc cgtaacttcg ggataaggat
+     2341 tggctctgaa ggccggggtg tttgggctct gtactggaag cagtcggctt accggcgggc
+     2401 ctggccgaat cttttgggta aagtcggtcc cgtttcacaa gctactgtgg atagtcattg
+     2461 cttcgcaggc tcgggcaacc gatgtcctgt tcaagcatcg attaacggct aattcagaac
+     2521 tggcacggac aaggggaatc cgactgttta attaaaacaa agcattgcga tggtcagaga
+     2581 atgatgttga cgcaatgtga tttctgccca gtgctctgaa tgtcawagtg aagaggttcg
+     2641 tccdagcgcr ggwaaacggc gggagtaagc tatgactctc ttaaggtagc caaatgcctc
+     2701 gccatctaat tagctggcgc gcatgaatgg attawcgaga ttcccactgt ccctatctac
+     2761 tatctagcga aaccgcagcc aagggaacgg acttgggaaa atcagcgggg aaagaagacc
+     2821 ctgwtgagct tgactctast ctcctattgt ggcggagcat ttctggcgta gaatagggag
+     2881 gagcctcacg gcgacagtga aatactccta cggaaatcgc tcctctgctt actcggttag
+     2941 gcgaagttag gaccttcggg ccctatttct tgaatcaaac gggcgtgctc tgcatgcccg
+     3001 tgattcgctc cgaggacatt gcgaggcggg gagtttgact ggggcggtac atctgtcaaa
+     3061 tgataacgca ggtgtcctaa gggcagctca gtgaggacgg aaacctcacg tagaacaaaa
+     3121 gggtaaaagc tgccttgact tttcccttca gtacggggca aagagcagaa atgtcggcct
+     3181 atcgatcctc tttatttcgg agtttgaaga aagaggtgtc agaaaagtta ccacagggat
+     3241 aactggcttg tggccgccaa gcgttcatag cgacgtggct ttttgatcct tcgatgtcgg
+     3301 ctcttcctat cattcagaag cagaattctg atagtgtcgg attgttcacc cgccaatagg
+     3361 gaacgtgagc tgggtttaga ccgtcgtgag acaggttagt tttaccctac tgattactgg
+     3421 aagttgcgat agtaatcctg ctcagtacga gaggaaccgc aggttcggac atttggtaca
+     3481 cgttcttggg cgatagccca gtggagcgaa gctaccatcc gtgggattat gcctgaacgc
+     3541 ctctaaggca gaaacccgcc tagacatggc aactttattg ttgggcctga tttctgtgcg
+     3601 gggaaggata ggcgtaagcc tccatcccag agtcaggagc cggacttgtg cctgaagcgc
+     3661 gcctgtccgt cctgatcact catttagcag agttcgggtc ccaaatcgtt tgtagacgac
+     3721 ttatgtaccg gccgaggtgt cgtacttggt agagcagcta ccacactgcg atctattgag
+     3781 actcatcctt ttgactgaaa gatttgtctt raacctmgac atcggctctt cctatcattc
+     3841 agaagcagaa ttctgatagt gtcggattgt tcacccgcca ata
+//
+LOCUS       COP28s_ref015_indiv087_28s_full        4035 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  11 reads from ref015_indiv087_Cop28s assembled using Geneious.
+ACCESSION   urn.local...2qd-ct4eory
+VERSION     urn.local...2qd-ct4eory
+KEYWORDS    .
+SOURCE      Eudiaptomus sp.
+  ORGANISM  Eudiaptomus sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Calanoida; Diaptomidae; Eudiaptomus.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Eudiaptomus sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:251516"
+ORIGIN      
+        1 acatgtgctt gttgcatgtc catgttgggt cagggtcggt tnaacatcca tcagaacgct
+       61 ctgcgttctg ccctgggctg tcccacctcc ttaacgggag gcgggtggcc tcaagttgac
+      121 ttgtgcagtg ctctgccgaa tgactcttgg gtcgtaaaaa gcctgggtct tagcagacaa
+      181 gccttcacag gggatcggct gccgttgtaa gcgcggcagc tgtaccaatt ttctctttcg
+      241 acctgacatc aagcaagact acccgccgaa tttaagcata ttaataagcg gaggaaaaga
+      301 aaacaactgt gattccctta gtaatggcga atgaaacggg aagagcccat cgtcgaatcg
+      361 caagtcgttc tggctttgcg aaatgtgacg tttgggaggg tcttccacgg ctcagacgac
+      421 cagtcaaagt ccaacttgac agtggccaca gtccatagag ggtgataggc ccgtaaggcg
+      481 gttgtctggc cgtgctgacc tctctctaga gtcggattgc ttgggagtgc agtccaaagt
+      541 gcgaggtaaa ctcctcgtaa ggctaaatat aaccccgaga ccgatagcaa acaagtacag
+      601 tgatggaaaa ttgaaaagaa ctttgaagag agagttaaga gtacgtgaaa ctgtgtggtg
+      661 gtaaacggag gcgttctcga agtgtccgcg ggggactcag gcttggtggc gggcagccgg
+      721 cgggtggtga tcagcaatga ctccgcccgt tgtgcaggct tgcctcccgg ccgcactttc
+      781 cccgtggttg acggcaggaa ctgttgggat cggacctaag gcctgggatg aagttgcttg
+      841 ccctcacggg ctttcagctc ccggtgtcct ggcttcggac ccgacaggtc acgagtggac
+      901 ttgtatagca agcgacagcc tgttgcggtt cacctctctc tgccgagtag gtcggtggcg
+      961 cctccgaccc gtcttgaaac acggaccaag gagtctaaca tgtatgcgag ccattgggtt
+     1021 gactaaacct agcggcgcag tgaaagcaaa gagttgcttg cagctcgagg gacgacgtgc
+     1081 aaaccgcagt cccgcgattt ccaatcaacc tcgcattgtt gggaatacgc agagcataga
+     1141 tgttgggacc cgaaagatgg tgaactatgc ctggccaggt tgaagtcagg ggaaaccctg
+     1201 atggaggacc gtagcgattc tgacgtgcaa atcgatcgtc ggagctgggt ataggggcga
+     1261 aagactaatc gaaccatcta gtagctggtt cctgtcgaag tttccctcag gatagctggc
+     1321 gctttttaac gagtttcatc cggtaaagcg aatgattaga agcattgggg gcgaaacgcc
+     1381 ctcaacttat tctcaaactt taaatgggtg agaagtctgt gttgcttgag tgaactcaga
+     1441 cactgaatcg gagtgcctag tgggccattt ttggtaagca gaactggcgc tgtgggatga
+     1501 accaaacgcg aggttaaagt gccaaaatgg aagctcatca gatcccacga aaggtgttgg
+     1561 ttgcttaaga cagcaggacg gtggccatgg aagtcggaat ccgctaagga gtgtgtaaca
+     1621 actcacctgc cgaagcaact agccctgaaa atggatggcg ctaaagcttc ctacttatac
+     1681 ctcgccgttc agttagagct gggcttccga gccccccaca actgaacgag taggcaggtc
+     1741 gaaccggtgg cgcggaaggc tctgggtgtg aacctggctg gagccgccgg ttgtgcagat
+     1801 cttggtggta gtagcaaata ctccagagag gccctggagg accgatgtgg agaagggttt
+     1861 cgtgtgaaca gccgttgaac acgagtcagt cggtcctaag gcttagggga agccttgttt
+     1921 aatagtgcga ttttcttgcc aaaagaactc gcatcgacag ccgaaaggga atgaggtcca
+     1981 tattcctcaa ccgggcagcg taactgtttg ggccctcgta cccaacatgg caacatgaaa
+     2041 tgactctgag acgcccgccg gagctctggg aagagttgtc ttttctgcat aagctgccga
+     2101 ggccctggaa ttcctttgag gagagaatgg gttttggttt agccaagagc acagcagttc
+     2161 tcgctgtgtc catgagtgcc cggtgggacc ttgaaaatca gagtgagggt tacagcgatt
+     2221 cgcgcccgtc cgtacccata tccgcagcag gtctcctagg tgaatagcct ctggtcgata
+     2281 gaataatgta ggtaagggaa gtcggcaaat tggatccgta acttcgggat aaggattggc
+     2341 tctgaaggcc ggggtgtttg ggctctgtac tggaagcagt cggcttaccg gcgggcctgg
+     2401 ccgaatcttt tgggtaaagt cggtcccgtt tcacaagcta ctgtggatag tcattgcttc
+     2461 gcaggctcgg gcaaccgatg tcctgttcaa gcatcgatta acggctaatt cagaactggc
+     2521 acggacaagg ggaatccgac tgtttaatta aaacaaagca ttgcgatggt cagagaatga
+     2581 tgttgacgca atgtgatttc tgcccagtgc tctgaatgtc aaagtgaaga ggttcgtcca
+     2641 agcgcgggta aacggcggga gtaactatga ctctcttaag gtagccaaat gcctcgccat
+     2701 ctaattagtg gcgcgcatga atggattaac gagattccca ctgtccctat ctactatcta
+     2761 gcgaaaccgc agccaaggga acggacttgg gaaaatcagc ggggaaagaa gaccctgttg
+     2821 agcttgactc tagtctccta ttgtggcgga gcatttctgg cgtagaatag ggaggagcct
+     2881 cacggcgaca gtgaaatact cctacggaaa tcgctcctct gcttactcgg ttaggcgaag
+     2941 ttaggacctt cgggccctat ttcttgaatc aaacgggcgt gctctgcatg cccgtgattc
+     3001 gctccgagga cattgcgagg cggggagttt gactggggcg gtacatctgt caaatgataa
+     3061 cgcaggtgtc ctaagggcag ctcagtgagg acggaaacct cacgtagaac aaaagggtaa
+     3121 aagctgcctt gacttttccc ttcagtacgg ggcaaagagc agaaatgtcg gcctatcgat
+     3181 cctctttatt tcggagtttg aagaaagagg tgtcagaaaa gttaccacag ggataactgg
+     3241 cttgtggccg ccaagcgttc atagcgacgt ggctttttga tccttcgatg tcggctcttc
+     3301 ctatcattca gaagcagaat tctgatagtg tcggattgtt cacccgccaa tagggaacgt
+     3361 gagctgggtt tagaccgtcg tgagacaggt tagttttacc ctactgatta ctggaagttg
+     3421 cgatagtaat cctgctcagt acgagaggaa ccgcaggttc ggacatttgg tacacgttct
+     3481 tgggcgatag cccagtggag cgaagctacc atccgtggga ttatgcctga acgcctctaa
+     3541 ggcagaaacc cgcctagaca tggcaacttt attgttgggc ctgatttctg tgcggggaag
+     3601 gataggcgta agcctccatc ccagagtcag gagccggact tgtgcctgaa gcgcgcctgt
+     3661 ccgtcctgat cactcattta gcagagttcg ggtcccaaat cgtttgtaga cgacttatgt
+     3721 accggccgag gtgtcgtact tggtagagca gctaccacac tgcgatctat tgagactcat
+     3781 ccttttgact gaaagatttg tcttgcasct agacawcgrc tcttcctatc attcagaagc
+     3841 agaattctga tagtgtccta wyatgkrtgc ragacayggg gwtgwcaaaw sstagcggmg
+     3901 cagtgaaagc aaagagttgc ttgcagctsr agagacgacg tgtaaaccgc agtcccgcka
+     3961 tttyyatcac cctcgcattg ttgggaatac gcagagcata gatgttggga cccgwtagat
+     4021 ggtgaacyat gyctg
+//
+LOCUS       COP28s_ref016_indiv088_28s_full        3834 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  9 reads from ref016_indiv088_Cop28s assembled using Geneious.
+ACCESSION   urn.local...2sv-ct4ev4i
+VERSION     urn.local...2sv-ct4ev4i
+KEYWORDS    .
+SOURCE      Thermocyclops sp.
+  ORGANISM  Thermocyclops sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Cyclopoida; Cyclopidae; Thermocyclops.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Thermocyclops sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:342431"
+ORIGIN      
+        1 ggcgctggct cgtccaccgc ccatktctgg ctcagggtcg gttttgcatc cctccccagg
+       61 aattgatttt cctcgggcat tgggctctcg cgaggccttt cggcattgcg tggcttcaag
+      121 tttcgagcgt atctgcctgc gacagactgc tctgatctct tgggcttgtc ccgagtctgg
+      181 caagttgctg gtgatgcgtg ctctgactga ctgtcatcga tcggagctac cactcaaatt
+      241 tcgacctgag agcaggcaag gtgacccgcc aaatttaagc atattaataa gcggaggaaa
+      301 agaaaacaac tgtgatgccc ttagtaatgg cgaatgaaac gggcagagcc cagcaccgaa
+      361 ccgccagcct ttggttgcgt ggaatgtggt gtttggggga gcctcctcgc gacgattcgg
+      421 ccagtcaaag tccaccttga ctggggccac ggcccgtaga gggtgatagg cccgtaagac
+      481 ggctgagtcg ttgtgctggc tttcccctag agtcgagttg cttgggagtg cagctcaaag
+      541 ttcgtggtaa actccacgta aggctaaata tgaccccgag accgatagcg aacaagtacc
+      601 gtgagggaaa gttgaaaaga actttgaaga gagagttcaa gagtacgtga aactgtgtag
+      661 tggtaaacgg aggggctctc gaagctggcc tcagagattc aggttgacgt ctgggcggct
+      721 gtggcgtgtc tgatccgcga ggacagcgtg ctctggtctg ctcggtcggt ggctgcactt
+      781 ctctggggtt ttgcgcaacg aaccgctggt tgcggaacgt ggtgccgggt gaagtttgtt
+      841 gctgcttgca gtggcaagcc ccggttctct gtctctgcga tcggcgggta ctggagtcgg
+      901 cttgtatagc aagcaccttt gctggtgcgg tcggcatctc cgttgcgagt aggtcggtga
+      961 cccctccgac ccgtcttgaa acacggacca aggagtctaa catgtgtgcg agccattggg
+     1021 cgtactaaac ccaagggcgt agtgaaagcg aagggcacct ggtgtccgag gggcgatcct
+     1081 ttacaggcgc agccccggcg cttcgcatcg acctcgtatc gtgcggagca gcaagagcat
+     1141 acacgttggg acccgaaaga tggtgaacta tgcctggcca ggttgaagtc aggggaaacc
+     1201 ctgatggagg accgtagcga ttctgacgtg caaatcgatc gtcggagctg ggtatagggg
+     1261 cgaaagacta atcgaaccat ctagtagctg gttccttccg aagtttccct caggatagct
+     1321 ggcgctcgtg aacgagtttc atccggtaaa gcgaatgatt agaagtcttg gggacgaaac
+     1381 gtcctcaact tattctcaaa ctttaaatgg gtgagaagcg gggcttgctt aagtgaagcc
+     1441 tcgcaacgaa tcggagtgcc aagtgggcca tttttggtaa gcagaactgg cgctgtggga
+     1501 tgaaccaaac gccgggttaa agtgtccgag tgggcgctca tcagatccca tgaaaggtgt
+     1561 tggttgctta agacagcagg acggtggcca tggaagtcgg aatccgctaa ggagtgtgta
+     1621 acaactcacc tgccgaagca actagccctg aaaatggatg acgctaaagc gccccactca
+     1681 tacccggccg tcgaagcaga gcagaccctt gcggtcctga cgcttcgacg agtaggaagg
+     1741 tcgcaggggt ggcgcgaaag gcttttgggt gtgaacctgg ctggagccgc ccctggtgca
+     1801 gatcttggtg gtagtagcaa atactccaga gagtccctgg agggccgatg tggagaaggg
+     1861 tttcgtgtga acagccgttg aacacgagtc agtcgatcct aaggcttagg ggaagccttg
+     1921 atcaaacgcg tggtgtctaa gtgctaagct catgcttgca tgccacggtg atgccgaaag
+     1981 ggaatccggt ccatattccg gaacctcgta gcggaaccgt tcggaacctc gtatccgtcg
+     2041 tggcaacgcg acgcgactgg gagacgccgg ctggagccct gggaagagtt gtcttttctg
+     2101 cataagccgc cgaggccctc gaatcgtctc gcacggagaa tgggttttgg cttttggcga
+     2161 agagtgccga agttctctcg gcatccacgg gcacccagct ggaccttgaa aatcccaggg
+     2221 aggtgacggc ggactcgcac gagctcgtac ccatatccgc agcaggtctc caaggtgaac
+     2281 agcctctggt cgatagaata atgtaggtaa gggaagtcgg caaattggat ccgtaacttc
+     2341 gggataagga ttggctctga gggtcggggt ggccggsctc cgtgctggaa gcagctgtgc
+     2401 ccaccggcag gcctgggcga gtcctcggac gaacccggtc ctgttcacgg gcctctgtgg
+     2461 atggccgttg cttcgcggcc cctcttggca attcgcgttg tcagggggaa gccgttcggt
+     2521 caccgatcaa cgactgactc agaactggca cggacaaggg gaatccgact gtctaattaa
+     2581 aacaaagcat tgcgatggtc gaagcgcgat gttgacgcaa tgtgatttct gcccagtgct
+     2641 ctgaatgtca aagtgaagag attcgtccaa gcgcgggtaa acggcgggag taactatgac
+     2701 tctcttaagg tagccaaatg cctcgtcatc taattagtga cgcgcatgaa tggattaacg
+     2761 agattcccac tgtccctatc tactatctag cgaaaccgca gccaagggaa cggacttggg
+     2821 aagatcagcg gggaaagaag accctgttga gtttgactct agtctcctat tgtggcggag
+     2881 catctctggc gtagaatagg gaggaggctt cggccaacgg tgaaatactc ctacggagat
+     2941 cgctcctctg cttactcggt tgggcggaag tcggacactt cggtggccgt cttcttgact
+     3001 caactgcagc gcctttgtgc gctgcaggat ccgctccgag gacattgcga ggcggggagt
+     3061 ttgactgggg cggtacatct gtcaaatgat aacgcaggtg tcctaaggcc agctcagcgg
+     3121 ggacggaaac ctcgcgtaga gcaaaagggc aaatgctggc ttgacctctc ccttcagtat
+     3181 cgggcgagga gcagaaatgt cggcctatcg atcctcttta tttcggagtt tgaagaaaga
+     3241 ggtgtcagaa aaattaccac agggataact ggcttgtggc ggccaagcgt tcatagcgac
+     3301 gtcgcttttt gatccttcga tgtcggctct tcctatcatt gcgaagcaga attcgccaag
+     3361 cgtcggattg ttcacccgcc aatagggaac gtgagctggg tttagaccgt cgtgagacag
+     3421 gttagtttta ccctactgat gactcgtcgt tgcgacagta atcctgctca gtacgagagg
+     3481 aaccgcaggt tcggacattt ggtatacgta ctcggccgat cggccggtgg tgcgaagcta
+     3541 ccatccgtgg gattatgcct gaacgcctct aaggcagaat cccgtctggt cacggcaacg
+     3601 atatcgttgg acctcctgcc atgctcgggg aaggatagtc ttcggactcc gacccgatct
+     3661 cgggaacctt gctgttcggc ccaaagcgct gttcggctct cccgatcact cacctggcag
+     3721 ggtgggggtc ccaaatcgtc tgtagacgac ttatgtaccg gccggggtgt cgtacttggt
+     3781 agagcagcta ccacactgcg atctattgag actcagccct tctgactgga tgat
+//
+LOCUS       COP28s_ref018_indiv090_28s_full        3837 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  10 reads from ref018_indiv090_Cop28s assembled using Geneious.
+ACCESSION   urn.local...30y-ct4fodz
+VERSION     urn.local...30y-ct4fodz
+KEYWORDS    .
+SOURCE      Thermocyclops sp.
+  ORGANISM  Thermocyclops sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Cyclopoida; Cyclopidae; Thermocyclops.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Thermocyclops sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:342431"
+ORIGIN      
+        1 tgcggcgctg gctcgtccac cgcccatgtc tggctcaggg tcggttttgc atccctccca
+       61 ggaattgatt ttcctcgggc attgggctct cgcgaggcct ttcggcattg cgtggcttca
+      121 agtttcgagc gtatctgcct gcgacagact gctctgactc ttgggcttgt cccgagtctg
+      181 gcaagttgct ggtgatgcgt gctctgactg actgtcatcg atcggagcta ccactcaaat
+      241 ttcgacctga gagcaggcaa ggtgacccgc caaatttaag catattaata agcggaggaa
+      301 aagaaaacaa ctgtgatgcc cttagtaatg gcgaatgaaa cgggcagagc ccagcaccga
+      361 accgccagcc tttggttgcg tggaatgtgg tgtttggggg agcctcctcg cgacgattcg
+      421 gccagtcaaa gtccaccttg actggggcca cggcccgtag agggtgatag gcccgtaaga
+      481 cggctgagtc gttgtgctgg ctttccccta gagtcgagtt gcttgggagt gcagctcaaa
+      541 gttcgtggta aactccacgt aaggctaaat atgaccccga gaccgatagc gaacaagtac
+      601 cgtgagggaa agttgaaaag aactttgaag agagagttca agagtacgtg aaactgtgta
+      661 gtggtaaacg gaggggctct cgaagctggc ctcagagatt caggttgacg tctgggcggc
+      721 tgtggcgtgt ctgatccgcg aggacagcgt gctctggtct gctcggtcgg tggctgcact
+      781 tctctggggt tttgcgcaac gaaccgctgg ttgcggaacg tggtgccggg tgaagtttgt
+      841 tgctgcttgc agtggcaagc cccggttctc tgtctctgcg atcggcgggt actggagtcg
+      901 gcttgtatag caagcacctt tgctggtgcg gtcggcatct ccgttgcgag taggtcggtg
+      961 acccctccga cccgtcttga aacacggacc aaggagtcta acatgtgtgc gagccattgg
+     1021 gcgtactaaa cccaagggcg tagtgaaagc gaagggcacc tggtgtccga ggggcgatcc
+     1081 tttacaggcg cagccccggc gcttcgcatc gacctcgtat cgtgcggagc agcaagagca
+     1141 tacacgttgg gacccgaaag atggtgaact atgcctggcc aggttgaagt caggggaaac
+     1201 cctgatggag gaccgtagcg attctgacgt gcaaatcgat cgtcggagct gggtataggg
+     1261 gcgaaagact aatcgaacca tctagtagct ggttccttcc gaagtttccc tcaggatagc
+     1321 tggcgctcgt gaacgagttt catccggtaa agcgaatgat tagaagtctt ggggacgaaa
+     1381 cgtcctcaac ttattctcaa actttaaatg ggtgagaagc ggggcttgct taagtgaagc
+     1441 ctcgcaacga atcggagtgc caagtgggcc atttttggta agcagaactg gcgctgtggg
+     1501 atgaaccaaa cgccgggtta aagtgtccga gtgggcgctc atcagatccc atgaaaggtg
+     1561 ttggttgctt aagacagcag gacggtggcc atggaagtcg gaatccgcta aggagtgtgt
+     1621 aacaactcac ctgccgaagc aactagccct gaaaatggat gacgctaaag cgccccactc
+     1681 atacccggcc gtcgaagcag agcagaccct tgcggtcctg acgcttcgac gagtaggaag
+     1741 gtcgcagggg tggcgcgaaa ggcttttggg tgtgaacctg gctggagccg cccctggtgc
+     1801 agatcttggt ggtagtagca aatactccag agagtccctg gagggccgat gtggagaagg
+     1861 gtttcgtgtg aacagccgtt gaacacgagt cagtcgatcc taaggcttag gggaagcctt
+     1921 gatcaaacgc gtggtgtcta agtgctaagc tcatgcttgc atgccacggt gatgccgaaa
+     1981 gggaatccgg tccatattcc ggaacctcgt agcggaaccg ttcggaacct cgtatccgtc
+     2041 gtggcaacgc gacgcgactg ggagacgccg gctggagccc tgggaagagt tgtcttttct
+     2101 gcataagccg ccgaggccct cgaatcgtct cgcacggaga atgggttttg gcttttggcg
+     2161 aagagtgccg aagttctctc ggcatccacg ggcacccagc tggaccttga aaatcccagg
+     2221 gaggtgacgg cggactcgca cgagctcgta cccatatccg cagcaggtct ccaaggtgaa
+     2281 cagcctctgg tcgatagaat aatgtaggta agggaagtcg gcaaattgga tccgtaactt
+     2341 cgggataagg attggctctg agggtcgggg tggccgggct ccgtgctgga agcagctgtg
+     2401 cccaccggca ggcctgggcg agtcctcgga cgaacccggt cctgttcacg ggcctctgtg
+     2461 gatggccgtt gcttcgcggc ccctcttggc aattcgcgtt gtcaggggga agccgttcgg
+     2521 tcaccgatca acgactgact cagaactggc acggacaagg ggaatccgac tgtctaatta
+     2581 aaacaaagca ttgcgatggt cgaagcgcga tgttgacgca atgtgatttc tgcccagtgc
+     2641 tctgaatgtc aaagtgaaga gattcgtcca agcgcgggta aacggcggga gtaactatga
+     2701 ctctcttaag gtagccaaat gcctcgtcat ctaattagtg acgcgcatga atggattaac
+     2761 gagattccca ctgtccctat ctactatcta gcgaaaccgc agccaaggga acggacttgg
+     2821 gaagatcagc ggggaaagaa gaccctgttg agtttgactc tagtctccta ttgtggcgga
+     2881 gcatctctgg cgtagaatag ggaggaggct tcggccaacg gtgaaatact cctacggaga
+     2941 tcgctcctct gcttactcgg ttgggcggaa gtcggacact tcggtggccg tcttcttgac
+     3001 tcaactgcag cgcctttgtg cgctgcagga tccgctccga ggacattgcg aggcggggag
+     3061 tttgactggg gcggtacatc tgtcaaatga taacgcaggt gtcctaaggc cagctcagcg
+     3121 gggacggaaa cctcgcgtag agcaaaaggg caaatgctgg cttgacctct cccttcagta
+     3181 tcgggcgagg agcagaaatg tcggcctatc gatcctcttt atttcggagt ttgaagaaag
+     3241 aggtgtcaga aaaattacca cagggataac tggcttgtgg cggccaagcg ttcatagcga
+     3301 cgtcgctttt tgatccttcg atgtcggctc ttcctatcat tgcgaagcag aattcgccaa
+     3361 gcgtcggatt gttcacccgc caatagggaa cgtgagctgg gtttagaccg tcgtgagaca
+     3421 ggttagtttt accctactga tgactcgtcg ttgcgacagt aatcctgctc agtacgagag
+     3481 gaaccgcagg ttcggacatt tggtatacgt actcggccga tcggccggtg gtgcgaagct
+     3541 accatccgtg ggattatgcc tgaacgcctc taaggcagaa tcccgtctgg tcacggcaac
+     3601 gatatcgttg gacctcctgc catgctcggg gaaggatagt cttcggactc cgacccgatc
+     3661 tcgggaacct tgctgttcgg cccaaagcgc tgttcggctc tcccgatcac tcacctggca
+     3721 gggtgggggt cccaaatcgt ctgtagacga cttatgtacc ggccggggtg tcgtacttgg
+     3781 tagagcagct accacactgc gatctattga gactcagccc ttctgactgg atgattt
+//
+LOCUS       COP28s_ref019_indiv091_28s_full        3842 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref019_indiv091_Cop28s assembled using Geneious.
+ACCESSION   urn.local...355-ct4g0vw
+VERSION     urn.local...355-ct4g0vw
+KEYWORDS    .
+SOURCE      Thermocyclops sp.
+  ORGANISM  Thermocyclops sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Cyclopoida; Cyclopidae; Thermocyclops.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Thermocyclops sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:342431"
+ORIGIN      
+        1 tgcggcgtgg ttcgtccacc gcccatgtct ggctcagggt cggttttgca tccctcccag
+       61 gaattgattt tcctcgggca ttgggytctc gcgaggcctt tcggcattgc gtggcttcaa
+      121 gtttcgagcg tatctgcctg cgacagactg ctctgactct tgggcttgtc ccgagtctgg
+      181 caagttgctg gtgatgcgtg ctctgactga ctgtcatcga tcggagctac cactcaaatt
+      241 tcgacctgag agcaggcaag gtgacccgcc aaatttaagc atattaataa gcggaggaaa
+      301 agaaaacaac tgtgatgccc ttagtaatgg cgaatgaaac gggcagagcc cagcaccgaa
+      361 ccgccagcct ttggttgcgt ggaatgtggt gtttggggga gcctcctcgc gacgattcgg
+      421 ccagtcaaag tccaccttga ctggggccac ggcccgtaga gggtgatagg cccgtaagac
+      481 ggctgagtcg ttgtgctggc tttcccctag agtcgagttg cttgggagtg cagctcaaag
+      541 ttcgtggtaa actccacgta aggctaaata tgaccccgag accgatagcg aacaagtacc
+      601 gtgagggaaa gttgaaaaga actttgaaga gagagttcaa gagtacgtga aactgtgtag
+      661 tggtaaacgg aggggctctc gaagctggcc tcagagattc aggttgacgt ctgggcggct
+      721 gtggcgtgtc tgatccgcga ggacagcgtg ctctggtctg ctcggtcggt ggctgcactt
+      781 ctctggggtt ttgcgcaacg aaccgctggt tgcggaacgt ggtgccgggt gaagtttgtt
+      841 gctgcttgca gtggcaagcc ccggttctct gtctctgcga tcggcgggta ctggagtcgg
+      901 cttgtatagc aagcaccttt gctggtgcgg tcggcatctc cgttgcgagt aggtcggtga
+      961 cccctccgac ccgtcttgaa acacggacca aggagtctaa catgtgtgcg agccattggg
+     1021 cgtactaaac ccaagggcgt agtgaaagcg aagggcacct ggtgtccgag gggcgatcct
+     1081 ttacaggcgc agccccggcg cttcgcatcg acctcgtatc gtgcggagca gcaagagcat
+     1141 acacgttggg acccgaaaga tggtgaacta tgcctggcca ggttgaagtc aggggaaacc
+     1201 ctgatggagg accgtagcga ttctgacgtg caaatcgatc gtcggagctg ggtatagggg
+     1261 cgaaagacta atcgaaccat ctagtagctg gttccttccg aagtttccct caggatagct
+     1321 ggcgctcgtg aacgagtttc atccggtaaa gcgaatgatt agaagtcttg gggacgaaac
+     1381 gtcctcaact tattctcaaa ctttaaatgg gtgagaagcg gggcttgctt aagtgaagcc
+     1441 tcgcaacgaa tcggagtgcc aagtgggcca tttttggtaa gcagaactgg cgctgtggga
+     1501 tgaaccaaac gccgggttaa agtgtccgag tgggcgctca tcagatccca tgaaaggtgt
+     1561 tggttgctta agacagcagg acggtggcca tggaagtcgg aatccgctaa ggagtgtgta
+     1621 acaactcacc tgccgaagca actagccctg aaaatggatg acgctaaagc gccccactca
+     1681 tacccggccg tcgaagcaga gcagaccctt gcggtcctga cgcttcgacg agtaggaagg
+     1741 tcgcaggggt ggcgcgaaag gcttttgggt gtgaacctgg ctggagccgc ccctggtgca
+     1801 gatcttggtg gtagtagcaa atactccaga gagtccctgg agggccgatg tggagaaggg
+     1861 tttcgtgtga acagccgttg aacacgagtc agtcgatcct aaggcttagg ggaagccttg
+     1921 atcaaacgcg tggtgtctaa gtgctaagct catgcttgca tgccacggtg atgccgaaag
+     1981 ggaatccggt ccatattccg gaacctcgta gcggaaccgt tcggaacctc gtatccgtcg
+     2041 tggcaacgcg acgcgactgg gagacgccgg ctggagccct gggaagagtt gtcttttctg
+     2101 cataagccgc cgaggccctc gaatcgtctc gcacggagaa tgggttttgg cttttggcga
+     2161 agagtgccga agttctctcg gcatccacgg gcacccagct ggaccttgaa aatcccaggg
+     2221 aggtgacggc ggactcgcac gagctcgtac ccatatccgc agcaggtctc caaggtgaac
+     2281 agcctctggt cgatagaata atgtaggtaa gggaagtcgg caaattggat ccgtaacttc
+     2341 gggataagga ttggctctga gggtcggggt ggccgggctc cgtgctggaa gcagctgtgc
+     2401 ccaccggcag gcctgggcga gtcctcggac gaacccggtc ctgttcacgg gcctctgtgg
+     2461 atggccgttg cttcgcggcc cctcttggca attcgcgttg tcagggggaa gccgttcggt
+     2521 caccgatcaa cgactgactc agaactggca cggacaaggg gaatccgact gtctaattaa
+     2581 aacaaagcat tgcgatggtc gaagcgcgat gttgacgcaa tgtgatttct gcccagtgct
+     2641 ctgaatgtca aagtgaagag attcgtccaa gcgcgggtaa acggcgggag taactatgac
+     2701 tctcttaagg tagccaaatg cctcgtcatc taattagtga cgcgcatgaa tggattaacg
+     2761 agattcccac tgtccctatc tactatctag cgaaaccgca gccaagggaa cggacttggg
+     2821 aagatcagcg gggaaagaag accctgttga gtttgactct agtctcctat tgtggcggag
+     2881 catctctggc gtagaatagg gaggaggctt cggccaacgg tgaaatactc ctacggagat
+     2941 cgctcctctg cttactcggt tgggcggaag tcggacactt cggtggccgt cttcttgact
+     3001 caactgcagc gcctttgtgc gctgcaggat ccgctccgag gacattgcga ggcggggagt
+     3061 ttgactgggg cggtacatct gtcaaatgat aacgcaggtg tcctaaggcc agctcagcgg
+     3121 ggacggaaac ctcgcgtaga gcraaagggc aaatgctggc ttgacctctc ccttcagtat
+     3181 cgggcgagga gcagaaatgt cggcctatcg atcctcttta tttcggagtt tgaagaaaga
+     3241 ggtgtcagag aaattaccac agggataact ggcttgtggc grmcaagcgt tcatagcgac
+     3301 gtcgcttttt gatccttcga tgtcggctct tcctatcatt gcgaagcaga attcgccaag
+     3361 cgtcggattg ttcacccgcc aatagggaac gtgagctggg tttagaccgt cgtgagacag
+     3421 gttagtttta ccctactgat gactcgtcgt tgcgacagta atcctgctca gtacgagagg
+     3481 aaccgcaggt tcggacattt ggtatacgta ctcggccgat cggccggtgg tgcgaagcta
+     3541 ccatccgtgg gattatgcct gaacgcctct aaggcagaat cccgtctggt cacggcaacg
+     3601 atatcgttgg acctcctgcc atgctcgggg aaggatagtc ttcggactcc gacccgatct
+     3661 cgggaacctt gctgttcggc ccaaagcgct gttcggctct cccgatcact cacctggcag
+     3721 ggtgggggtc ccaaatcgtc tgtagacgac ttatgtaccg gccggggtgt cgtacttggt
+     3781 agagcagcta ccacactgcg atctattgag actcagccct tctgactgga tgatttgtct
+     3841 tg
+//
+LOCUS       COP28s_ref021_indiv095_28s_partial        2779 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  7 reads from ref021_indiv095_Cop28s assembled using Geneious.
+ACCESSION   urn.local...38k-ct4gmmg
+VERSION     urn.local...38k-ct4gmmg
+KEYWORDS    .
+SOURCE      Eudiaptomus sp.
+  ORGANISM  Eudiaptomus sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Calanoida; Diaptomidae; Eudiaptomus.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Eudiaptomus sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:251516"
+ORIGIN      
+        1 gactaaacct agcggcgcag tgaaagcaaa gagttgcttg cagctcgagg gacgacgtgc
+       61 aaaccgcagt cccgcgattt ccaatcaacc tcgcwttgtt gggaatacgc agagcataga
+      121 tgttgggacc cgaaagatgg tgaactatgc ctggccaggt tgaagtcagg ggaaaccctg
+      181 atggaggacc gtagcgattc tgacgtgcaa atcgatcgtc ggagctgggt ataggggcga
+      241 aagactaatc gaaccatcta gtagctggtt cctgtcgaag tttccctcag gatagctggc
+      301 gctttttaac gagtttcatc cggtaaagcg aatgattaga agcattgggg gcgaaacgcc
+      361 ctcaacttat tctcaaactt taaatgggtg agaagtctgt gttgcttgag tgaactcaga
+      421 cactgaatcg gagtgcctag tgggccattt ttggtaagca gaactggcgc tgtgggatga
+      481 accaaacgcg aggttaaagt gccaaaatgg aagctcatca gatcccacga aaggtgttgg
+      541 ttgcttaaga cagcaggacg gtggccatgg aagtcggaat ccgctaagga gtgtgtaaca
+      601 actcacctgc cgaagcaact agccctgaaa atggatggcg ctaaagcttc ctacttatac
+      661 ctcgccgttc agttagagct gggcttccga gccccccaca actgaacgag taggcaggtc
+      721 gaaccggtgg cgcggaaggc tctgggtgtg aacctggctg gagccgccgg ttgtgcagat
+      781 cttggtggta gtagcaaata ctccagagag gccctggagg accgatgtgg agaagggttt
+      841 cgtgtgaaca gccgttgaac acgagtcagt cggtcctaag gcttagggga agccttgttt
+      901 aatagtgcga ttttcttgcc aaaagaactc gcatcgacag ccgaaaggga atgaggtcca
+      961 tattcctcaa ccgggcagcg taactgtttg ggccctcgta cccaacatgg caacatgaaa
+     1021 tgactctgag acgcccgccg gagctctggg aagagttgtc ttttctgcat aagctgccga
+     1081 ggccctggaa ttcctttgag gagagaatgg gttttggttt agccaagagc acagcagttc
+     1141 tcgctgtgtc catgagtgcc cggtgggacc ttgaaaatca gagtgagggt tacagcgatt
+     1201 cgcgcccgtc cgtacccata tccgcagcag gtctcctagg tgaatagcct ctggtcgata
+     1261 gaataatgta ggtaagggaa gtcggcaaat tggatccgta acttcgggat aaggattggc
+     1321 tctgaaggcc ggggtgtttg ggctctgtac tggaagcagt cggcttaccg gcgggcctgg
+     1381 ccgaatcttt tgggtaaagt cggtcccgtt tcacaagcta ctgtggatag tcattgcttc
+     1441 gcaggctcgg gcaaccgatg tcctgttcaa gcatcgatta acggctaatt cagaactggc
+     1501 acggacaagg ggaatccgac tgtttaatta aaacaaagca ttgcgatggt cagagaatga
+     1561 tgttgacgca atgtgatttc tgcccagtgc tctgaatgtc aaagtgaaga ggttcgtcca
+     1621 agcgcgggta aacggcggga gtaactatga ctctcttaag gtagccaaat gcctcgccat
+     1681 ctaattagtg gcgcgcatga atggattaac gagattccca ctgtccctat ctactatcta
+     1741 gcgaaaccgc agccaaggga acggacttgg gaaaatcagc ggggaaagaa gaccctgttg
+     1801 agcttgactc tagtctccta ttgtggcgga gcatttctgg cgtagaatag ggaggagcct
+     1861 cacggcgaca gtgaaatact cctacggaaa tcgctcctct gcttactcgg ttaggcgaag
+     1921 ttaggacctt cgggccctat ttcttgaatc aaacgggcgt gctctgcatg cccgtgattc
+     1981 gctccgagga cattgcgagg cggggagttt gactggggcg gtacatctgt caaatgataa
+     2041 cgcaggtgtc ctaagggcag ctcagtgagg acggaaacct cacgtagaac aaaagggtaa
+     2101 aagctgcctt gacttttccc ttcagtacgg ggcaaagagc agaaatgtcg gcctatcgat
+     2161 cctctttatt tcggagtttg aagaaagagg tgtcagaaaa gttaccacag ggataactgg
+     2221 cttgtggccg ccaagcgttc atagcgacgt ggctttttga tccttcgatg tcggctcttc
+     2281 ctatcattca gaagcagaat tctgatagtg tcggattgtt cacccgccaa tagggaacgt
+     2341 gagctgggtt tagaccgtcg tgagacaggt tagttttacc ctactgatta ctggaagttg
+     2401 cgatagtaat cctgctcagt acgagaggaa ccgcaggttc ggacatttgg tacacgttct
+     2461 tgggcgatag cccagtggag cgaagctacc atccgtggga ttatgcctga acgcctctaa
+     2521 ggcagaaacc cgcctagaca tggcaacttt attgttgggc ctgatttctg tgcggggaag
+     2581 gataggcgta agcctccatc ccagagtcag gagccggact tgtgcctgaa gcgcgcctgt
+     2641 ccgtcctgat cactcattta gcagagttcg ggtcccaaat cgtttgtaga cgacttatgt
+     2701 accggccgag gtgtcgtact tggtagagca gctaccacac tgcgatctat tgagactcat
+     2761 ccttttgact gaaagattt
+//
+LOCUS       COP28s_ref022_indiv096_28s_full        3805 bp    DNA     linear   UNA 24-DEC-2020
+DEFINITION  8 reads from ref022_indiv096_Cop28s assembled using Geneious.
+ACCESSION   urn.local...3bl-ct4gvr8
+VERSION     urn.local...3bl-ct4gvr8
+KEYWORDS    .
+SOURCE      Eudiaptomus sp.
+  ORGANISM  Eudiaptomus sp.
+  			Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Crustacea; Maxillopoda; Copepoda; Calanoida; Diaptomidae; Eudiaptomus.
+FEATURES             Location/Qualifiers
+     source          1..3782
+                     /organism="Eudiaptomus sp."
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:251516"
+ORIGIN      
+        1 tgcgacatgg cttgttgcat gtccatgttg gttcagggtc ggttaaacat ccatcagaac
+       61 gctctgcgtt ctgccctggg ctgtcccacc tccttaacgg gaggcgggtg gcctcaagtt
+      121 gacttgtgca gtgctctgcc gaatgactct tgggtcgtaa aaagcctggg tcttagcaga
+      181 caagccttca caggggatcg gctgccgttg taagcgcggc agctgtacca attttctctt
+      241 tcgacctgac atcaagcaag actacccgcc gaatttaagc atattaataa gcggaggaaa
+      301 agaaaacaac tgtgattccc ttagtaatgg cgaatgaaac gggaagagcc catcgtcgaa
+      361 tcgcaagtcg ttctggcttt gcgaaatgtg acgtttggga gggtcttcca cggctcagac
+      421 gaccagtcaa agtccaactt gacagtggcc acagtccata gagggtgata ggcccgtaag
+      481 gcggttgtct ggccgtgctg acctctctct agagtcggat tgcttgggag tgcagtccaa
+      541 agtgcgaggt aaactcctcg taaggctaaa tataaccccg agaccgatag caaacaagta
+      601 cagtgatgga aaattgaaaa gaactttgaa gagagagtta agagtacgtg aaactgtgtg
+      661 gtggtaaacg gaggcgttct cgaagtgtcc gcgggggact caggcttggt ggcgggcagc
+      721 cggcgggtgg tgatcagcaa tgactccgcc cgttgtgcag gcttgcctcc cggccgcact
+      781 ttccccgtgg ttgacggcag gaactgttgg gatcggacct aaggcctggg atgaagttgc
+      841 ttgccctcac gggctttcag ctcccggtgt cctggcttcg gacccgacag gtcacgagtg
+      901 gacttgtata gcaagcgaca gcctgttgcg gttcacctct ctctgccgag taggtcggtg
+      961 gcgcctccga cccgtcttga aacacggacc aaggagtcta acatgtatgc gagccattgg
+     1021 gttgactaaa cctagcggcg cagtgaaagc aaagagttgc ttgcagctcg agggacgacg
+     1081 tgcaaaccgc agtcccgcga tttccaatca acctcgcatt gttgggaata cgcagagcat
+     1141 agatgttggg acccgaaaga tggtgaacta tgcctggcca ggttgaagtc aggggaaacc
+     1201 ctgatggagg accgtagcga ttctgacgtg caaatcgatc gtcggagctg ggtatagggg
+     1261 cgaaagacta atcgaaccat ctagtagctg gttcctgtcg aagtttccct caggatagct
+     1321 ggcgcttttt aacgagtttc atccggtaaa gcgaatgatt agaagcattg ggggcgaaac
+     1381 gccctcaact tattctcaaa ctttaaatgg gtgagaagtc tgtgttgctt gagtgaactc
+     1441 agacactgaa tcggagtgcc tagtgggcca tttttggtaa gcagaactgg cgctgtggga
+     1501 tgaaccaaac gcgaggttaa agtgccaaaa tggaagctca tcagatccca cgaaaggtgt
+     1561 tggttgctta ngacagcagg acggtggcca tggaagtcgg aatccgctaa ggagtgtgta
+     1621 acaactcacc tgccgaagca actagccctg aaaatggatg gcgctaaagc ttcctactta
+     1681 tacctcgccg ttcagttaga gctgggcttc cgagcccccc acaactgaac gagtaggcag
+     1741 gtcgaaccgg tggcgcggaa ggctctgggt gtgaacctgg ctggagccgc cggttgtgca
+     1801 gatcttggtg gtagtagcaa atactccaga gaggccctgg aggaccgatg tggagaaggg
+     1861 tttcgtgtga acagccgttg aacacgagtc agtcggtcct aaggcttagg ggaagccttg
+     1921 tttaatagtg cgattttctt gccaaaagaa ctcgcatcga cagccgaaag ggaatgaggt
+     1981 ccatattcct caaccgggca gcgtaactgt ttgggccctc gtacccaaca tggcaacatg
+     2041 aaatgactct gagacgcccg ccggagctct gggaagagtt gtcttttctg cataagctgc
+     2101 cgaggccctg gaattccttt gaggagagaa tgggttttgg tttagccaag agcacagcag
+     2161 ttctcgctgt gtccatgagt gcccggtggg accttgaaaa tcagagtgag ggttacagcg
+     2221 attcgcgccc gtccgtaccc atatccgcag caggtctcct aggtgaatag cctctggtcg
+     2281 atagaataat gtaggtaagg gaagtcggca aattggatcc gtaacttcgg gataaggatt
+     2341 ggctctgaag gccggggtgt ttgggctctg tactggaagc agtcggctta ccggcgggcc
+     2401 tggccgaatc ttttgggtaa agtcggtccc gtttcacaag ctactgtgga tagtcattgc
+     2461 ttcgcaggct cgggcaaccg atgtcctgtt caagcatcga ttaacggcta attcagaact
+     2521 ggcacggaca aggggaatcc gactgtttaa ttaaaacaaa gcattgcgat ggtcagagaa
+     2581 tgatgttgac gcaatgtgat ttctgcccag tgctctgaat gtcaaagtga agaggttcgt
+     2641 ccaagcgcgg gtaaacggcg ggagtaacta tgactctctt aaggtagcca aatgcctcgc
+     2701 catctaatta gtggcgcgca tgaatggatt aacgagattc ccactgtccc tatctactat
+     2761 ctagcgaaac cgcagccaag ggaacggact tgggaaaatc agcggggaaa gaagaccctg
+     2821 ttgagcttga ctctagtctc ctattgtggc ggagcatttc tggcgtagaa tagggaggag
+     2881 cctcacggcg acagtgaaat actcctacgg aaatcgctcc tctgcttact cggttaggcg
+     2941 aagttaggac cttcgggccc tatttcttga atcaaacggg cgtgctctgc atgcccgtga
+     3001 ttcgctccga ggacattgcg aggcggggag tttgactggg gcggtacatc tgtcaaatga
+     3061 taacgcaggt gtcctaaggg cagctcagtg aggacggaaa cctcacgtag aacaaaaggg
+     3121 taaaagctgc cttgactttt cccttcagta cggggcaaag agcagaaatg tcggcctatc
+     3181 gatcctcttt atttcggagt ttgaagaaag aggtgtcaga aaagttacca cagggataac
+     3241 tggcttgtgg ccgccaagcg ttcatagcga cgtggctttt tgatccttcg atrtcggctc
+     3301 ttcctatcat tcagaagcag aattctgata gtgtcggatt gttcacccgc caatagggaa
+     3361 cgtgagctgg gtttagaccg tcgtgagaca ggttagtttt accctactga ttactggaag
+     3421 ttgcgatagt aatcctgctc agtacgagag gaaccgcagg ttcggacatt tggtacacgt
+     3481 tcttgggcga tagcccagtg gagcgaagct accatccgtg ggattatgcc tgaacgcctc
+     3541 taaggcagaa acccgcctag acatggcaac tttattgttg ggcctgattt ctgtgcgggg
+     3601 aaggataggc gtaagcctcc atcccagagt caggagccgg acttgtgcct gaagcgcgcc
+     3661 tgtccgtcct gatcactcat ttagcagagt tcgggtccca aatcgtttgt agacgactta
+     3721 tgtaccggcc gaggtgtcgt acttggtaga gcagctacca cactgcgatc tattgagact
+     3781 catccttttg actgaaagat tgygt
+//
