@@ -6,7 +6,10 @@ This repository contains all codes and files necessary to process and visualise 
 
 If you would like to replicate the results of the study, it is recommended not to change directories of the files, as some are sourced in the scripts using their present locations.
 
-## Supplementary Datasets
+### Raw sequence files
+Raw sequence data are deposited as fastq.gz files to the European Nucleotide Archive (ENA) under the project accession PRJEB61101.
+
+### Supplementary Datasets
 Supplementary Dataset 1: Sedimentological data of selected sediment samples. Deposited as ./06_PCA_RDA/surfsedi_sedimentological_data.txt
 
 Supplementary Dataset 2: Trait tables of taxa in the eukaryote dataset assigned from Bundestaxaliste der Gewässerorganismen Deutschlands (BTL)4 and manually. Deposited as ./10_add_trait/euk_trait_manual.xlsx
