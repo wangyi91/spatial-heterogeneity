@@ -1,7 +1,6 @@
 
 # RDA using sedimentological data as explanatory variables
 
-#library(ade4)
 library(vegan)
 library(factoextra) # to vis PCA
 library(metabaR)
