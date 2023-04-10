@@ -26,8 +26,8 @@ plot_infoflora_distribution <- function(df, tab){
     labs(size="Number of observations") +
     theme(legend.position="bottom") +
     ggtitle(bquote(paste(~italic(.(df$genus))~italic(.(df$species)), sep=" "))) + 
-    xlab("°E") +
-    ylab("°N") +
+    xlab("° E") +
+    ylab("° N") +
     theme(
       plot.title = element_text(colour = "#87a96b", size=25)
     )
