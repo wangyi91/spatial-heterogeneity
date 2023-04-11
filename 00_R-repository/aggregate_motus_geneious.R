@@ -55,7 +55,7 @@ aggregate_motus_geneious <- function(dt, tax_name){
   system(paste(
     "geneious -i ",
     tax_name,
-    ".fasta -w ./07_heatmaps/run.geneiousWorkflow -o ",
+    ".fasta -w ./07_heatmaps/test.geneiousWorkflow -o ",
     tax_name,
     ".nex", sep=""))
   
