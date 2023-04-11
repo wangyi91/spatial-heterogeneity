@@ -43,7 +43,7 @@ make_new_tree_geneious<- function(dt, tax_name) {
   system(paste(
     "geneious -i ",
     tax_name,
-    "_new.fasta -w ./08_heatmaps/test.geneiousWorkflow -o ",
+    "_new.fasta -w ./07_heatmaps/run.geneiousWorkflow -o ",
     tax_name,
     "_new.nex", sep=""))
   
