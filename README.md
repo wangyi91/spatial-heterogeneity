@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/551948257.svg)](https://zenodo.org/badge/latestdoi/551948257)
 # spatial-heterogeneity
 
 This repository contains all codes and files necessary to process and visualise data in the study:
