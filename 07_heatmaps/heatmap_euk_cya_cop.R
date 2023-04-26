@@ -76,7 +76,7 @@ rownames(dt_st$pcrs) <- rownames(dt_geneious$pcrs)
 dt_st$pcrs$sample_id <- dt_st$pcrs$site
 
 # load the new 'samples' table: sites
-sites<- read.table("./03_metabaR/surfsedi_sites.txt", header=T, sep='\t')
+sites<- read.table("./02_metabaR/surfsedi_sites.txt", header=T, sep='\t')
 rownames(sites) <- sites$site
 dt_st$samples <- sites
 
