@@ -3,8 +3,8 @@
 
 This repository contains all codes and files necessary to process and visualise data in the study:
 
-*Wang, Y., Wessels, M., Pedersen, M.W., & Epp, L.S. (2022). Spatial distribution of sedimentary DNA is taxon-specific and linked to local occurrence at intra-lake scale.* 
-Preprint: https://doi.org/10.21203/rs.3.rs-2233464/v1
+*Wang, Y., Wessels, M., Pedersen, M.W., & Epp, L.S. (2023). Spatial distribution of sedimentary DNA is taxon-specific and linked to local occurrence at intra-lake scale.* 
+10.1038/s43247-023-00829-y
 
 If you would like to replicate the results of the study, it is recommended not to change directories of the files, as some are sourced in the scripts using their present locations.
 
